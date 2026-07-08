@@ -1,0 +1,97 @@
+---
+name: livestream-and-realtime
+description: >-
+  The live + realtime-format skill -- plan, promote, run, and repurpose livestreams and realtime moments (IG
+  Live, TikTok LIVE, YouTube Live, LinkedIn Live, X, live shopping). Use when someone wants to plan a
+  livestream, go live, run a live Q&A/AMA, do live shopping, or repurpose a live recording. Live is the "human
+  premium" in an AI-saturated feed, but the value is the event around it: the promo that gets people there, the
+  live engagement that makes it feel like an event, and the repurposing that turns one live into weeks of
+  short-form. Uses the STAGE framework. Reads brand-profile + the live's goal/audience first. The agent plans
+  the live (format/platform pick + run-of-show), writes + schedules the pre-live promo (via WoopSocial),
+  advises the live-engagement playbook (the human runs the broadcast natively), and plans the repurposing
+  (recording -> clips -> scheduled via WoopSocial). WoopSocial does NOT broadcast/run the live (it's native),
+  do realtime comments/moderation, or run live shopping -- it schedules the promo posts and publishes the
+  repurposed clips. Never fabricate viewer numbers or buy fake live views. Promote-before + repurpose-after is
+  where WoopSocial adds value. Distinct from community-management (ongoing community + native live moderation),
+  engagement-routine (daily cadence), campaign-and-launch-planning (the multi-post arc), captions-and-clipping
+  (the clip craft it routes to), and reels-script/tiktok-script (scripted short video).
+version: 1.0.0
+---
+
+# livestream-and-realtime
+
+The **live-event format** skill — plan → promote → run → repurpose. The agent **plans the live + schedules the
+promo + advises the live playbook + plans the repurpose**; **WoopSocial schedules the promo + publishes the
+clips**; **the broadcast + realtime engagement + live shopping are native/human.**
+
+## The POV: live is the human premium — but the value is the event around it
+Live is real-time, unedited, trust-building. But a broadcast with **no promo and no repurposing is a one-time
+blip.** The compounding value is the **promo that gets people there**, the **live engagement** that makes it
+feel like an event (not a broadcast), and the **repurposing** that turns one live into weeks of short-form.
+**WoopSocial can't run the live** (it's native — you go live in-app) — but it **schedules the promo +
+publishes the repurposed clips**, which is where most of that value sits.
+
+## Read these first
+1. **brand-profile** — voice/goal.
+2. the **live's goal + audience.**
+
+## The framework: STAGE
+(Depth: `references/the-stage-framework.md`.)
+- **S — Scope the format, platform + goal:** YouTube (evergreen/replay) · TikTok/IG (vertical + live shopping)
+  · LinkedIn (B2B) · X (realtime); mind thresholds (**IG/TikTok ~1,000 followers**).
+- **T — Tee up the run-of-show:** hook + pinned topic → 5–7 pre-submitted Qs (Q&A sticker) → CTA; guest/collab
+  (both Stories bars); tech check (lighting/audio/**≥10 Mbps**).
+- **A — Announce + promote before:** schedule the Live (notification + reminder) + teaser/countdown/BTS —
+  **scheduled via WoopSocial**; the go-live is native.
+- **G — Go live + engage (human/native):** greet joiners by name, address comments, recap for late joiners;
+  live shopping pins/CTAs/flash discounts; keyword-to-DM (→ `social-selling-and-dm`). **WoopSocial can't run
+  this.**
+- **E — Extract + repurpose:** recording → clips (→ `captions-and-clipping`) → **scheduled via WoopSocial** +
+  replay (→ `content-recycling`/`cross-platform-repurposing`). **One live → a multi-phase campaign.**
+
+## The reality (verify-quarterly)
+IG Live (public + ~1,000 followers; schedule 1hr–90d; guests/moderator; save+replay; Live Shopping; 4K
+vertical; desktop limited); TikTok LIVE (~1,000 followers; unlimited; algorithm pushes beyond followers;
+shopping); YouTube Live (evergreen discovery/replay/search; mobile ~50+ subs; Dual Streaming); LinkedIn Live
+(B2B, via approved tools); X (verified, viral reposts). Live shopping ~$55B 2026, up to ~10× conversion, ~60%
+buy during/after (pin products/CTAs, flash discounts, demos). Run-of-show: hook + pinned topic → 5–7
+pre-submitted Qs (Q&A sticker) → greet by name + recap → CTA; collab Lives hit both Stories bars; tech zero-
+patience (light/audio/≥10 Mbps). Promote before (schedule + teaser/countdown) + repurpose after (clips +
+replay) = the schedulable value; keyword-to-DM captures intent: `references/livestream-2026-reality.md`. The
+platform-pick table, run-of-show template, promo cadence, live playbook, repurposing pipeline + worked
+examples: `references/plan-promote-repurpose.md`.
+
+## Honest scope (never violate)
+- **The agent** plans the **format/platform + run-of-show**, **schedules the pre-live promo**, **advises the
+  live playbook** (the human runs the broadcast), and **plans the repurposing.**
+- **WoopSocial** schedules the **promo posts** + publishes the **repurposed clips/replay.** It does **NOT**
+  broadcast/run the live (native), do **realtime comments/moderation**, or run **live shopping.**
+- The **broadcast + realtime engagement + live shopping** are **native/human.** **Never fabricate viewer
+  numbers; never buy fake live views.** Promote-before + repurpose-after is the WoopSocial value. (Scope,
+  distinctions + connections: `references/scope-and-connections.md`.)
+
+## Distinct from its siblings (route correctly)
+**livestream-and-realtime (this)** = the live-event format (plan/promote/run/repurpose) · **community-
+management** = ongoing community + **native live moderation** · **engagement-routine** = daily cadence ·
+**campaign-and-launch-planning** = the multi-post arc (a live is a beat) · **captions-and-clipping** = the
+clip craft (repurpose routes there) · **content-recycling**/**cross-platform-repurposing** = the reuse axes ·
+**social-selling-and-dm**/**lead-magnets-and-funnels** = the keyword-to-DM capture · **reels-script**/
+**tiktok-script** = scripted short video.
+
+## Where this connects
+Reads first: **brand-profile** + the **live's goal/audience.** Promo + repurpose via: **scheduling-and-queue →
+WoopSocial** (schedule the promo; publish the clips). Repurposing routes to: **captions-and-clipping** (clips),
+**content-recycling**/**cross-platform-repurposing** (replay + reuse), **youtube-publishing-and-metadata** (the
+replay as a video). Capture routes to: **social-selling-and-dm**/**lead-magnets-and-funnels** (keyword-to-DM).
+Native moderation during the live: **community-management**. A live as a launch beat: **campaign-and-launch-
+planning**. Measure with: native live analytics + **analytics-and-reporting** (never fabricated).
+
+## Definition of done
+A live planned end-to-end: the platform + goal scoped (with follower thresholds noted), a run-of-show ready
+(hook + pinned topic, 5–7 pre-submitted Qs, CTA, guest, tech check), the pre-live promo cadence scheduled via
+WoopSocial (announce → teaser → countdown → reminder), a live-engagement playbook the human runs natively
+(greet by name, address comments, recap for late joiners, live shopping pins/CTAs, keyword-to-DM to capture
+intent), and a repurposing pipeline (recording → clips via captions-and-clipping → scheduled via WoopSocial +
+replay) that turns one live into a multi-phase campaign; the broadcast/realtime engagement/live shopping left
+as native/human; no viewer numbers fabricated and no fake views; correctly distinguished from
+community-management, campaign-and-launch-planning, and captions-and-clipping.
