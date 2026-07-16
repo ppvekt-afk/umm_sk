@@ -16,19 +16,21 @@ everything's ready, gets it posted, on your explicit go.
   analytics: 106 skills across 14 topics that know about each other and hand work to the right
   specialist, from brand foundation to published post.
 
+> ⭐ **If this is useful, star the repo** — it's how these skills reach more agents.
+
 ## Quick start
 
-**One command (recommended)** — the [skills CLI](https://github.com/vercel-labs/skills) installs
-into whatever agent you use:
+**One command (recommended)** — the [skills CLI](https://github.com/vercel-labs/skills). For
+Claude Code, this installs all 106 skills globally, no prompts:
 
 ```bash
-npx skills add social-media-skills/skills
+npx skills add social-media-skills/skills -g -a claude-code -s '*' -y
 ```
 
-Run it interactively and pick your agent(s) when prompted — that ensures skills land where your
-agent actually reads them (e.g. `~/.claude/skills/` for Claude Code), not only in the generic
-`.agents/skills/` directory. Alternatively, [SkillKit](https://www.npmjs.com/package/skillkit)
-installs across 40+ agents:
+For a different agent, swap `-a claude-code` (or `-a '*'` for every agent you have; run plain
+`npx skills add social-media-skills/skills` for the interactive picker). One skill only: use
+`-s reels-script` instead of `-s '*'`. Alternatively,
+[SkillKit](https://www.npmjs.com/package/skillkit) installs across 40+ agents:
 
 ```bash
 npx skillkit install social-media-skills/skills
@@ -319,3 +321,5 @@ evals). Every skill-name mention must resolve to a real skill directory.
 
 MIT — maintained by Frank Heijdenrijk and the team behind
 [WoopSocial](https://woopsocial.com).
+
+⭐ **Made it this far? Star the repo** — it helps more people find these skills.
