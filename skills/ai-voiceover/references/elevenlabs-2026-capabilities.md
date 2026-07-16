@@ -43,8 +43,8 @@ Agents Platform (real-time voice bots — mostly dev-facing).
 1 char = 1 credit (Multilingual v2/v3); Flash/Turbo ~0.5/char; one shared pool; roll over up to
 2 months; API draws the same pool (no extra charge), list ~$0.10/1k chars (v2/v3), $0.05 (Flash).
 - Free: ~10k credits (~10 min); **no commercial license; must attribute ElevenLabs.**
-- Starter $5: ~30k credits; commercial rights; **IVC**. Creator $22: ~100k+; **PVC**; 192kbps.
-- Pro $99: ~500k; 44.1kHz PCM via API. Business: 11M credits, low-latency TTS, PVC org-wide.
+- Starter $6: ~30k credits; commercial rights; **IVC**. Creator $22: ~121k; **PVC**; 192kbps.
+- Pro $99: ~600k; 44.1kHz PCM via API. Higher tiers (Scale/Business) for volume + org-wide PVC.
 
 ## Ethics (enforced by this skill)
 Clone your own voice freely; **cloning anyone else needs documented consent**; no celebrity

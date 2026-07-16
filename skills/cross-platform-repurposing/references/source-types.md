@@ -46,7 +46,7 @@ Pick the formats that suit the atom and the platforms; don't force all four.
   build native text posts. Don't dump a transcript; transcripts aren't posts.
 - **Text → video:** hand the atom to `reels-script` to build it *as a video* (hook + beats +
   shots). Don't read the caption aloud over a static image.
-- **Long video → clips:** see `podcast-video-to-clips` for cutting clips; pair each clip with a
+- **Long video → clips:** see `captions-and-clipping` for cutting clips; pair each clip with a
   native caption.
 
 ## Across time (recycle)

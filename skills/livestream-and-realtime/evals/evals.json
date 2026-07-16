@@ -20,7 +20,7 @@
       "context": "brand-profile + a goal exist.",
       "expect": [
         "Pulls brand-profile + the live's goal/audience before planning",
-        "Picks the platform by goal (YouTube evergreen / TikTok+IG vertical+shopping / LinkedIn B2B / X realtime)",
+        "Picks the platform by goal (YouTube evergreen / TikTok vertical + TikTok Shop live shopping / IG vertical community / LinkedIn B2B / X realtime, Premium-only)",
         "Plans promo before and repurposing after, not just the broadcast",
         "Notes the broadcast itself is native/human"
       ]
@@ -40,7 +40,7 @@
       "input": "How do I actually run it, and can I sell on it?",
       "expect": [
         "Gives the live playbook (greet joiners by name, address comments, recap for late joiners, Q&A sticker, keep energy)",
-        "Covers live shopping (pin products/CTAs, flash discounts, real-time demos; ~60% buy during/after, up to ~10x conversion)",
+        "Covers live selling platform-honestly: native product pins on TikTok Shop LIVE / YouTube; on IG native live shopping was discontinued (Mar 2023), so a pinned comment + keyword-to-DM; flash discounts, real-time demos (~60% buy during/after, up to ~10x conversion — attribute)",
         "Suggests keyword-to-DM to capture buying intent during the live -> social-selling-and-dm",
         "Notes the human runs all of this natively in-app"
       ]

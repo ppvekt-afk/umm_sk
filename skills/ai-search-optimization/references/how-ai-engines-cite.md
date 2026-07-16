@@ -18,11 +18,13 @@ even when nobody visits your site.
 ## How the answer gets built (RAG + fan-out)
 
 1. **Retrieval-augmented generation (RAG).** Most AI search supplements training data with **live web
-   retrieval**: ChatGPT browses via Bing's index, Google AI Overviews pull from Google's index,
-   Perplexity searches the live web every query. **Implication (the lever most guides miss): if you
-   rank in Bing, ChatGPT is more likely to surface you; if you rank in Google, AI Overviews are more
-   likely to cite you.** Classic + social search ranking **feeds** AI retrieval → this is why
-   `social-seo` is the foundation, not a separate track.
+   retrieval**: ChatGPT retrieves via **OpenAI's own crawler + index (OAI-SearchBot)** — it was
+   historically Bing-seeded and Bing rank still correlates; Google AI Overviews/AI Mode pull from
+   Google's index; Perplexity searches the live web every query. **Implications (the levers most
+   guides miss): search rank feeds AI citation, and the retrieval crawlers must be able to reach you
+   — robots.txt or CDN bot-protection (Cloudflare et al. block AI bots by default on many sites)
+   silently removes you from the candidate pool.** Classic + social search ranking **feeds** AI
+   retrieval → this is why `social-seo` is the foundation, not a separate track.
 2. **Query fan-out.** The engine breaks the question into **sub-queries** and searches each. "Best VPN
    for Netflix in Europe" → "best VPN 2026" + "VPN Netflix streaming" + "VPN Europe servers." So you
    optimize for the **constellation of sub-questions** around a topic, not one phrase. (This is the
@@ -52,8 +54,9 @@ a small slice of the problem. What gets cited:
 
 Citation logic differs sharply by engine, and overlap between them is low:
 
-- **ChatGPT** (largest share) — Bing-fed retrieval + training data; skews **Wikipedia** + well-sourced
-  authoritative content; rewards clear expertise signals.
+- **ChatGPT** (largest share) — own-index retrieval (OAI-SearchBot; historically Bing-seeded) +
+  training data; skews **Wikipedia** + well-sourced authoritative content; rewards clear expertise
+  signals.
 - **Perplexity** — live search every query, **Reddit-dominant**, strong **freshness** preference
   (recent content), cites *many* sources per answer (more citation slots → lower competition per slot),
   rewards H2/H3 question headings + visible stats + named sources.

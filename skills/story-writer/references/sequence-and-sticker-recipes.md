@@ -9,6 +9,7 @@
 | Real deadline / launch | Countdown | tap-to-subscribe = warm retarget list |
 | Drive traffic | Link sticker | add a "Tap here" overlay; end of sequence |
 | Social proof / participation | UGC reshare / "add yours" | reshare tags with a thank-you |
+| Exclusivity / warm inner circle | Close Friends drop (green ring) | VIP/early access; invite in via a public Story |
 
 ## The sequence template (one goal)
 ```
@@ -46,5 +47,5 @@ AFTER: answer each reply personally in DMs; spin common answers into tomorrow's 
 ```
 
 Both: read brand-profile + voice-builder first; one goal; sound-off legible; one sticker; one clear
-action; Highlight + DM plan. Frames designed in `image-prompt`/`ideogram`/`imagen`; published via
+action; Highlight + DM plan. Frames designed in `image-prompt`/`ideogram`/`nano-banana`; published via
 `scheduling-and-queue → WoopSocial` (base frames) with stickers added natively in-app.

@@ -120,8 +120,11 @@ If it doesn't pass "would a stranger need the next beat?", it isn't a hook yet.
 
 - `brand-profile`, `voice-builder` — read first; supply voice and guardrails.
 - `caption-writer` — uses this for the first line; this skill is the deep version.
-- `reels-script`, `tiktok-script`, `video-hook-writer` — use this for the opening seconds.
+- `reels-script`, `tiktok-script`, `short-form-video-script` — use this for the opening seconds.
 - `thread-writer` — uses this for the thread opener.
+- `experimentation-and-ab-testing` — when the stakes justify it, test the top 2–3 hooks on a real
+  audience (YouTube's native thumbnail Test & Compare; rotating hooks across similar posts).
+  The rubric picks your best guess; audience data outranks the rubric.
 
 ## References
 

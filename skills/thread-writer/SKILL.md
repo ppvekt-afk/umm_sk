@@ -7,7 +7,9 @@ description: >-
   idea that won't fit one post. Reads brand-profile and voice first, uses hook-writer for the
   opening post (which must hook AND promise the payoff), builds one cohesive idea where every
   post earns the next, and lands a close with one CTA. Knows when a single post beats a thread.
-  For a single caption use caption-writer; for just the opening hook use hook-writer.
+  Naming trap: "write a thread" means this multi-post chain; "post on/to Threads" means a single
+  post on Meta's Threads app — use threads-post for that. For a single caption use caption-writer;
+  for just the opening hook use hook-writer.
 metadata:
   version: 1.0.0
 license: MIT
@@ -95,7 +97,8 @@ If any post doesn't pull the reader forward, cut or rewrite it before delivering
 - **Chopped long-form** (a blog "made into a thread" by splitting) → don't. Atomize the idea and
   rebuild it as a native thread (see `cross-platform-repurposing` for the source→thread flow).
 - **Threads (Meta) vs X** → adapt: Threads is more casual, less thread-culture, 500/post; X has
-  strong thread culture and the reshare-opener mechanic.
+  strong thread culture and the reshare-opener mechanic. A *single* conversational Threads post →
+  `threads-post`.
 - **No genuine payoff** → if the idea has no real takeaway, it's not a thread; sharpen the idea
   first.
 - **Sensitive/regulated** → carry compliance guardrails into every post; no overstated claims.
@@ -104,9 +107,10 @@ If any post doesn't pull the reader forward, cut or rewrite it before delivering
 
 - `brand-profile`, `voice-builder` — voice + register + guardrails.
 - `hook-writer` — the opener (and re-hooks).
-- `caption-writer` — single posts/captions; `cross-platform-repurposing` — turn long-form into a
-  thread.
-- `scheduling-and-queue` — schedule the finished thread.
+- `caption-writer` — single posts/captions; `threads-post` — a single Meta Threads post (not a
+  chain); `cross-platform-repurposing` — turn long-form into a thread.
+- `scheduling-and-queue` — schedule via WoopSocial. Note: WoopSocial publishes **single posts only**
+  (no native multi-post chain), so schedule the opener and post the chain natively/manually.
 
 ## References
 

@@ -1,7 +1,7 @@
 ---
 name: lead-magnets-and-funnels
 description: >-
-  The offer-design skill for 2026. Use when someone wants to "create a lead magnet," "build a funnel,"
+  Lead magnets and funnels — design offers that turn social traffic into subscribers, leads, and customers. Use when someone wants to "create a lead magnet," "build a funnel,"
   "design a freebie/opt-in," "make a quiz/calculator/template to grow my list," or turn social traffic
   into qualified leads and customers. Designs the magnet the capture paths deliver PLUS the whole
   social->capture->nurture funnel: one audience/one problem/one quick win, instant-result interactive
@@ -69,7 +69,7 @@ architecture, nurture template + worked examples: `references/magnet-menu-and-re
 sets the target · **campaign-and-launch-planning** = schedules the promo push.
 
 ## Where this connects
-Reads first: **brand-profile**, **goals-and-kpis**. Magnet creative: **image-prompt**/**ideogram**/**imagen**,
+Reads first: **brand-profile**, **goals-and-kpis**. Magnet creative: **image-prompt**/**ideogram**/**nano-banana**,
 **carousel-writer**, **caption-writer**/**hook-writer**, **story-writer**. Capture paths:
 **link-in-bio-and-traffic**, **social-selling-and-dm**. Nurture/owned channel: **email-and-newsletter** (the
 3–5 sequence runs in the ESP). Promote/publish: **content-calendar**, **campaign-and-launch-planning**,

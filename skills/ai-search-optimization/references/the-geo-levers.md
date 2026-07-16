@@ -9,8 +9,13 @@ Lever 2 because that's where AI engines look most — and where this library has
 
 AI engines retrieve from search indexes, so **if you can't be found in search, you can't be cited.**
 
-- **Rank in Google and Bing** for your topic — Bing feeds ChatGPT; Google feeds AI Overviews. This is
-  the often-missed prerequisite. (Submit sitemaps; basic technical SEO.)
+- **Rank in Google and Bing** for your topic — Google feeds AI Overviews/AI Mode; ChatGPT retrieves
+  via OpenAI's own index (historically Bing-seeded, so Bing rank still helps). This is the
+  often-missed prerequisite. (Submit sitemaps; basic technical SEO.)
+- **Let the AI retrieval crawlers in.** Check robots.txt and CDN/bot-protection settings actually
+  allow **OAI-SearchBot / ChatGPT-User / PerplexityBot / Claude's search bots** — Cloudflare and
+  similar block AI crawlers by default on many sites, which silently removes you from the candidate
+  pool. (Blocking *training* bots like GPTBot is a separate, legitimate choice.)
 - **Be found in social/platform search** → `social-seo` (the sibling skill). The same keyword/question
   research powers both.
 - Without this layer, the rest is shouting into a void.

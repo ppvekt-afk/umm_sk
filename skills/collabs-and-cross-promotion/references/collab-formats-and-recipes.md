@@ -8,7 +8,7 @@
 | Guest appearance / podcast swap | medium | authority, interview/Q&A | single-upload spike |
 | Duet / stitch (TikTok) / Shorts chain | medium | algo signal, fast turnaround | spike + reach |
 | **Joint giveaway** | medium | awareness + follower growth | follower spike (combined prize) |
-| **Joint video** (both upload same video) | high | max reach, both audiences see it | ~50–300 subs/creator |
+| **Joint video** (YouTube native Collaboration: one upload, up to 5 channels credited — or both upload) | high | max reach, all audiences see it | ~50–300 subs/creator |
 | **Collab series** (3–6 over months) | high | community + binge-subscribe | ~200–1,000+/creator |
 | **Live co-stream / premiere** | high | shared room, deep engagement | spike + loyalty |
 *Shared VALUE beats shared exposure — co-create, don't just shout out.*

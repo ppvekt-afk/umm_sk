@@ -19,7 +19,7 @@ non-negotiable spine running through all four.
 - Pick the **voice and language** deliberately; clone the speaker's voice for consistency, or pick a
   stock voice that matches **voice-builder**.
 - For **localization**, use Video Translator (175+ languages, lip-sync); voice cloning keeps the
-  speaker's voice across languages. (Standalone narration → ai-voiceover, forthcoming.)
+  speaker's voice across languages. (Standalone narration → ai-voiceover.)
 
 ## L — Lean script (write for avatar delivery)
 - Avatars deliver **calm, scripted clarity** well — and hype/improv poorly. Write conversational,

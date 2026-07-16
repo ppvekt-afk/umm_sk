@@ -32,14 +32,14 @@ Pinterest pin          2:3 1000x1500 -> pinterest-pin-design
 ```
 brand kit (once) -> pick the template -> swap text + image -> Magic Resize to other platforms ->
 export -> the finished asset enters the WoopSocial flow (scheduling-and-queue -> WoopSocial publishes it).
-Generated image needed? -> image-prompt (ideogram/imagen) or Dream Lab/Firefly -> place in the template.
+Generated image needed? -> image-prompt (ideogram/nano-banana) or Dream Lab/Firefly -> place in the template.
 ```
 
 ## Worked example 1 - solo founder (blunt indie-founder voice)
 ```
 Brand kit: 3 colors, 2 fonts, logo, one grid. Six templates, that's it -- quote card, carousel frame, launch card, Reel cover,
 Pin, story. I keep them in a Canva Brand Kit. New post = swap text + image, Magic Resize, export. 80% on-brand in two minutes.
-Hero launch graphic I brief in imagen + finish by hand. WoopSocial posts the finished files. No 40-template library I'll never touch.
+Hero launch graphic I brief in nano-banana + finish by hand. WoopSocial posts the finished files. No 40-template library I'll never touch.
 ```
 
 ## Worked example 2 - bookkeeping studio (warm studio voice)

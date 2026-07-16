@@ -4,17 +4,18 @@
 | Platform | Best for | Threshold / note |
 |---|---|---|
 | YouTube Live | evergreen discovery, replay, search, large events | mobile-live ~50+ subs |
-| TikTok LIVE | vertical discovery, community, live shopping | ~1,000 followers; unlimited length |
-| Instagram Live | creator community, Q&A, live shopping | public + ~1,000 followers; schedule 1hr–90d |
+| TikTok LIVE | vertical discovery, community, TikTok Shop live shopping | ~1,000 followers; unlimited length |
+| Instagram Live | creator community, Q&A (sell via keyword-to-DM; native live shopping gone) | public + ~1,000 followers; schedule 1hr–90d |
 | LinkedIn Live | B2B, webinars, thought leadership | via approved tools |
-| X | realtime viral, reposts | verified account |
+| X | realtime viral, reposts | X Premium + public profile |
 
 ## Run-of-show template
 ```
 00:00 Hook (2-min tip/topic) + pin a comment with the topic (for late joiners)
 02:00 Content: answer 5-7 pre-submitted Qs (collected via a Stories Q&A sticker)
        Engagement: greet joiners by name; recap for late joiners every few minutes
-(opt) Live shopping: feature product, pin link/CTA, flash discount valid during the live only
+(opt) Live selling: feature product; pin products where native (TikTok Shop/YouTube) or pin a comment +
+      keyword-to-DM (IG); flash discount valid during the live only
 ~end  CTA: keyword-to-DM ("comment LINK for the resource/offer") + where to go next
 ```
 
@@ -46,11 +47,12 @@ agent plans the live + run-of-show -> schedules the promo posts (WoopSocial) -> 
 do realtime comments/moderation, or run live shopping. Never fabricate viewer numbers.
 ```
 
-## Worked example 1 - product brand, IG Live shopping (blunt indie-founder voice)
+## Worked example 1 - product brand, selling on IG Live via keyword-to-DM (blunt indie-founder voice)
 ```
-Goal: sell the new drop. IG Live (we're public + over 1k). Run-of-show: 2-min hook, demo 3 products, pin each link, flash
-code valid during the live. Promo: I schedule announce/teaser/countdown/reminder in WoopSocial. I go live in-app, greet by name,
-drop "comment DROP for the link". After: I cut 4 clips (captions-and-clipping), schedule them + a replay. WoopSocial never "runs" the live -- I do.
+Goal: sell the new drop. IG Live (we're public + over 1k). Run-of-show: 2-min hook, demo 3 products, flash code valid during
+the live. IG has no native live product tags anymore, so the sell is "comment DROP for the link" (keyword-to-DM) + a pinned
+comment. Promo: I schedule announce/teaser/countdown/reminder in WoopSocial. I go live in-app, greet by name, drop the keyword.
+After: I cut 4 clips (captions-and-clipping), schedule them + a replay. WoopSocial never "runs" the live -- I do.
 ```
 
 ## Worked example 2 - B2B founder, LinkedIn Live (warm studio voice)

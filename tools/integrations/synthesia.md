@@ -12,7 +12,7 @@ docs.synthesia.io; check gates in-app before committing.
 2. **In-app (human executes):** the agent supplies the fit-test verdict, the locked spoken-word script (SSML
    included), scene/brand-kit plan, localization chain + QA gates, and the plan math; the human generates.
 3. **Publish handoff:** export MP4 → `capcut` if captions/pace need work → `scheduling-and-queue` →
-   **WoopSocial `POST /media` + `POST /posts`** (per-platform required fields validate atomically). Training
+   **WoopSocial: upload media → attach → validate → create post** (see `tools/integrations/woopsocial.md`). Training
    content → the LMS via SCORM (Enterprise; human). WoopSocial does not generate avatars or edit video.
 
 ## Tiers + gates (≈; verify in-app)
@@ -37,8 +37,9 @@ legitimate regulated content** (healthcare/pharma) with 12–24h manual reviews 
 Wins: multilingual L&D/training/onboarding, explainers, FAQ/support, faceless educational series (disclosed),
 localization (one master → 140+ languages + AI dubbing + native-speaker QA). Loses: trust-led founder content,
 testimonials, emotional persuasion (avatars read clinical) → `talking-head-and-piece-to-camera`; casual
-TikTok-native feel → compare `heygen`; cinematic footage → `ai-video`/`luma` (the AI Playground embeds Sora
-2/Veo 3.1 for B-roll in-editor); voice-only → `elevenlabs`.
+TikTok-native feel → compare `heygen`; cinematic footage → `ai-video`/`luma` (the AI Playground embeds Veo 3.1 for B-roll in-editor — its
+Sora 2 lane dies with OpenAI's Sora API on Sept 24 2026); voice-only → `ai-voiceover` (ElevenLabs,
+`tools/integrations/elevenlabs.md`).
 
 ## Hard lines
 Human approves every video · fit test before rendering · consented likeness only — no impersonation or fake

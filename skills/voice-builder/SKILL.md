@@ -8,7 +8,8 @@ description: >-
   keeps coming out off-voice or generic. Requires real writing samples; if there are none,
   use brand-profile's voice interview instead. Works for anyone: founders, creators, executives
   who are ghostwritten, and brands. Read brand-profile first; this skill produces the deeper
-  voice.md that complements it.
+  voice.md that complements it. This skill DEFINES the voice; to apply it per piece — tone
+  shifts, style edits, de-AI-ing a draft — use writing-style-and-tone.
 metadata:
   version: 1.0.0
 license: MIT
@@ -126,6 +127,8 @@ If any of these is missing, you're not done.
 ## Related skills
 
 - `brand-profile` — read first; provides identity, audience, guardrails.
+- `writing-style-and-tone` — applies the `voice.md` per piece and per moment (tone map, edit
+  passes, AI-tell sweep). This skill writes the constitution; that one governs by it.
 - Every content skill (`caption-writer`, `reels-script`, `thread-writer`, `linkedin-post-writer`, …)
   reads the resulting `voice.md`.
 - `audience-research`, `content-pillars` — complementary foundation skills.

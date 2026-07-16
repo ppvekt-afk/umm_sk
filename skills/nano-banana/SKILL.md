@@ -6,9 +6,11 @@ description: >-
   the user wants a nano-banana / Gemini image prompt, an AI image or graphic for a post (quote graphic,
   carousel slide, thumbnail, infographic, product/lifestyle shot, background, ad creative), or to edit
   an image conversationally. Reads brand-profile for brand colours/style. Built on the verified 2026
-  reality: Nano Banana Pro is the best model for legible in-image text, strong multi-image/character
-  consistency (up to ~14 reference images), conversational editing, and Search-grounded infographics —
-  but not the best for photoreal human portraits (Imagen) or surreal art (Midjourney). Teaches the
+  reality: Nano Banana Pro has best-in-class legible in-image text (alongside ideogram — route
+  typography/layout-led design there), strong multi-image/character consistency (up to ~14 reference
+  images), conversational editing, and Search-grounded infographics; with Imagen 4 deprecated (Gemini
+  API shutdown Aug 17, 2026) it is also Google's photoreal lane, while surreal art stays Midjourney's.
+  Teaches the
   prompt anatomy (subject, composition, lighting, style, exact text), the text-first approach,
   reference-image consistency, and per-platform aspect ratios. Honest: every image carries a SynthID
   watermark, AI-generated images must be disclosed per platform/region, never generate real
@@ -37,9 +39,11 @@ Write prompts that get studio-quality images out of **Nano Banana** — Google's
 ## Reach for Nano Banana when… (match the job)
 
 Its real strengths: **legible in-image text** (best in class), **multi-image/character consistency**,
-**conversational editing**, and **Search-grounded infographics**. Reach **elsewhere** for **photoreal
-human portraits** (Imagen) or **surreal/fine-art** aesthetics (Midjourney). Don't default it to every
-job. (Details: `references/when-and-how-to-prompt.md`.)
+**conversational editing**, and **Search-grounded infographics**. Reach **elsewhere** for
+**typography/layout-led design** (→ `ideogram`) or **surreal/fine-art** aesthetics (Midjourney).
+(**Imagen**, the former photoreal sibling, is **deprecated** — Gemini API shutdown Aug 17, 2026 — so
+Google-side photoreal work now lands here.) Don't default it to every job. (Details:
+`references/when-and-how-to-prompt.md`.)
 
 ## Step 0 — Read the brand + the job
 

@@ -3,8 +3,9 @@
 *Volatile. Re-verify quarterly (Meta ships algorithm + product changes often).*
 
 ## The POV: Groups are Facebook's last organic goldmine — community engineering, not broadcasting
-**Pages are dying organically** (~**1.37–1.65%** reach/post). **Groups reach 40–50% of members per post** — a
-10k-member group reaches **4,000–5,000** vs a Page's ~137–600 (a **10–30× multiplier**). **1.8B monthly Group
+**Pages are dying organically** (~**1.37–1.65%** reach/post). **Groups reach 40–50% of members per post**
+(conservative estimates say 20–40% — either way a **10–30× multiplier**) — a 10k-member group reaches
+**2,000–5,000** vs a Page's ~137–600. **1.8B monthly Group
 users** across **10M+ active groups**; **700M+ visit Groups daily.** Groups generate **~5× the engagement** of
 Pages, members **return 2× as often**, and group audiences **convert at 3–5× cold** (well-managed niche groups
 hit **20–23%** on direct offers; **$3K–15K/mo** is common). **Facebook deliberately favors Groups** ("Groups

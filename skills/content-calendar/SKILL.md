@@ -3,8 +3,9 @@ name: content-calendar
 description: >-
   Use to build a content calendar — a sustainable, repeatable posting rhythm and recurring
   structure (which pillars/formats post on which days, on which platforms), derived from strategy
-  and pillars. Run when the user says "content calendar," "posting schedule," "content plan"
-  (ongoing), "what should I post each week," "build me a posting routine/cadence," or wants a
+  and pillars. Run when the user says "content calendar," "editorial calendar," "social media
+  calendar," "posting schedule," "content plan" (ongoing), "what should I post each week,"
+  "build me a posting routine/cadence," or wants a
   repeatable system rather than one period's posts. Reads social-strategy, content-pillars, and
   brand-profile first; sizes cadence to real capacity (the #1 reason calendars fail is
   overcommitting); builds a recurring skeleton of content buckets and named series; anchors known

@@ -6,7 +6,7 @@
 - **The human** secures real contributor quotes/consent, does the actual outreach, and **verifies product facts**
   (pricing, specs, claims). The agent **never fabricates items, quotes, rankings, or product facts, and never
   pads to a number.**
-- **WoopSocial publishes** the social cuts and reads native analytics. It does **NOT** do outreach, verify
+- **WoopSocial publishes** the social cuts (measurement: the platforms' native analytics). It does **NOT** do outreach, verify
   products, rank items, or judge a list.
 - **Disclose** affiliate/sponsor/own-product (FTC); rank by merit, not commission or self-interest; never present
   a paid placement as independent editorial; **never guarantee** citations, rankings, or virality.

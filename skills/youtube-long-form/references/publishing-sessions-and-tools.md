@@ -8,7 +8,7 @@ features. Here's the wiring.
 Route the finished video through **scheduling-and-queue**, which connects to WoopSocial via
 **`tools/integrations/woopsocial.md`** (indexed in `tools/REGISTRY.md`).
 - **Endpoints:** MCP `https://api.woopsocial.com/mcp` · REST `https://api.woopsocial.com/v1`.
-- **YouTube is a supported platform** (one of 7). Native scheduling; auto per-platform handling.
+- **YouTube is a supported platform** (one of 10, as of July 2026). Native scheduling; auto per-platform handling.
 - **Lifecycle:** create / list / read / **validate** / delete. **No update** — editing = **delete +
   recreate**. Validate before publish.
 
@@ -25,7 +25,7 @@ So: this skill decides *what/how*, scheduling-and-queue *publishes*, and **Studi
 measurement.**
 
 ## Asset creation (creative tools)
-- **Thumbnails:** ideogram-3 (best for text-in-image concepts) and nano-banana (image gen/edit),
+- **Thumbnails:** ideogram (best for text-in-image concepts) and nano-banana (image gen/edit),
   prompted via image-prompt; A/B test in Studio. Match brand-profile's palette.
 - **B-roll / generative scenes:** veo-3, with the ai-video router for vendor choice.
 - **Repurposing:** cut Shorts from this long-form via captions-and-clipping (then youtube-shorts
@@ -35,7 +35,7 @@ measurement.**
 ## The three-layer tool pattern
 ```
 tools/integrations/<tool>.md   → connection + API (woopsocial, ideogram, veo, ...)
-mini-skill (ideogram-3, etc.)  → how to prompt the tool well
+mini-skill (ideogram, etc.)  → how to prompt the tool well
 this skill / writers           → what to make and why, for long-form growth
 ```
 

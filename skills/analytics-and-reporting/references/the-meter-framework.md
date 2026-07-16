@@ -12,7 +12,8 @@ analytics — the numbers come from **native dashboards** (the agent interprets;
 
 ## E — Extract from native analytics
 - The **source of truth is each platform's native dashboard** (Instagram Insights, YouTube Studio,
-  native X analytics, Pinterest Analytics, Meta Business Suite, LinkedIn, TikTok). **WoopSocial has none.**
+  native X analytics, Pinterest Analytics, Meta Business Suite, LinkedIn, TikTok, Threads insights).
+  **Bluesky has no native analytics** — measure it via UTM links + qualitative reads. **WoopSocial has none.**
 - Add **GA4 + UTM** for traffic/conversions. The **human pulls/pastes** the numbers; the agent structures
   and interprets — **never invents** a figure.
 
@@ -26,12 +27,12 @@ analytics — the numbers come from **native dashboards** (the agent interprets;
 - **Benchmark relative** to your own trend + vertical/competitors, not platform averages.
 - **Correlation ≠ causation**; **small samples and single posts lie** (variance/seasonality) — don't
   overreact. **Attribution undercounts ~30–50%** — read directional signals. Isolate variables via
-  `experimentation`.
+  `experimentation-and-ab-testing`.
 
 ## R — Report & re-cycle
 - **Flip the hierarchy:** outcomes first, content metrics explain why. Standardized template, ~30/10 min.
 - End with **Recommendations — 3 specific next actions.** **Tier cadence** (weekly pulse / monthly
-  trends / quarterly strategy). **Close the loop** → feed `content-recycling`, `experimentation`,
+  trends / quarterly strategy). **Close the loop** → feed `content-recycling`, `experimentation-and-ab-testing`,
   `social-strategy`.
 
 ## The analytics brief a request should fill

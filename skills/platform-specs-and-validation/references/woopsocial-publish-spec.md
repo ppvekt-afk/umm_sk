@@ -4,7 +4,7 @@
 `tools/integrations/woopsocial.md` quarterly; enums/limits change.*
 
 ## Platforms (the `SocialPlatform` enum)
-`FACEBOOK · INSTAGRAM · LINKEDIN · LINKEDIN_PAGES · PINTEREST · THREADS · TIKTOK · X · YOUTUBE`
+`FACEBOOK · INSTAGRAM · LINKEDIN · LINKEDIN_PAGES · PINTEREST · THREADS · TIKTOK · X · YOUTUBE · BLUESKY`
 (+ `WOOPTEST` sandbox). A post has **one content item** (text + optional media — the array is `maxItems: 1`,
 so **no native multi-post thread/chain**) and **1+ social-account targets**, all in the **same project**.
 
@@ -19,6 +19,7 @@ so **no native multi-post thread/chain**) and **1+ social-account targets**, all
 | **TikTok** | `postType` (VIDEO/PHOTO), `privacyLevel`, `allowComment`, `allowDuet`, `allowStitch`, `isYourBrand`, `isBrandedContent`, `autoAddMusic` | `cover` (VIDEO), `postMode` (DIRECT_POST/MEDIA_UPLOAD) |
 | **X** | — (text + optional media) | credit-metered after free allotment |
 | **YouTube** | `title`, `privacy` (public/private/unlisted) | `category`, `tags[]`, `madeForKids` |
+| **Bluesky** | — (text + optional media) | ~300-char limit; verify exact fields against the live spec |
 
 ## Media rules (the gotchas validation catches)
 - **Facebook:** cannot mix images + videos in one post.

@@ -14,8 +14,8 @@ lumalabs.ai/pricing and the in-app plan pages.
 2. **Web app + iOS (human executes):** no key? The agent supplies shot briefs, reference plans, keyframe
    strategy, and the draft-first credit plan; the human generates in-app.
 3. **Publish handoff:** exports → assembly in `capcut` (pace, captions, licensed sound — Luma output is silent)
-   → `scheduling-and-queue` → **WoopSocial `POST /media` + `POST /posts`** (per-platform required fields
-   validate atomically).
+   → `scheduling-and-queue` → **WoopSocial: upload media → attach → validate → create post** (endpoints/tool
+   names live in `tools/integrations/woopsocial.md` — don't hardcode).
 
 ## The model line (≈, verify — it moves)
 **Ray3** = reasoning model, 16-bit HDR + EXR, keyframes, **character reference**, visual annotation, **Modify**
@@ -43,7 +43,7 @@ High-stakes → counsel (not legal advice).
 **No native audio** (sound in post — `ai-music-and-sound`/licensed; sound-native generation → veo-3/kling) ·
 5–10s shots (Extend degrades past the initial clip — sequences assemble in capcut) · same-prompt variance >50%
 of runs (independent testing) — consistency via references, not re-rolls · avatar/presenter work → heygen/
-synthesia · brand-true stills in → flux/Photon.
+synthesia · edit-grade control/editing → runway · brand-true stills in → flux/Photon.
 
 ## Hard lines
 Human judges every clip · no unpermitted real-person likeness (real or AI lookalike) · no photoreal fake-event

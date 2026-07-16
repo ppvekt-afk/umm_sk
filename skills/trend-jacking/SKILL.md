@@ -10,7 +10,9 @@ description: >-
   (is the trend still on the way up?) — before executing a fast, on-brand remix and handing to the
   right content skill (tiktok-script, reels-script, caption-writer) and scheduling-and-queue.
   Refuses to trendjack tragedies or divisive moments and won't force irrelevant trends. Live trend
-  discovery needs current scanning; this skill vets and executes.
+  discovery needs current scanning; this skill vets and executes. For meme-format craft, cultural
+  fluency, and meme IP/likeness judgment ("make a meme," "is this meme safe"), route to
+  meme-and-culture — the two pair: this owns speed/timing, that owns the meme craft.
 metadata:
   version: 1.0.0
 license: MIT
@@ -100,6 +102,8 @@ trends ship in hours (see `references/the-remix.md`).
 ## Related skills
 
 - `brand-profile`, `voice-builder`, `audience-research` — fit, voice, guardrails.
+- `meme-and-culture` — meme-format craft + cultural-fluency + IP/likeness judgment; pairs with this
+  (this skill owns the speed/timing mechanics).
 - `tiktok-script`, `reels-script`, `caption-writer`, `carousel-writer` — execute the remix.
 - `content-calendar` — owns the reactive slots this fills; `hook-writer` — the hook.
 - `scheduling-and-queue` — ship it fast; `viral-reverse-engineering` — why things spread.

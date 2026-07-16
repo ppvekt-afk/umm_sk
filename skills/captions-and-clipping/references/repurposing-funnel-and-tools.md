@@ -41,4 +41,4 @@ mostly GUI (Submagic has an API on its Business+API tier).
 Router: **ai-video**. Sibling producers: **veo-3** (scenes), **heygen** (avatars), **ai-voiceover**
 (narration). Hook/caption writers: **youtube-shorts**, **reels-script**, **tiktok-script**.
 Destinations/funnel: **youtube-long-form**. Repurposing siblings: **cross-platform-repurposing**,
-**content-recycling** (forthcoming). Publish: **scheduling-and-queue → WoopSocial**.
+**content-recycling**. Publish: **scheduling-and-queue → WoopSocial**.

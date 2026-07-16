@@ -19,9 +19,11 @@ must look like a real photo). **Hand off** to that mini-skill for model-specific
 
 ## Routing a batch of needs
 
-- "Quote graphic with our tagline" → **`ideogram-3` or `nano-banana`** (both strong at text — pick by
+- "Quote graphic with our tagline" → **`ideogram` or `nano-banana`** (both strong at text — pick by
   tooling).
-- "Photoreal headshot of the founder" → **Imagen/Midjourney** (not Ideogram — weak at real faces).
+- "Photoreal headshot-style portrait" → **`nano-banana`** (or Midjourney; not Ideogram — weak at real faces).
+- "Same product, six campaign scenes" → **`nano-banana`** references or **`flux`** multi-reference.
+- "Swap the background, keep the product identical" → **`nano-banana`** or **`flux`** (Kontext edit).
 - "Our logo as a clean vector" → **Recraft** (vector-native).
 - "A 6-second moving hook" → **`veo-3`**.
 

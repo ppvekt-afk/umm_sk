@@ -48,4 +48,4 @@ CONSENT: founder consent verified for the twin.
 - Keep clips short and **cut away** so the face doesn't fatigue (TALK's K).
 - A 5-minute monologue → break into segments; don't use a Talking Photo beyond ~15s.
 - Generative B-roll comes from **veo-3 / ai-video**; long→Short cutdowns from
-  **captions-and-clipping** (forthcoming). Finished video → scheduling-and-queue → WoopSocial.
+  **captions-and-clipping**. Finished video → scheduling-and-queue → WoopSocial.

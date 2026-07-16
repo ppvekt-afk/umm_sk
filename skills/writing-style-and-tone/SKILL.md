@@ -8,11 +8,12 @@ description: >-
   wants em dashes banned or detector scores chased, or any AI-assisted draft needs its mandatory human-quality
   pass. Uses the STYLE framework (Sound like someone, Tune tone to the moment, Yank the dead weight, Let the
   rhythm breathe, Edit against the tells intelligently). Reads voice-builder (the voice this applies) +
-  brand-profile + the piece's format skill first. The 2026 truths: 52% of consumers stop reading on suspecting
-  AI and only 13% fully trust AI-generated brand content; the tell taxonomy is real (delve-class vocabulary —
+  brand-profile + the piece's format skill first. The 2026 truths: 52% of consumers disengage on suspecting
+  AI and only 13% say they completely trust AI; the tell taxonomy is real (delve-class vocabulary —
   44% of PubMed's all-time "delve" uses occurred in 2023-24 — "It's not X it's Y," forced rule-of-three, rigid
   structure, fluff sentences) but must be applied as a CLUSTER with judgment: no single marker proves AI,
-  detectors misflag real writers (19.8% of non-native-English essays in one study), and the winning position is
+  detectors misflag real writers (61.3% average false-positive rate on non-native-English essays in the
+  Stanford study), and the winning position is
   substance so owned the question never arises — write for readers, never against detectors. Voice is identity
   (constant); tone is register (flexes by moment via the tone map). The agent drafts and edits; the HUMAN
   supplies lived specifics and final say; the agent NEVER invents anecdotes, failures, vulnerability, or staged
@@ -28,14 +29,14 @@ breathe, and edit against the tells intelligently. The agent drafts and edits in
 supplies the lived specifics and the final call**; **WoopSocial publishes**. (Craft skill — no tool file.)
 
 ## The POV: the tells are symptoms — the disease is saying what anyone could say
-2026 quantified the stakes: **52% of consumers stop reading the moment they suspect AI**, only 13% fully trust
-AI-generated brand content, experienced AI users now detect machine text at near-perfect rates, and discovery
-systems treat predictable-pattern content as noise. So the tell taxonomy matters — the delve-class vocabulary
-(44% of PubMed's *all-time* "delve" appearances landed in 2023–24), "It's not X, it's Y," the forced
+2026 quantified the stakes: **52% of consumers say they disengage the moment they suspect copy is AI**, only
+13% say they completely trust AI, experienced AI users now detect machine text at near-perfect rates, and
+discovery systems treat predictable-pattern content as noise. So the tell taxonomy matters — the delve-class
+vocabulary (44% of PubMed's *all-time* "delve" appearances landed in 2023–24), "It's not X, it's Y," the forced
 rule-of-three, the rigid intro-point-point-conclusion shape, fluff sentences, relentless positivity — but the
 top-1% position holds two truths at once. **First: apply the tells as a cluster, with judgment** — no single
-marker proves AI, the em-dash panic is folk detection, and detector-chasing punishes real writers (19.8% of
-non-native-English essays misflagged in the Stanford finding). **Second: the cure is substance, not deletion**
+marker proves AI, the em-dash panic is folk detection, and detector-chasing punishes real writers (the Stanford
+study: detectors misflagged non-native-English essays at a 61.3% average false-positive rate). **Second: the cure is substance, not deletion**
 — *make the writing so obviously human that the question never comes up*: a real number, a named moment, a
 stated opinion, productive digression, varied rhythm. Say what only you could say. And the discipline that
 governs every moment: **voice is identity (constant); tone is register (flexes)** — the playful brand goes
@@ -60,13 +61,13 @@ counterfeited — no invented anecdotes, no manufactured vulnerability, no stage
   test decides, not a detector score; disclose AI use where required.
 
 ## The reality (verify-quarterly)
-The stakes: Bynder's 52% stop-reading figure; Klaviyo's 13% trust; near-perfect detection by experienced AI
-users (Russell et al.); information-gain systems penalizing sameness. The taxonomy (converging 2026 sources):
-hallmark vocabulary (the measured delve surge; delve+underscore co-occurring in 96.5% of joint 2023–24
-papers), structural tells (repetitive shapes, furthermore/moreover, forced threes, negative parallels, forced
-lists), substance tells (fluff sentences), texture tells (relentless neutrality/positivity; typographic
+The stakes: Bynder's 52% disengagement figure; Klaviyo's 13% complete-trust figure; near-perfect detection by
+experienced AI users (Russell et al.); information-gain systems penalizing sameness. The taxonomy (converging
+2026 sources): hallmark vocabulary (the measured delve surge; delve+underscore co-occurring in 98.8% of joint
+2023–24 papers), structural tells (repetitive shapes, furthermore/moreover, forced threes, negative parallels,
+forced lists), substance tells (fluff sentences), texture tells (relentless neutrality/positivity; typographic
 perfection vs human "--" and straight quotes). The counter-nuance: no single marker proves AI (the "ChatGPT
-hyphen" discourse; Stanford's 19.8% false-flag rate on non-native writers); write for readers, never against
+hyphen" discourse; Stanford's 61.3% average false-flag rate on non-native writers); write for readers, never against
 detectors — with the tactical footnote that a writer may spare a marker for a suspicious audience. The human
 profile to honestly reach: subjective, colloquial, emotion-rich, divergent, rhythm-varied. **Attribute all;
 verify-quarterly.** Full detail: `references/writing-style-2026-reality.md`; the four-pass edit, tone map,

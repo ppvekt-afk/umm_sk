@@ -41,7 +41,7 @@
       "expect": [
         "Identifies Groups as the standout organic surface (typically 20-40% of members reached vs ~1-6% for Pages; 1.8B monthly Group users)",
         "Explains Group posts rank higher because they signal community, and Meta algorithmically favors Groups (while monetizing Pages via ads)",
-        "Advises building or actively participating in niche Groups relevant to the brand",
+        "Advises building or actively participating in niche Groups relevant to the brand, routing the deep build/grow/run-a-Group strategy to facebook-groups",
         "Notes Group posting and community management are human/in-app (see scope), not auto-blasted"
       ]
     },
@@ -77,10 +77,10 @@
     },
     {
       "name": "distinct_from_siblings",
-      "input": "Isn't this the same as reels-script or community-management or instagram-growth?",
+      "input": "Isn't this the same as facebook-groups or reels-script or community-management or instagram-growth?",
       "expect": [
-        "Distinguishes facebook-strategy (the FB platform strategy: the Reels/Feed/Groups surface mix and what to play where) from reels-script (how to script a single Reel)",
-        "Distinguishes it from community-management (the Groups/community discipline it routes to) and story-writer (FB/IG Stories)",
+        "Distinguishes facebook-strategy (the FB platform strategy: the Reels/Feed/Groups surface mix and what to play where) from facebook-groups (the deep build/grow/run-a-Group strategy the Page funnels into) and reels-script (how to script a single Reel)",
+        "Distinguishes it from community-management (the engagement/community routine it routes to) and story-writer (FB/IG Stories)",
         "Notes instagram-growth is the sibling Meta-platform skill; cross-posting natively, not identically",
         "Frames facebook-strategy as the Facebook-specific strategy across surfaces"
       ]

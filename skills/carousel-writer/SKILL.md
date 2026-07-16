@@ -78,7 +78,7 @@ A carousel is visual. Provide:
 - **The image-generation prompt pack** — bundled prompts (Nano Banana / Ideogram, which render
   legible in-image text) to produce on-brand slides, with the exact slide text specified. Or a
   clean template spec for Canva/a designer. Flag **AI-disclosure** for generated images. See
-  `references/image-prompt-pack.md`. (For deeper visual systems, see `carousel-design`.)
+  `references/image-prompt-pack.md`. (For deeper visual systems, see `design-and-templates`.)
 
 ## Step 7 — Hand off
 
@@ -112,9 +112,9 @@ A carousel is visual. Provide:
 
 - `brand-profile`, `voice-builder` — voice + guardrails.
 - `hook-writer` — the cover hook.
-- `carousel-design` — deeper visual design system for slides.
+- `design-and-templates` — deeper visual design system for slides.
 - `caption-writer` — the post caption; `cross-platform-repurposing` — source → carousel.
-- `nano-banana`, `ideogram-3` (creative-tool mini-skills) — generate the slide visuals.
+- `nano-banana`, `ideogram` (creative-tool mini-skills) — generate the slide visuals.
 - `scheduling-and-queue` — schedule the finished carousel.
 
 ## References

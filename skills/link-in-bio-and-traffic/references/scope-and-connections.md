@@ -22,16 +22,16 @@ places links where the API allows; the **hub, landing page, and email tool are e
   placement/tracking strategy).
 - **profile-optimization** — the **whole profile/bio** that earns the follow (this owns just the link/
   traffic slice).
-- **social-selling-and-dm** (forthcoming) — the **DM conversation** funnel (comment → DM → email).
-- **email-and-newsletter** (forthcoming) — the **owned channel** itself (what you capture into).
-- **lead-magnets-and-funnels** (forthcoming) — **designs the magnet/funnel** this points traffic into.
-> The "forthcoming link/traffic" pointers in `story-writer`, `pinterest-growth`, and `x-growth` resolve **here**.
+- **social-selling-and-dm** — the **DM conversation** funnel (comment → DM → email).
+- **email-and-newsletter** — the **owned channel** itself (what you capture into).
+- **lead-magnets-and-funnels** — **designs the magnet/funnel** this points traffic into.
+> The link/traffic pointers in `story-writer`, `pinterest-growth`, and `x-growth` resolve **here**.
 
 ## Where this connects
 - **Reads first:** `brand-profile`, `goals-and-kpis` (the conversion goal).
 - **Placement mechanics:** `x-growth`, `facebook-strategy`, `linkedin-growth`, `pinterest-growth`,
   `instagram-growth`, `tiktok-growth`, `youtube-shorts`/`-long-form`, `story-writer` (Stories link sticker).
 - **Copy/creative:** `caption-writer` (CTAs), `hook-writer`, `image-prompt`/`ideogram` (hub/landing visuals).
-- **Capture + nurture:** `email-and-newsletter`, `lead-magnets-and-funnels`, `social-selling-and-dm` (forthcoming).
-- **Measure + test:** `analytics-and-reporting` (GA4/native readout), `experimentation` (A/B the hub),
+- **Capture + nurture:** `email-and-newsletter`, `lead-magnets-and-funnels`, `social-selling-and-dm`.
+- **Measure + test:** `analytics-and-reporting` (GA4/native readout), `experimentation-and-ab-testing` (A/B the hub),
   `goals-and-kpis` (the target). **Publish:** `scheduling-and-queue → WoopSocial` (posts; links placed where supported).

@@ -31,7 +31,7 @@ human/native.**
 ## Where this connects
 - **Reads first:** `brand-profile` (niche/voice), `goals-and-kpis` (the growth goal + metric).
 - **Routes craft to:** `threads-post` (the post), `caption-writer`/`hook-writer` (lines),
-  `imagen`/`ideogram` (the +60% photo), `community-management` (the reply flywheel + Communities/DMs).
+  `nano-banana`/`ideogram` (the +60% photo), `community-management` (the reply flywheel + Communities/DMs).
 - **Funnels to:** `instagram-growth` (conversion), `cross-platform-repurposing`/`content-recycling`
   (repurpose top posts in 24–72h), `link-in-bio-and-traffic` (the route off-platform).
 - **Publishes via:** `scheduling-and-queue → WoopSocial` (original posts) + `platform-specs-and-validation`.

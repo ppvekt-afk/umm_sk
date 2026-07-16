@@ -38,7 +38,7 @@ funnel content (not group posts)**; **in-group posting, admin, and moderation ar
 - **Funnels from / to:** `facebook-strategy` (the **Page** that drives joins — what WoopSocial publishes),
   `lead-magnets-and-funnels`/`email-and-newsletter` (capture via membership questions), `creator-monetization`
   (offers to the warm audience), `link-in-bio-and-traffic` (the join link), `caption-writer`/`reels-script`/
-  `imagen` (the Page + group content).
+  `nano-banana` (the Page + group content).
 - **Publishes via:** `scheduling-and-queue → WoopSocial` — **the Page + cross-channel join-funnel content
   only** (the group itself is native). **Measures with:** native **Group Insights** + `analytics-and-
   reporting` (acceptance, retention, engaged members). **In-group posting, admin, moderation + analytics stay

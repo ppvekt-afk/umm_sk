@@ -46,7 +46,7 @@ Growth is stuck at a **specific stage** of the loop. Diagnose it, then route:
 | Low reach / few non-follower views | **Reach** — weak hook/watch time, not enough Reels, not original, watermarked, unclear niche | `reels-script`, `hook-writer`, niche clarity, originality |
 | Decent views but **few follows** | **Follow-conversion** — the profile doesn't convert | `profile-optimization` |
 | Views but content **doesn't travel** | **Sends** — not share-worthy | `the-sends-lever.md`, `viral-reverse-engineering` |
-| Followers **don't engage / drift** | **Retention** — weak Stories/community/relationship | Stories + community/engagement routine |
+| Followers **don't engage / drift** | **Retention** — weak Stories/community/relationship | Stories + broadcast channel + community/engagement routine |
 | Inconsistent posting / burnout | **Sustainability** — no system | `content-calendar` |
 | Not found in search | **Discoverability** — weak keywords/niche | `hashtag-strategy` / `social-seo`, `profile-optimization` |
 | Reach collapsed suddenly | **Eligibility** — watermarks/reposts/strikes | originality, remove watermarks, check guidelines |

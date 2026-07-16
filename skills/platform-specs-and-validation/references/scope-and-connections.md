@@ -38,5 +38,5 @@ stay elsewhere.**
 - **Hands to:** `scheduling-and-queue → WoopSocial` (`POST /posts` after `isValid`), then **webhooks/
   delivery status** for confirmation.
 - **Supports:** `cross-platform-repurposing` (per-target `contentOverride`), `analytics-and-reporting`
-  (native delivery/performance readout), `experimentation` (valid variants). **Content craft + truthful
+  (native delivery/performance readout), `experimentation-and-ab-testing` (valid variants). **Content craft + truthful
   declarations stay with the format skills + the person.**

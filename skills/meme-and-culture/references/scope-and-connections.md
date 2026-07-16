@@ -37,7 +37,7 @@ schedules** (reactive ones often posted in the moment).
 - **Pairs with:** `trend-jacking` (the speed play), `community-management` (reactive banter + reply-in-culture),
   `audience-research` (what the in-group actually finds funny), `social-strategy` (memes as a content pillar,
   not a random act).
-- **Briefs for the asset:** `image-prompt` → `ideogram`/`imagen`/`nano-banana`, `design-and-templates`
+- **Briefs for the asset:** `image-prompt` → `ideogram`/`nano-banana`, `design-and-templates`
   (original meme visuals); `ai-music-and-sound` (trending audio, if used).
 - **Publishes via:** the **finished meme** → `scheduling-and-queue → WoopSocial` (evergreen/planned) or the
   **human posts reactive ones in the moment.** **Measure with:** dark-social + brand search +

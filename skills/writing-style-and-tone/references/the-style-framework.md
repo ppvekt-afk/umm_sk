@@ -36,7 +36,7 @@ aloud** — where you stumble or run out of breath, the reader already left. (Fi
 ## E — Edit against the tells, intelligently
 The final pass runs the tell **cluster** — hallmark vocabulary, "It's not X, it's Y," forced rule-of-three,
 rigid structure, misplaced social proof, relentless positivity — with judgment, not bans: no single marker
-proves anything, detector-score theater optimizes for the wrong judge, and the Stanford 19.8%
-false-flag finding shows what cargo-cult hunting costs. The real question is the substance test from S: *does
+proves anything, detector-score theater optimizes for the wrong judge, and the Stanford finding (a 61.3%
+average false-flag rate on non-native-English essays) shows what cargo-cult hunting costs. The real question is the substance test from S: *does
 this say something only we could say?* If yes, punctuation panic is noise. Disclose AI use where platform or
 policy requires; then the human signs off and **WoopSocial publishes.**

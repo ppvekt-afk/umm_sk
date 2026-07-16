@@ -25,8 +25,9 @@ Its genuine strengths (where it beats or matches the field):
 
 Be honest about the tool's edges (match the job, don't default):
 
-- **Photoreal human portraits / luxury product realism** → a photoreal model (e.g. Imagen) tends to win
-  on skin/material detail.
+- **Photoreal human portraits / luxury product realism** → dedicated photoreal models compete hard on
+  skin/material detail (`flux`, Midjourney). Google's own photoreal specialist, Imagen 4, is
+  **deprecated** (Gemini API shutdown Aug 17, 2026) — Google now routes that work here.
 - **Surreal / fine-art / highly stylized aesthetics** → Midjourney-class models have more artistic range.
 - **Pure typography-led layouts** → `ideogram` is a strong sibling (though Nano Banana Pro now rivals it
   on text).

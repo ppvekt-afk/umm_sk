@@ -9,17 +9,19 @@ description: >-
   on the verified 2026 reality: Ideogram 4.0 (released June 3, 2026) is a from-scratch open-weight
   9.3B model with best-in-class in-image text rendering (~0.97 OCR), STRUCTURED JSON PROMPTING
   (per-element bounding boxes, hex color palettes, per-element text styling), native 2K output,
-  flexible aspect ratios, and a Background Remover for transparency. Teaches the prompt anatomy and
+  flexible aspect ratios, a Background Remover for transparency, and Layerize Text (live, beta) to
+  extract rendered text as editable layers. Teaches the prompt anatomy and
   when to write JSON vs plain text (magic-prompt). Honest: review rendered text (even 0.97 errs on
   dense type), disclose AI images (EU AI Act Article 50, California AB 853) and sign with C2PA, open
   weights are non-commercial, never generate real identifiable people or copyrighted characters/IP/
-  logos, and verify the output. This supersedes the version-pinned ideogram-3. Prompt-craft layer —
-  the API/connection (per-image pricing, MCP, the generate -> upload to WoopSocial Media -> attach
-  flow) lives in tools/integrations/ideogram.md.
+  logos, and verify the output. Also covers the Ideogram APP-EDITOR workflow — Canvas, Magic Fill
+  (inpainting), Extend (outpainting), Style References (match a look from up to 3 images), Magic
+  Prompt control, custom brand models — for when the user is editing inside the Ideogram app.
+  Prompt-craft layer — the API/connection (per-image pricing, MCP, the generate -> upload to
+  WoopSocial Media -> attach flow) lives in tools/integrations/ideogram.md.
 metadata:
   version: 1.0.0
   license: MIT
-  supersedes: ideogram-3
 ---
 
 # Ideogram (image prompt craft)
@@ -33,8 +35,9 @@ Write prompts that get **design-grade images with correct text and deliberate la
 - **Prompt craft** (this skill) → how to direct the right asset well.
 - **Router** → `image-prompt` picks the tool for the job.
 
-> Supersedes the version-pinned **`ideogram-3`** (retire it; update references). Re-verify
-> model/specs quarterly.
+> This skill covers **both lanes**: *generation* prompt-craft (below) and the Ideogram
+> **app-editor workflow** (Canvas, Magic Fill, Extend, Style References, Magic Prompt, Layerize) —
+> for in-editor work, see `references/app-editor-and-canvas.md`. Re-verify model/specs quarterly.
 
 ## Reach for Ideogram when… (match the job)
 Its real strengths: **in-image text rendering** (the standout — legible, correct typography),
@@ -60,8 +63,9 @@ per-element **bounding boxes**, **hex palette** (up to ~16), and each text eleme
 
 ## Step 3 — Text, transparency, recipes
 - **Text:** ~0.97 OCR, multilingual, multi-line, logos/signage — but **review every render.**
-- **Transparency:** Background Remover → clean alpha cutout (editable **layers** are roadmap, not yet
-  live). **2K** output; aspect ratios in multiples of 16.
+- **Transparency:** Background Remover → clean alpha cutout. **Layerize Text** (live, beta) turns
+  rendered text into **editable layers** — restyle/rewrite copy without regenerating; works best on
+  clear, straight type. **2K** output; aspect ratios in multiples of 16.
 - Pick a **recipe** (quote card, carousel cover, logo concept, ad, poster). See
   `references/text-rendering-and-recipes.md`.
 
@@ -89,7 +93,8 @@ per-element **bounding boxes**, **hex palette** (up to ~16), and each text eleme
 - **Conversational "now change the background"** → route to `nano-banana`; Ideogram is layout-first.
 - **Real person / copyrighted IP or logo / "post as a real photo"** → refuse; disclose + C2PA; offer
   an original/owned alternative.
-- **"Editable text layers"** → roadmap, not live yet; treat text as elements now.
+- **"Editable text layers"** → **Layerize Text is live (beta**, all plans + API endpoint**)** — best on
+  clear, straight standard type; curved/decorative text may not be detected.
 - **"Generate it in WoopSocial"** → WoopSocial doesn't generate; this prompts Ideogram, then the image
   is uploaded to Media and attached.
 - **Long paragraph of text in-image** → keep lines short, hierarchy clear; verify the render.
@@ -105,4 +110,5 @@ per-element **bounding boxes**, **hex palette** (up to ~16), and each text eleme
 - `references/when-and-how-to-prompt.md` — when to reach for Ideogram vs other tools, and the prompt anatomy.
 - `references/json-prompting-and-layout.md` — the 4.0 differentiator: structured JSON, bounding boxes, palettes.
 - `references/text-rendering-and-recipes.md` — the text superpower, transparency/2K, social recipes.
+- `references/app-editor-and-canvas.md` — the in-app editor workflow: Canvas, Magic Fill, Extend, Style References, Magic Prompt, brand models.
 - `references/examples.md` — weak→strong, a JSON layout, a text-heavy card, and honest scope.

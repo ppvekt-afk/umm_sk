@@ -13,7 +13,8 @@ while customers are still deciding.**
 - **Anticipation is the engine** (Apple orchestrates it; the Zeigarnik effect — people fixate on unfinished
   narratives). The goal isn't awareness, it's **emotional investment**: when the audience wants it before it
   exists, **launch day becomes a confirmation, not a cold intro.**
-- **Waitlist** = the cleanest mechanism — **~30% higher day-one conversions.** Make the promise specific
+- **Waitlist** = the cleanest mechanism (launches with real pre-launch marketing see **~30% higher day-one
+  sales** — Waitlister; vendor, directional, verify-quarterly). Make the promise specific
   ("first access to the beta + a launch-week discount" > "join the waitlist"). A **referral waitlist** adds
   momentum (unique links, reward referrals).
 - **One campaign hub:** every profile link (X pin, IG bio, LinkedIn featured, email signature) points to the

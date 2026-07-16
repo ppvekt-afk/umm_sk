@@ -37,5 +37,5 @@ coordinated social posts** on the timeline. The agent **plans + writes + schedul
 - **Publishes via:** `scheduling-and-queue → WoopSocial` (the coordinated timeline) +
   `platform-specs-and-validation` (validate each post); `content-calendar` reserves the campaign's slots.
 - **Measures with:** `analytics-and-reporting` (per-channel numbers vs targets) + the store/landing page;
-  `experimentation` (A/B the headline/creative). **Hub, email, ads, checkout, press, live + conversion
+  `experimentation-and-ab-testing` (A/B the headline/creative). **Hub, email, ads, checkout, press, live + conversion
   measurement stay external/native.**

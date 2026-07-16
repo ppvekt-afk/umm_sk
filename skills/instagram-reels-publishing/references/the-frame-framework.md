@@ -15,7 +15,7 @@ the video/cover/burned-in captions come from other tools.
 
 ## A — Art the cover for the grid
 - Choose the cover **before publishing**; a **custom upload beats a video frame**; key elements + **bold ≥60px
-  text** in the **3:4-grid-safe center**; **can't edit after upload.** (→ `ideogram`/`imagen`.)
+  text** in the **3:4-grid-safe center**; **can't edit after upload.** (→ `ideogram`/`nano-banana`.)
 
 ## M — Match caption + audio
 - Publish the **keyword caption** (← `instagram-seo`); **audio beats silent + trending audio is pushed**

@@ -8,10 +8,10 @@
       "input": "Should we use an AI avatar for our videos?",
       "context": "brand-profile and voice-builder exist.",
       "expect": [
-        "Frames avatars as the right tool for scaled, scripted, multilingual delivery (explainers, training, localization, faceless channels, personalized outreach) and the wrong tool for spontaneity/personality/parasocial content",
+        "Frames avatars as the right tool for scaled, scripted, multilingual delivery (explainers, training, localization, faceless channels, personalized outreach) and the wrong tool for spontaneity/personality/parasocial content (trust-led founder content routes to talking-head-and-piece-to-camera)",
         "Introduces the TALK framework (Tailor the avatar, Audio that fits, Lean script, Keep eyes moving)",
         "Reads brand-profile and voice-builder first and matches the avatar/voice to the brand",
-        "Notes it routes up to ai-video and is a sibling of veo-3 (generative scenes)"
+        "Notes it routes up to ai-video, is a sibling of veo-3 (generative scenes), and that enterprise L&D/SCORM avatar work routes to synthesia"
       ]
     },
     {

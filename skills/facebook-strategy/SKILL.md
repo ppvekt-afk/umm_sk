@@ -2,14 +2,15 @@
 name: facebook-strategy
 description: >-
   The Facebook strategy playbook for 2026. Use when someone wants to "grow on Facebook," "fix my
-  Facebook reach," "a Facebook content/Page strategy," "Facebook Groups strategy," "Facebook Reels,"
-  or how the Facebook algorithm works now. Page feed broadcasting is effectively dead (~1.65% reach);
-  Facebook is now an AI discovery engine plus a community platform. Play three surfaces: Reels for
-  unconnected discovery, Feed for connected depth, Groups for community. Uses the REACH framework.
-  Reads brand-profile + voice-builder first. The agent drafts Page posts/Reels + Group copy + reply
-  copy; WoopSocial schedules Page posts/Reels; Groups posting, community, and comment replies are
-  human/in-app; metrics come from native Meta Insights; nothing is fabricated. Distinct from
-  reels-script (Reel craft), community-management (Groups discipline), and instagram-growth (sibling).
+  Facebook reach," "a Facebook content/Page strategy," "Facebook Reels," or how the Facebook
+  algorithm works now. Page feed broadcasting is effectively dead (~1.65% reach); Facebook is now an
+  AI discovery engine plus a community platform. Play three surfaces: Reels for unconnected
+  discovery, Feed for connected depth, Groups for community. Uses the REACH framework. Reads
+  brand-profile + voice-builder first. The agent drafts Page posts/Reels + reply copy; WoopSocial
+  schedules Page posts/Reels; comment replies are human/in-app; metrics come from native Meta
+  Insights; nothing is fabricated. To BUILD/GROW/RUN a Facebook Group (the deep Groups strategy) use
+  facebook-groups; distinct from reels-script (Reel craft), community-management (engagement
+  routine), and instagram-growth (sibling).
 version: 1.0.0
 ---
 
@@ -40,8 +41,8 @@ shares** (not likes), and **first-hour engagement velocity**. Best for **communi
   reply to every comment; optimise for saves/shares + meaningful comments.
 - **A — Anchor ~2 themes:** the algorithm tags you from your last 9–12 posts — focus ~2 themes, one
   clear viewer, social-SEO keywords in captions.
-- **C — Community in Groups:** the goldmine — build/participate in niche Groups (human-run; route to
-  `community-management`).
+- **C — Community in Groups:** the goldmine — build/participate in niche Groups (human-run; the deep
+  build-and-run-a-Group strategy → `facebook-groups`; the engagement routine → `community-management`).
 - **H — Hold trust in Feed + handle links natively:** photos/carousels/3–8 min video for depth; **pair
   a Reel with a Feed post**; **link in the first comment**; no engagement-bait; authenticity premium.
 
@@ -62,14 +63,17 @@ small-Page advantage, fit: `references/facebook-2026-reality.md`. Surfaces + rec
   (Scope, distinctions + connections: `references/scope-and-connections.md`.)
 
 ## Distinct from its siblings (route correctly)
-**facebook-strategy (this)** = the FB platform strategy across surfaces · **reels-script** = scripting a
-single Reel · **community-management** = the Groups/community discipline · **story-writer** = FB/IG
-Stories · **instagram-growth** = the sibling Meta platform (cross-post natively, not identically).
+**facebook-strategy (this)** = the FB platform strategy across surfaces · **facebook-groups** = the deep
+Groups strategy (build/grow/run a Group as the organic asset — this skill's Page funnels there) ·
+**reels-script** = scripting a single Reel · **community-management** = the engagement/community routine ·
+**story-writer** = FB/IG Stories · **instagram-growth** = the sibling Meta platform (cross-post natively,
+not identically).
 
 ## Where this connects
 Reads first: **brand-profile**, **voice-builder**. Discovery assets: **reels-script**, **ai-video**/
-**captions-and-clipping**, **image-prompt** → **ideogram**/**imagen**. Depth/copy: **caption-writer**,
-**hook-writer**, **carousel-writer**. Community/engagement: **community-management**, **engagement-routine**,
+**captions-and-clipping**, **image-prompt** → **ideogram**/**nano-banana**. Depth/copy: **caption-writer**,
+**hook-writer**, **carousel-writer**. Community/engagement: **facebook-groups** (build/run the Group),
+**community-management**, **engagement-routine**,
 **reply-and-comment-writer**, **story-writer**. Discovery/keywords: **social-seo**,
 **ai-search-optimization**, **trend-jacking**. Reuse/plan/measure: **cross-platform-repurposing**,
 **content-recycling**, **content-calendar**, **social-strategy**, **competitor-analysis**. Publish:
@@ -80,5 +84,5 @@ A surface plan (Reel for discovery + Feed post for depth per theme, plus a human
 themes with one clear viewer and social-SEO keywords; saves/share-worthy posts with links in the first
 comment; a first-hour engagement plan; Reels routed to reels-script and Page posts/Reels to
 scheduling-and-queue → WoopSocial, with Groups + replies flagged human/in-app; metrics from native Meta
-Insights; no bait/spam/bought reach, no fabricated metrics, correctly distinguished from reels-script /
-community-management / story-writer / instagram-growth.
+Insights; no bait/spam/bought reach, no fabricated metrics, correctly distinguished from facebook-groups /
+reels-script / community-management / story-writer / instagram-growth.

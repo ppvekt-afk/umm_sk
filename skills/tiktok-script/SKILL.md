@@ -10,8 +10,9 @@ description: >-
   completion + rewatch; optimizes for TikTok search (keywords); and outputs a production doc
   (shot - on-screen text - spoken - sound - timing). Bundles a Veo prompt pack for faceless/b-roll
   shots while flagging that native filming often beats AI on TikTok. For Instagram Reels use
-  reels-script; for YouTube Shorts use youtube-shorts-script; hands caption to caption-writer and
-  scheduling to scheduling-and-queue.
+  reels-script; for YouTube Shorts use youtube-shorts; for the platform-agnostic scripting craft
+  (hooks/retention/sound-off across all short-form) use short-form-video-script (this skill is its
+  TikTok specialization); hands caption to caption-writer and scheduling to scheduling-and-queue.
 metadata:
   version: 1.0.0
 license: MIT
@@ -112,9 +113,10 @@ b-roll, or unfilmable concepts**, use the bundled Veo prompt pack
 ## Related skills
 
 - `brand-profile`, `voice-builder` — voice + guardrails.
+- `short-form-video-script` — the master scripting craft this specializes for TikTok.
 - `hook-writer` — the 1-second hook.
 - `trend-jacking` — live trend/sound research and timing.
-- `reels-script` — Instagram Reels; `youtube-shorts-script` — Shorts; `cross-platform-repurposing`
+- `reels-script` — Instagram Reels; `youtube-shorts` — Shorts; `cross-platform-repurposing`
   — adapt across them.
 - `caption-writer` — the caption; `scheduling-and-queue` — schedule the post.
 - `tools/integrations/veo.md` — the Veo API/connection layer.

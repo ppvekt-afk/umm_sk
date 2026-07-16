@@ -24,8 +24,8 @@ heygen (this mini-skill)       → how to script/setup an avatar video well
 ai-video (router)              → which tool for the job + the portable brief
 in-skill packs                 → applied (e.g. a future heygen-pack in a writer)
 ```
-- This **closes veo-3's dangling reference** to a video-tool sibling: veo-3 (generative scenes) and
-  heygen (avatars) are the two live producers under ai-video.
+- veo-3, kling, luma (generative scenes) and heygen, synthesia (avatars) are the live producers
+  under ai-video; heygen = the creator/social lane, synthesia = the enterprise/L&D lane.
 - Adding HeyGen requires `tools/integrations/heygen.md` + a `tools/REGISTRY.md` entry + bidirectional
   cross-links (done here).
 
@@ -39,7 +39,8 @@ in-skill packs                 → applied (e.g. a future heygen-pack in a write
   never rely on the discontinued Sora path.
 
 ## Where this connects
-Router: **ai-video**. Sibling producers: **veo-3** (generative scenes); **ai-voiceover**,
-**captions-and-clipping** (forthcoming). Consumers of avatar clips: **reels-script**,
+Router: **ai-video**. Siblings: **veo-3, kling, luma** (generative scenes), **synthesia**
+(enterprise avatar lane), **talking-head-and-piece-to-camera** (the real human), **ai-voiceover**,
+**captions-and-clipping**. Consumers of avatar clips: **reels-script**,
 **youtube-shorts**, **youtube-long-form**, **linkedin-growth**, **cross-platform-repurposing**.
 Publish: **scheduling-and-queue → WoopSocial**.

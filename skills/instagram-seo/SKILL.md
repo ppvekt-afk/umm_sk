@@ -4,7 +4,7 @@ description: >-
   The Instagram SEO / keyword-search skill -- IG-specific search depth, distinct from the cross-cutting
   social-seo. Use when someone wants an Instagram post/Reel to rank in search, needs IG keyword research, or
   wants a searchable caption/profile. Instagram shifted from hashtag-based discovery to keyword-based search
-  (hashtags deprioritized to 3-5 topic labels; >half of new followers start from search). It's a closed-system
+  (hashtags deprioritized to 3-5 topic labels; a large and growing share of discovery starts from search). It's a closed-system
   search engine (no external crawl/backlinks) but Google+Bing index IG captions; search runs semantic analysis
   -> metadata matching (Name field/bio/caption keyword cluster) -> visual recognition (Computer Vision checks
   alt text + visual MATCH the caption). Uses the MATCH framework. Reads brand-profile + the post's topic first.
@@ -29,7 +29,8 @@ advised**, and on-screen text/audio come from other tools/the creator.
 
 ## The POV: Instagram is a keyword search engine — keywords replaced hashtags
 Since late 2024 (official in 2026), IG shifted from **hashtag-based discovery to keyword-based search** —
-hashtags are deprioritized to **3–5 topic labels**, and **>half of new followers start from search.** It's a
+hashtags are deprioritized to **3–5 topic labels**, and **a large and growing share of discovery/new followers
+now starts from search** (verify-quarterly; never quote a precise share). It's a
 **closed system** (no external crawl/backlinks) but **Google + Bing index IG captions.** Search runs
 **semantic analysis → metadata matching** (Name field/bio/caption **keyword cluster**) **→ visual recognition**
 (Computer Vision checks the **alt text + visual match the caption** — a mismatch lowers ranking). WoopSocial
@@ -55,11 +56,11 @@ advised/other-tools. **Pairs with `caption-writer`** (the keyword goes in the se
   optimize for saves/shares/watch-time; compounds over 90–120 days; no stuffing / irrelevant tags.
 
 ## The reality (verify-quarterly)
-Keyword-based since late 2024 (official 2026); hashtags 3–5 labels; >half of new followers from search; closed
+Keyword-based since late 2024 (official 2026); hashtags 3–5 labels; a growing share of discovery from search; closed
 system but Google/Bing index captions; 3-step search (semantic → metadata cluster → Computer Vision alt-text/
 visual match); surfaces (Name field high weight, handle, indexable bio, search-first captions [primary keyword
 first sentence/125 chars, 150–300 words], alt text [must match], on-screen text transcribed, audio transcribed
-[first-3-sec keyword], auto-captions +25% watch time + indexed, category/location, 3–5 cluster); search vs
+[first-3-sec keyword], auto-captions lift watch time + are indexed, category/location, 3–5 cluster); search vs
 Explore; engagement (saves/shares/watch-time/replays > likes; completion); Reels deprioritized (watermarks/
 low-res); the Raw Content Revolution (human-made, retention/sends); research method + slow-burn timeline (2–4
 wk / 30–60 day / 90–120 day): `references/instagram-seo-2026-reality.md`. The research method, the surface map

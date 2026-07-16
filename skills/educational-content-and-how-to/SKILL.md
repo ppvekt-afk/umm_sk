@@ -4,8 +4,9 @@ description: >-
   The teach-to-grow content type -- pick a genuinely useful topic, teach ONE thing completely, structure it as
   a clear lesson, keep it accurate, and route it to the right format. Use when someone wants to teach their
   audience, make a how-to / tutorial / step-by-step / explainer / myth-buster, build authority content, or
-  earn saves. Teaching is the highest-trust, highest-save authority builder (saves are the top-weighted 2026
-  signal and educational/how-to content is the most reliable way to earn them). Uses the TEACH framework. Reads
+  earn saves. Teaching is the highest-trust, highest-save authority builder (saves + sends are top-weighted 2026
+  signals, far above likes, and educational/how-to content is the most reliable way to earn them). Uses the TEACH
+  framework. Reads
   brand-profile + audience-research (their pain points/skill level) + content-pillars first. The agent targets
   one teachable thing (flashcard not chapter), earns trust with accuracy (cite sources, stay within genuine
   expertise, YMYL care + disclaimers), arranges the lesson (hook/cover -> context -> one step/idea per unit ->
@@ -27,8 +28,9 @@ structure it, and route it to the right format. The agent **teaches**; the **for
 **WoopSocial publishes + serializes.**
 
 ## The POV: teach one thing completely, accurately
-Teaching is the **highest-trust, highest-save authority builder** — **saves are the top-weighted 2026 signal**
-and **educational/how-to content is the most reliable way to earn them** (it's reference-worthy). The win
+Teaching is the **highest-trust, highest-save authority builder** — **saves + sends are top-weighted 2026
+signals, far above likes** and **educational/how-to content is the most reliable way to earn them** (it's
+reference-worthy). The win
 isn't recycled generic tips — it's **one genuinely useful idea, taught completely**, as a **flashcard, not a
 chapter.** And the gate that separates authority from embarrassment: **accuracy.** Teaching wrong info destroys
 trust, and **YMYL** how-tos (health/finance/legal) can cause real harm. The angle works across formats — so the
@@ -55,7 +57,8 @@ likes.**
   (`content-calendar`); evergreen → repurpose across formats (`content-recycling`).
 
 ## The reality (verify-quarterly)
-Saves are the most heavily weighted 2026 signal; educational content earns them best (carousels ~3× the save
+Saves + sends are top-weighted 2026 signals — sends/DM shares rank highest per Mosseri, both far above likes;
+educational content earns saves best (carousels ~3× the save
 rate of Reels, highest engagement ~0.55% vs ~0.50%/0.41%, longest lifespan — Socialinsider/Buffer, attribute;
 tutorials inherently saveable + high completion). Teach one job well ("flashcard not chapter"). Structure:
 hook/cover (specific, <8–10 words) → context → one step/idea per unit → recap → specific CTA; structures

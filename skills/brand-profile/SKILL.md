@@ -3,8 +3,9 @@ name: brand-profile
 description: >-
   Use FIRST, before any other social media skill, to load or create the brand profile —
   the durable record of who a business is, who it serves, how it sounds, and what it will
-  and won't say. Run this when the user says "set up my brand," "brand profile," "onboard,"
-  "get started," when work begins for a new business or client, or any time another social
+  and won't say. Run this when the user says "set up my brand," "brand profile," "brand
+  guidelines," "define our brand voice," "onboard," "get started," when work begins for a
+  new business or client, or any time another social
   skill needs brand context that isn't already loaded. Works for ANY business: B2B SaaS,
   ecommerce, local and small business, agencies and their clients, personal brands and
   creators, and nonprofits. For writing actual posts, see the content skills; to derive a
@@ -161,13 +162,13 @@ If any of these is missing, you're not done — ask one more question.
   edit passes). The profile defines; that skill inhabits.
 - `audience-research` — expands audience into fuller personas; `idea-generation-and-ideation`
   turns audience signals into the content bank that fills the pillars.
-- `social-strategy`, `content-pillars`, `content-strategy` — the natural next steps once the
+- `social-strategy`, `content-pillars` — the natural next steps once the
   profile exists.
 - `design-and-templates` — owns the visual identity (logo, hex colors, type); the profile
   points there, never duplicates it.
 - `content-research-and-sourcing` — verifies any proof claims before they're published.
 - Every content skill (`caption-writer`, `short-form-video-script`, `thread-writer`, …) reads
-  this profile first; the tool skills (`synthesia`, `elevenlabs`, `suno`, `flux`, …) read its
+  this profile first; the tool skills (`synthesia`, `ai-voiceover`, `suno`, `flux`, …) read its
   operational defaults (AI policy, pronunciation, languages, visual pointer).
 
 ## References

@@ -22,8 +22,8 @@ WoopSocial **publishes the social side** (signup-driving + repurposed posts).
 - **cross-platform-repurposing** — **same-moment** multi-platform adaptation (this is the **email↔social**
   axis specifically).
 - **content-recycling** — **evergreen reuse over time** (pairs when recycling editions).
-- **lead-magnets-and-funnels** (forthcoming) — **designs the magnet/funnel** that fills the list.
-- **social-selling-and-dm** (forthcoming) — the **DM** conversation funnel (a different capture path).
+- **lead-magnets-and-funnels** — **designs the magnet/funnel** that fills the list.
+- **social-selling-and-dm** — the **DM** conversation funnel (a different capture path).
 
 ## Where this connects
 - **Reads first:** `brand-profile`, `voice-builder`, `content-pillars`.
@@ -34,4 +34,4 @@ WoopSocial **publishes the social side** (signup-driving + repurposed posts).
 - **Discovery:** `ai-search-optimization` / `social-seo` (the web archive), `linkedin-growth` (LinkedIn
   newsletter).
 - **Publish (social side):** `scheduling-and-queue → WoopSocial`. Measure/plan: `analytics-and-reporting`,
-  `goals-and-kpis`, `experimentation` (A/B subjects). **The email send itself stays in the external ESP.**
+  `goals-and-kpis`, `experimentation-and-ab-testing` (A/B subjects). **The email send itself stays in the external ESP.**

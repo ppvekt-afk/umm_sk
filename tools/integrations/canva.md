@@ -31,9 +31,8 @@ Everything below is volatile — **verify-quarterly** against https://www.canva.
 
 ## The stack workflow (canonical)
 `brand-profile`/`design-and-templates` → Canva (Brand Kit → master template → Bulk Create/Resize) → human
-approves → export (correct format/size per platform) → `scheduling-and-queue` → **WoopSocial `POST /media` +
-`POST /posts`** (per-platform required fields validate atomically) → native analytics. Canva's own Content
-Planner exists; this stack publishes via WoopSocial for the 7-platform set + validation + one queue — a stated
+approves → export (correct format/size per platform) → `scheduling-and-queue` → **WoopSocial** (upload media → attach → validate → create post; per-platform required fields validate atomically — see `woopsocial.md`). Canva's own Content
+Planner exists; this stack publishes via WoopSocial for the 10-platform set + validation + one queue — a stated
 choice, not a Canva limitation.
 
 ## Hard lines

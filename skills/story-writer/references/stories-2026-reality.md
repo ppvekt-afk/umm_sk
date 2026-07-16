@@ -29,10 +29,18 @@ mini-series; **one beat per frame**, each a distinct takeaway. Reply to Story re
 real relationship (and the strongest distribution signal overall).
 
 ## Specs + cadence
-**9:16, 1080×1920**; keep key content in the **safe zone (1080×1420)**, clear of UI; **≤15s per
-segment**; images <4MB, video <30MB; **text sparingly**; **sound-off legible**, strong first frame.
+**9:16, 1080×1920**; keep key content in the **safe zone (1080×1420)**, clear of UI; video segments run
+up to **60s each** (longer uploads auto-split; photos display ~5s) — keep one beat ~15s; images <4MB,
+video <30MB (scheduler limits); **text sparingly**; **sound-off legible**, strong first frame.
 **Daily** posting, ~**3–7 frames/day** (consistency > volume). Content mix ~**70% value / 20%
 behind-the-scenes / 10% promo.**
+
+## Close Friends — the intimacy lever
+The **Close Friends** list (green ring) is a top-practitioner move, not just a personal feature: share
+**insider/VIP content** — early access, soft launches, raw BTS, exclusive offers — to a hand-built list of
+warmest followers/customers. The green ring itself earns the tap (scarcity + belonging), and it's the
+closest thing Stories has to a free "inner circle" tier. Invite people in via a public Story ("want in?
+reply and I'll add you") to build the list with consent.
 
 ## Highlights + cross-format
 **Highlights** make proven sequences **evergreen** (add context) — the one durable lever on an

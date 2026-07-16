@@ -5,8 +5,9 @@
 ## The POV: Instagram is now a keyword search engine — keywords replaced hashtags
 Since **late 2024** (official in **2026**), Instagram shifted from **hashtag-based discovery to keyword-based
 search** — the biggest discovery change since Reels. **Hashtags are deprioritized to 3–5** (still clickable
-**topic labels**, no longer the discovery driver). **More than half of new followers now start from search**,
-not the feed; Gen Z/Millennials often search IG instead of Google. IG search is a **closed system** (pulls
+**topic labels**, no longer the discovery driver). **A large and growing share of discovery and new followers
+now starts from search**, not the feed (no reliable public share figure — never quote one); Gen Z/Millennials
+often search IG instead of Google. IG search is a **closed system** (pulls
 from within the app — usernames, bios, captions, hashtags, locations; **no external crawl, no backlinks**),
 **but Google + Bing now index IG captions** (esp. professional accounts), so content can surface externally +
 in AI answers.
@@ -29,7 +30,7 @@ in AI answers.
   labels.
 - **Alt text:** classifies the visual + must **match** the caption (Computer Vision). **On-screen Reel text:**
   transcribed + indexed. **Reel audio:** transcribed — say the **primary keyword in the first 3 seconds.**
-  **Auto-captions:** ~+25% watch time **and** indexed (two-for-one). **Category + location** (a professional
+  **Auto-captions:** a meaningful watch-time lift (most viewers watch sound-off) **and** indexed (two-for-one). **Category + location** (a professional
   account unlocks both).
 
 ## Ranking + behaviour

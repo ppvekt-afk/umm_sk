@@ -18,8 +18,10 @@ community work is human/in-app.
 
 ## Distinct from its siblings
 - **facebook-strategy (this)** — the **FB platform strategy** across surfaces (Reels/Feed/Groups mix).
+- **facebook-groups** — the **deep Groups strategy** (build/grow/run a Group as the organic asset; the
+  Page this skill runs funnels joins there). Route "start/grow my Group" requests there.
 - **reels-script** — how to **script a single Reel** (the discovery asset). Route Reel craft there.
-- **community-management** — the **Groups/community discipline** (running/participating). Route community there.
+- **community-management** — the **engagement/community routine** (running/participating day-to-day).
 - **story-writer** — **FB/IG Stories** (the ephemeral surface).
 - **instagram-growth** — the **sibling Meta platform**; cross-post **natively**, not identically (a
   TikTok/IG watermark or wrong aspect ratio suppresses reach).
@@ -27,7 +29,7 @@ community work is human/in-app.
 ## Where this connects
 - **Reads first:** `brand-profile`, `voice-builder`.
 - **Discovery assets:** `reels-script`, `ai-video`/`captions-and-clipping` (Reels), `image-prompt` →
-  `ideogram`/`imagen` (photos/carousels).
+  `ideogram`/`nano-banana` (photos/carousels).
 - **Depth/copy:** `caption-writer`, `hook-writer`, `carousel-writer`.
 - **Community + engagement:** `community-management` (Groups), `engagement-routine` (first-hour cadence),
   `reply-and-comment-writer` (comment/Group replies), `story-writer` (FB Stories).

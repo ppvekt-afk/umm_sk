@@ -6,7 +6,7 @@ image tool makes the raster**; the **YouTube thumbnail is uploaded + tested nati
 
 ## Honest scope (never violate)
 - **The agent** writes the **promise**, the **concept**, the **text**, and the **design brief**, and can
-  **critique a mockup** — but a **HUMAN or an image/design tool** (`imagen`/`ideogram`/Canva/a designer)
+  **critique a mockup** — but a **HUMAN or an image/design tool** (`nano-banana`/`ideogram`/Canva/a designer)
   **creates the final raster.** The agent doesn't render the pixels.
 - **The YouTube custom thumbnail is uploaded NATIVELY in YouTube Studio — WoopSocial has no thumbnail
   field** — and **Test & Compare is native** (WoopSocial can't run it). The agent plans the test; a **human
@@ -21,7 +21,7 @@ image tool makes the raster**; the **YouTube thumbnail is uploaded + tested nati
 - **thumbnail-design (this)** — the **thumbnail design craft + brief + A/B plan.**
 - **youtube-publishing-and-metadata** — the **title/description/tags/category metadata**; it **points here**
   for the thumbnail (which it can't set via the API).
-- **imagen** / **ideogram** — **generate the raster** this skill briefs (ideogram especially for in-image
+- **nano-banana** / **ideogram** — **generate the raster** this skill briefs (ideogram especially for in-image
   text).
 - **tiktok-video-publishing** — owns the **TikTok `cover` field** (a video frame, not a designed YouTube
   thumbnail).
@@ -31,8 +31,8 @@ image tool makes the raster**; the **YouTube thumbnail is uploaded + tested nati
 ## Where this connects
 - **Reads first:** `brand-profile` (style/template) + the **video and its title** (often from
   `youtube-publishing-and-metadata` / `youtube-long-form` / `youtube-shorts`).
-- **Pairs with:** `imagen`/`ideogram` (render the brief), `hook-writer` (the thumbnail words),
-  `youtube-publishing-and-metadata` (title designed as a unit with the thumbnail), `experimentation` (the
+- **Pairs with:** `nano-banana`/`ideogram` (render the brief), `hook-writer` (the thumbnail words),
+  `youtube-publishing-and-metadata` (title designed as a unit with the thumbnail), `experimentation-and-ab-testing` (the
   A/B discipline), `competitor-analysis` (preview against ranking thumbnails for the keyword).
 - **Hands to:** a **human** to render (or an image tool), **upload the YouTube thumbnail natively**, and run
   **Test & Compare**; `analytics-and-reporting` reads CTR/watch-time back. **The raster, the native upload,

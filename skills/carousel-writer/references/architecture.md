@@ -54,7 +54,7 @@ Don't withhold value cheaply; each slide should be useful *and* pull forward.
 
 ## Slide count — tight beats padded
 
-Instagram allows up to 10 (sometimes 20); LinkedIn PDFs more. But the rule is **every slide earns
+Instagram allows up to 20; LinkedIn PDFs more. But the rule is **every slide earns
 its place**. A 6-slide carousel that's all signal beats a 10-slide one padded to hit a number. Let
 the idea set the count. If you're adding slides to "make it longer," stop.
 

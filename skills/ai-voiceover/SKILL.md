@@ -60,7 +60,7 @@ scripts: `references/script-for-the-ear-and-recipes.md`.
 
 ## Where this connects
 Router: **ai-video**. Sibling producers: **veo-3** (scenes), **heygen** (avatars).
-**captions-and-clipping** (forthcoming) pairs VO with sound-off captions + long→Short cuts. VO feeds
+**captions-and-clipping** pairs VO with sound-off captions + long→Short cuts. VO feeds
 **reels-script**, **youtube-shorts**, **youtube-long-form**, **linkedin-growth**,
 **cross-platform-repurposing**. Connection: `tools/integrations/elevenlabs.md` (+ `tools/REGISTRY.md`).
 Publish: **scheduling-and-queue → WoopSocial**.

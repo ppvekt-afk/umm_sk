@@ -5,7 +5,8 @@ description: >-
   pile-ons, misinformation/deepfakes about the brand, offensive-post backlash, outages, and community
   moderation. Run when the user says "we're getting piled on," "this post is blowing up negatively,"
   "someone's spreading false info about us," "how do we respond to this backlash," "should we
-  delete/hide this," "a deepfake of our brand," or needs to moderate a community. Reads
+  delete/hide this," "a deepfake of our brand," "we're getting trolled / hate in the comments," "a
+  fake account is impersonating us," or needs to moderate a community. Reads
   brand-profile/voice. Built on the verified 2026 reality: confirm facts and triage severity FIRST (low
   -> customer care/reply-and-comment-writer; medium -> PR/support; high -> legal + leadership);
   acknowledge fast (within ~30-60 min, "we're aware and investigating" — silence lets misinformation

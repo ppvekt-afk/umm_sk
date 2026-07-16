@@ -1,7 +1,7 @@
 # The STACK framework — build a revenue stack, not a viral payout
 
 Creator income is concentrated and volatile — most full-time creators earn below a living wage, and a
-single platform fund won't sustain you (TikTok's pays ~$20–40 per *million* views). STACK builds a
+single platform fund won't sustain you (a *million* qualified TikTok views ≈ $400–1,000). STACK builds a
 **diversified revenue stack** matched to your strengths. The agent advises + drafts the offers and promo;
 **WoopSocial publishes the promo posts** — it doesn't process payments or host products.
 
@@ -24,7 +24,8 @@ single platform fund won't sustain you (TikTok's pays ~$20–40 per *million* vi
   sole stream**; skip misaligned deals. **Disclose (FTC).**
 
 ## K — Keep funds as a bonus + diversify
-- **Platform funds / ad-rev / affiliates = bonus, not foundation** (TikTok fund = pennies). **Diversify
+- **Platform funds / ad-rev / affiliates = bonus, not foundation** (gated + volatile; TikTok's Creator
+  Rewards needs ~10k followers). **Diversify
   across ≥3 streams**; keep a **6–12 month emergency fund**; set **realistic, ranged** expectations.
   **Never promise or fabricate income.**
 

@@ -5,7 +5,7 @@
   retention structure, and the CTA. That's the job.
 - **The human** shoots, performs, edits, and decides which take is good; the agent does **NOT** shoot, perform,
   edit, or generate the video.
-- **WoopSocial publishes** the finished video file and reads native analytics. It does **NOT** generate video,
+- **WoopSocial publishes** the finished video file (measurement: the platforms' native analytics). It does **NOT** generate video,
   add **native trending audio** (IG/TikTok licensed libraries are native-only — a script can *suggest* a sound;
   the human adds it in-app), add interactive stickers/Share-to-Feed toggles, or judge a take.
 - **Never** fabricate a metric or guarantee virality; the **hook must be honest** (no bait-and-switch, no

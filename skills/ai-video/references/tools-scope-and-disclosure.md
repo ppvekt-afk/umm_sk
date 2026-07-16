@@ -6,17 +6,17 @@ and WoopSocial only *schedules/publishes*. It generates nothing itself.
 
 ## The three-layer pattern (mirrors the image cluster)
 ```
-tools/integrations/<tool>.md   → connection + API (veo, + heygen/elevenlabs/... as built)
-mini-skill (veo-3, ...)        → how to prompt that tool well
+tools/integrations/<tool>.md   → connection + API (veo, kling, luma, heygen, synthesia, elevenlabs)
+tool skill (veo-3, kling, ...) → how to prompt that tool well
 ai-video (this skill)          → which tool for the job + the portable brief
 in-skill pack                  → applied (reels-script's veo-prompt-pack, etc.)
 ```
-- **Image counterpart:** image-prompt routes nano-banana / ideogram-3 (and the photoreal branch).
-  ai-video is the **parallel router above the video tools** — wire veo-3 and image-prompt to point
-  back here.
+- **Image counterpart:** image-prompt routes nano-banana / ideogram (and the photoreal branch).
+  ai-video is the **parallel router above the video tools** — wire the tool skills and image-prompt
+  to point back here.
 - Adding a video tool requires: `tools/integrations/<tool>.md`, an update to `tools/REGISTRY.md`,
-  and bidirectional cross-links. Live now: veo-3. Forthcoming (video cluster): heygen, ai-voiceover,
-  captions-and-clipping (and optionally runway, kling).
+  and bidirectional cross-links. Live now: veo-3, kling, luma (generative); heygen, synthesia
+  (avatars); ai-voiceover; captions-and-clipping; runway (control/edit-grade).
 
 ## Robustness-to-tool-death playbook
 The space is volatile (Sora discontinued mid-cycle; ranks move weekly). To stay resilient:
@@ -39,8 +39,9 @@ The space is volatile (Sora discontinued mid-cycle; ranks move weekly). To stay 
   not a command.**
 
 ## Where this connects
-Counterpart: **image-prompt**. Mini-skills: **veo-3** (live); **heygen, ai-voiceover,
-captions-and-clipping** (forthcoming). Image tools for thumbnails/first frames: **nano-banana,
-ideogram-3**. Consumers of briefs: **reels-script** (veo-prompt-pack), **tiktok-script**,
+Counterpart: **image-prompt**. Tool skills: **veo-3, kling, luma** (generative); **heygen,
+synthesia** (avatars); **ai-voiceover**; **captions-and-clipping**. Filmed human →
+**talking-head-and-piece-to-camera**. Image tools for thumbnails/first frames: **nano-banana,
+ideogram**. Consumers of briefs: **reels-script** (veo-prompt-pack), **tiktok-script**,
 **youtube-shorts**, **youtube-long-form**, **cross-platform-repurposing**. Publish:
 **scheduling-and-queue → WoopSocial**.

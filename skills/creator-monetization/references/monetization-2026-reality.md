@@ -21,9 +21,12 @@ prioritize **predictable, recurring** revenue. *"Diversification isn't optional 
   mid-tier roughly **$1,000–5,000/deal** (5–10× platform-fund earnings). Eroding via AI-content
   commoditization + skepticism → **don't make it the only stream.** ROI/attribution earns **2–3×** flat-fee.
 - **Platform funds / ad revenue — a bonus, not a foundation.** YouTube AdSense **55/45**, CPM ~**$0.25–4**
-  (finance/tech higher); ~$1–10k/mo at 100k subs; needs 1k subs + 4k watch-hrs. **TikTok Creator Fund pays
-  pennies (~$0.02–0.04/1k views → 1M views ≈ $20–40)** — do not rely on it. IG Reels bonus $200–1,000+/reel
-  (high bar). LinkedIn B2B CPM **$15–30+**. Affiliate = low-medium, eroded by AI search.
+  (finance/tech higher); ~$1–10k/mo at 100k subs; needs 1k subs + 4k watch-hrs. **TikTok:** the old Creator
+  Fund ($0.02–0.04/1k) shut down in late 2023; its successor **Creator Rewards pays ~$0.40–1.00 per 1k
+  *qualified* views** (1min+ videos; ~10k followers + 100k views/30d to join) → 1M qualified views ≈
+  **$400–1,000** — better, still a bonus, never the foundation. **IG's Reels Play bonus ended 2023**;
+  bonuses are now seasonal + invite-only — don't plan revenue around them. LinkedIn B2B CPM **$15–30+**.
+  Affiliate = low-medium, eroded by AI search.
 - **UGC-for-brands** — a standalone career: paid for **content, not influence** (works at small scale).
 - **Merch** (Printful/Fourthwall/Spring) — identity/affinity. **Services** (editing/strategy) — cash flow.
   **Tips/donations** — low-commitment direct support.

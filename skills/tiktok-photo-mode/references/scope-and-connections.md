@@ -7,7 +7,7 @@ publishes the native PHOTO post.**
 
 ## Honest scope (never violate)
 - **The agent writes the slide-by-slide plan, text-overlay copy, caption, and publish config.** The
-  **images themselves are produced by a human or an image skill** (`image-prompt`/`ideogram`/`imagen`) —
+  **images themselves are produced by a human or an image skill** (`image-prompt`/`ideogram`/`nano-banana`) —
   **WoopSocial does not generate images.**
 - **WoopSocial publishes the native PHOTO post** (`postType=PHOTO`, raw-bytes upload, server-side MIME
   detection) and **auto-discloses AI-generated content on TikTok.** **No update endpoint** → edit = delete
@@ -30,9 +30,9 @@ publishes the native PHOTO post.**
 ## Where this connects
 - **Reads first:** `brand-profile` (niche/voice), `goals-and-kpis` (saves/comments/follows/reach).
 - **Copy:** `hook-writer` (slide-1 hook), `caption-writer` (caption + CTA), `brand-profile` (voice).
-- **Images (external to WoopSocial):** `image-prompt`/`ideogram`/`imagen` (the slides), `carousel-writer`
+- **Images (external to WoopSocial):** `image-prompt`/`ideogram`/`nano-banana` (the slides), `carousel-writer`
   (if adapting a cross-platform carousel down to 9:16).
 - **Publish:** `scheduling-and-queue → WoopSocial` (native PHOTO), `platform-specs-and-validation`
   (validate-before-publish + the postType/field rules), `content-calendar`.
 - **Reuse/measure:** `content-recycling` (adapt to IG carousel / Pinterest), `analytics-and-reporting`
-  (native completion/saves readout), `experimentation` (A/B hooks/first slide). **Images stay external.**
+  (native completion/saves readout), `experimentation-and-ab-testing` (A/B hooks/first slide). **Images stay external.**

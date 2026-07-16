@@ -30,10 +30,10 @@ youtube-publishing-and-metadata is a **format-execution skill** — it writes th
 - **Reads first:** `brand-profile` (niche/voice), `goals-and-kpis` (search reach / subs / watch time), and
   the **script/video** (often from `youtube-long-form`/`youtube-shorts`).
 - **Content inputs (external to WoopSocial):** `youtube-long-form`/`youtube-shorts` (the script), the
-  **video** cluster (`veo`/`runway`/`kling`) + editing, `thumbnail-design` (the thumbnail, native upload),
+  **video** cluster (`veo-3`/`luma`/`kling`) + editing, `thumbnail-design` (the thumbnail, native upload),
   `hook-writer`/`caption-writer` (copy lines).
 - **Publish:** `scheduling-and-queue → WoopSocial` (YouTube fields), `platform-specs-and-validation`
   (validate + field rules), `content-calendar` (cadence).
 - **Reuse/measure:** `content-recycling` (→ Shorts/clips), `analytics-and-reporting` (search/watch-time/
-  CTR readout), `experimentation` (title/thumbnail A/B — run natively in Studio). **Video/thumbnail/A/B stay
+  CTR readout), `experimentation-and-ab-testing` (title/thumbnail A/B — run natively in Studio). **Video/thumbnail/A/B stay
   external/native.**

@@ -2,8 +2,8 @@
 
 **What it is:** the AI clip-finder (opus.pro) this stack uses to turn long video into short-clip candidates.
 **OpusClip finds + cuts candidates; the human approves; WoopSocial publishes.** Skill: `skills/opus-clip/`;
-the general craft lives in `skills/captions-and-clipping/` (no separate clipping.md tool file exists — this file
-carries the tool layer). Tiers/gates shift and sources conflict — **verify-quarterly**, confirm in-app.
+the general craft lives in `skills/captions-and-clipping/` (`clipping.md` covers the multi-tool clipping
+layer; this file goes deep on OpusClip itself). Tiers/gates shift and sources conflict — **verify-quarterly**, confirm in-app.
 
 ## Connection layers
 1. **API — reported Business-tier (custom pricing) only.** Below that, no direct agent automation of OpusClip
@@ -13,9 +13,8 @@ carries the tool layer). Tiers/gates shift and sources conflict — **verify-qua
 2. **In-app (human executes):** the agent supplies the pipeline plan — genre/length settings, negative prompts
    ("exclude intros, audio checks, sponsor reads"), moment-search phrasing, the triage plan, the per-clip QA
    checklist, caption fixes, the drip schedule — and the human runs it.
-3. **Publish handoff:** approved exports → `scheduling-and-queue` → **WoopSocial `POST /media` + `POST /posts`**
-   (per-platform required fields validate atomically). OpusClip's own scheduler exists; the WoopSocial split
-   (7 platforms, validation, one queue, native analytics) is a stated stack choice.
+3. **Publish handoff:** approved exports → `scheduling-and-queue` → **WoopSocial** (upload media → attach → validate → create post; per-platform required fields validate atomically — see `woopsocial.md`). OpusClip's own scheduler exists; the WoopSocial split
+   (10 platforms, validation, one queue; measurement stays in the platforms' native analytics) is a stated stack choice.
 
 ## Credit mechanics (the billing trap — attribute)
 **1 credit = 1 minute of SOURCE video processed, regardless of clips out.** +1 credit per direct X post (refunded

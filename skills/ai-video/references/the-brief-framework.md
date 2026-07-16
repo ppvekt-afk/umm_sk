@@ -18,8 +18,8 @@ No tool name lives in the brief. The tool is chosen at routing time and can chan
 ## R — Route by fit (output shape first, leaderboard second)
 Match the **job** (generative / avatar / voiceover / clip-captions) to the tool category, then the
 specific tool by its real strength (quality, control, value, HDR, dialogue). Hand prompt craft to
-the mini-skill (veo-3 live; heygen / ai-voiceover / captions-and-clipping forthcoming). When in
-doubt, a multi-model hub lets you try several without committing.
+the tool skill (veo-3 / kling / luma for generative; heygen / synthesia for avatars; ai-voiceover;
+captions-and-clipping). When in doubt, a multi-model hub lets you try several without committing.
 
 ## I — Iterate cheaply
 Separate **concept testing** (fast/cheap: Pika, Hailuo, Luma) from **final generation** (Veo, Kling,

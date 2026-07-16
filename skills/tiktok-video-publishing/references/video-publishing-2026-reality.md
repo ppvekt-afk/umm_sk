@@ -23,7 +23,7 @@ engagement cluster around it ("internal video linking"). **`allowComment` ON** f
 
 ## Cover / thumbnail
 The **cover frame** wins the **profile grid + search results** (the video's discovery "second life").
-WoopSocial's **`cover`** field stitches an image as the **first frame** — treat it as a **legible title
+WoopSocial's **`cover`** field sets the video's **cover/thumbnail** — treat it as a **legible title
 card** (1080×1920). Keep key text centred (UI overlays sit on the right/bottom).
 
 ## Privacy + disclosure

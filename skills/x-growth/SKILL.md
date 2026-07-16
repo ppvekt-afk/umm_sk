@@ -71,7 +71,7 @@ moment · **profile-optimization** = the bio that converts · **social-strategy*
 Reads first: **brand-profile**, **voice-builder**. Format craft: **thread-writer**, **hook-writer**,
 **caption-writer**. Timely/discovery: **trend-jacking**, **ai-search-optimization**. Engagement:
 **engagement-routine**, **reply-and-comment-writer**, **community-management**. Traffic:
-**link-in-bio-and-traffic** (forthcoming). Plan/measure: **social-strategy**, **competitor-analysis**
+**link-in-bio-and-traffic**. Plan/measure: **social-strategy**, **competitor-analysis**
 (native X analytics). Publish: **scheduling-and-queue → WoopSocial** (posts; live replies human).
 
 ## Definition of done

@@ -36,7 +36,7 @@ video/cover/burned-in captions come from other tools.
 ## Where this connects
 - **Reads first:** `brand-profile` (cover/caption style), the **finished Reel asset.**
 - **Pulls from:** `reels-script` (the hook/script), `instagram-seo` (the keyword caption), the **video tools**
-  (`veo-3`/`runway`/`kling`/`heygen` via `ai-video`) for the clip, `ideogram`/`imagen` for the **cover**,
+  (`veo-3`/`luma`/`kling`/`heygen` via `ai-video`) for the clip, `ideogram`/`nano-banana` for the **cover**,
   `captions-and-clipping` for the **burned-in captions.**
 - **Validates with:** `platform-specs-and-validation` (9:16, ≤4GB, MP4/MOV).
 - **Publishes via:** `scheduling-and-queue → WoopSocial` (postType REEL + video + caption + cover). **Measures

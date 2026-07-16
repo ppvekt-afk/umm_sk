@@ -37,24 +37,27 @@ publishes the repurposed clips**, which is where most of that value sits.
 
 ## The framework: STAGE
 (Depth: `references/the-stage-framework.md`.)
-- **S — Scope the format, platform + goal:** YouTube (evergreen/replay) · TikTok/IG (vertical + live shopping)
-  · LinkedIn (B2B) · X (realtime); mind thresholds (**IG/TikTok ~1,000 followers**).
+- **S — Scope the format, platform + goal:** YouTube (evergreen/replay) · TikTok (vertical + TikTok Shop live
+  shopping) · IG (vertical community; native live shopping discontinued 2023 — sell via keyword-to-DM) ·
+  LinkedIn (B2B) · X (realtime, Premium-only); mind thresholds (**IG/TikTok ~1,000 followers**).
 - **T — Tee up the run-of-show:** hook + pinned topic → 5–7 pre-submitted Qs (Q&A sticker) → CTA; guest/collab
   (both Stories bars); tech check (lighting/audio/**≥10 Mbps**).
 - **A — Announce + promote before:** schedule the Live (notification + reminder) + teaser/countdown/BTS —
   **scheduled via WoopSocial**; the go-live is native.
 - **G — Go live + engage (human/native):** greet joiners by name, address comments, recap for late joiners;
-  live shopping pins/CTAs/flash discounts; keyword-to-DM (→ `social-selling-and-dm`). **WoopSocial can't run
-  this.**
+  live selling (product pins on TikTok Shop LIVE; on IG a pinned comment + keyword-to-DM — no native product
+  tags); flash discounts; keyword-to-DM (→ `social-selling-and-dm`). **WoopSocial can't run this.**
 - **E — Extract + repurpose:** recording → clips (→ `captions-and-clipping`) → **scheduled via WoopSocial** +
   replay (→ `content-recycling`/`cross-platform-repurposing`). **One live → a multi-phase campaign.**
 
 ## The reality (verify-quarterly)
-IG Live (public + ~1,000 followers; schedule 1hr–90d; guests/moderator; save+replay; Live Shopping; 4K
-vertical; desktop limited); TikTok LIVE (~1,000 followers; unlimited; algorithm pushes beyond followers;
-shopping); YouTube Live (evergreen discovery/replay/search; mobile ~50+ subs; Dual Streaming); LinkedIn Live
-(B2B, via approved tools); X (verified, viral reposts). Live shopping ~$55B 2026, up to ~10× conversion, ~60%
-buy during/after (pin products/CTAs, flash discounts, demos). Run-of-show: hook + pinned topic → 5–7
+IG Live (public + ~1,000 followers — required since Aug 2025; schedule 1hr–90d; guests/moderator;
+save+replay; 4K vertical; desktop limited; **native Live Shopping discontinued Mar 2023** — sell via pinned
+comment + keyword-to-DM); TikTok LIVE (~1,000 followers; unlimited; algorithm pushes beyond followers;
+TikTok Shop LIVE shopping); YouTube Live (evergreen discovery/replay/search; mobile ~50+ subs; Dual
+Streaming); LinkedIn Live (B2B, via approved tools); X (Premium + public profile; viral reposts). Live
+shopping ~$55B US 2026 est., up to ~10× conversion, ~60% buy during/after (attribute) — product pins where
+native (TikTok Shop, YouTube), flash discounts, demos. Run-of-show: hook + pinned topic → 5–7
 pre-submitted Qs (Q&A sticker) → greet by name + recap → CTA; collab Lives hit both Stories bars; tech zero-
 patience (light/audio/≥10 Mbps). Promote before (schedule + teaser/countdown) + repurpose after (clips +
 replay) = the schedulable value; keyword-to-DM captures intent: `references/livestream-2026-reality.md`. The
@@ -90,8 +93,8 @@ planning**. Measure with: native live analytics + **analytics-and-reporting** (n
 A live planned end-to-end: the platform + goal scoped (with follower thresholds noted), a run-of-show ready
 (hook + pinned topic, 5–7 pre-submitted Qs, CTA, guest, tech check), the pre-live promo cadence scheduled via
 WoopSocial (announce → teaser → countdown → reminder), a live-engagement playbook the human runs natively
-(greet by name, address comments, recap for late joiners, live shopping pins/CTAs, keyword-to-DM to capture
-intent), and a repurposing pipeline (recording → clips via captions-and-clipping → scheduled via WoopSocial +
+(greet by name, address comments, recap for late joiners, platform-honest live selling — native pins on
+TikTok Shop, keyword-to-DM on IG — to capture intent), and a repurposing pipeline (recording → clips via captions-and-clipping → scheduled via WoopSocial +
 replay) that turns one live into a multi-phase campaign; the broadcast/realtime engagement/live shopping left
 as native/human; no viewer numbers fabricated and no fake views; correctly distinguished from
 community-management, campaign-and-launch-planning, and captions-and-clipping.

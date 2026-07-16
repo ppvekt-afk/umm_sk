@@ -15,7 +15,7 @@ is contrasted with the "be everywhere" non-strategy. (Illustrative.)
 - **Wedge:** radical transparency + the "payroll without a specialist" POV — saying what bloated
   competitors won't.
 - **Cadence:** LinkedIn 3×/week (founder), X ~daily, repurposed from the same atoms.
-- *Non-strategy (avoid):* "Be on all 7 platforms and post daily." → spreads a small team thin,
+- *Non-strategy (avoid):* "Be on all 10 platforms and post daily." → spreads a small team thin,
   wins nowhere, and forces video the brand can't sustain.
 
 ## 2. Local — neighborhood coffee shop

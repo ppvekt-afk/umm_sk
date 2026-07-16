@@ -12,6 +12,12 @@
 | Add-Yours / challenge | create + post | UGC, community threads | native sticker / hashtag challenge (route rights to ugc-and-influencer) |
 | Live AMA / Q&A | attendance | trust, real-time connection | native live (human runs; livestream-and-realtime) |
 
+**Per-platform reality (2026 — verify-quarterly):** the sticker set above (poll / emoji slider / quiz / question
+/ Add-Yours) is Instagram Stories; native poll *posts* also exist on X, LinkedIn, Threads, and YouTube (Community
+tab, which also has quizzes) — Facebook polls live in Groups/Stories; TikTok has Q&A plus poll/quiz stickers on
+videos. All are created in-app by the human (same native-only rule); a collab/co-authored post is a distribution
+mechanic, not a participation ask → `collabs-and-cross-promotion`.
+
 ## Classic stacks (escalating friction)
 Poll → Question ("tried X? yes/no" → "what happened?") · Quiz → Slider ("answer" → "how confident were you?") ·
 Countdown → Poll ("launch in 3 days" → "will you be there?") · Poll result → follow-up content ("78% said X — so

@@ -6,7 +6,7 @@ publish + writes the caption**; the **video FILE is an input**; **WoopSocial pub
 
 ## Honest scope (never violate)
 - **The agent configures the publish** (SEO caption, cover direction, reach settings, disclosure, mode) —
-  the **video FILE is filmed by a human or made by the video skills** (`veo`/`runway`/`kling` + edited in
+  the **video FILE is filmed by a human or made by the video skills** (`veo-3`/`luma`/`kling` + edited in
   CapCut). **WoopSocial doesn't film/edit/generate video.**
 - **WoopSocial publishes via `postType=VIDEO`** (raw-bytes upload, server MIME detection) and
   **auto-discloses AI on TikTok.** **No update** → edit = delete + recreate (only while `NOT_STARTED`).
@@ -30,10 +30,10 @@ publish + writes the caption**; the **video FILE is an input**; **WoopSocial pub
 - **Reads first:** `brand-profile` (voice/niche), `goals-and-kpis` (reach/saves/shop), and the **script/
   video** (often from `tiktok-script`).
 - **Content inputs (external to WoopSocial):** `tiktok-script` (the script), the **video** cluster
-  (`veo`/`runway`/`kling`) + editing, `image-prompt`/`ideogram`/`imagen` (the cover frame),
+  (`veo-3`/`luma`/`kling`) + editing, `image-prompt`/`ideogram`/`nano-banana` (the cover frame),
   `hook-writer`/`caption-writer` (copy lines).
 - **Publish:** `scheduling-and-queue → WoopSocial` (`postType=VIDEO`), `platform-specs-and-validation`
   (validate + the field rules), `content-calendar` (cadence/peak windows).
 - **Engage/reuse/measure:** `community-management` (pinned comment + replies), `content-recycling`
-  (→ Reels/Shorts), `analytics-and-reporting` (watch-time/search readout), `experimentation` (A/B caption/
+  (→ Reels/Shorts), `analytics-and-reporting` (watch-time/search readout), `experimentation-and-ab-testing` (A/B caption/
   cover). **Filming/editing, trending sound, and comments stay external/native.**

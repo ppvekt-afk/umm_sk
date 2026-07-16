@@ -58,8 +58,8 @@ Keyword + niche hashtags beat generic high-volume tags.
 
 - **Short (≈7–34s)** still dominates for FYP virality and rewatches — easiest to complete and loop.
 - **Longer (1–3 min+)** works for storytime, tutorials, and search-driven content; TikTok supports
-  up to ~10 min in-app (longer via upload — verify). TikTok has nudged toward longer content, but
-  short remains the safest bet for reach.
+  ~10 min recorded in-app and up to ~60 min via upload (verify-quarterly). TikTok has nudged toward
+  longer content, but short remains the safest bet for reach.
 - **Let the idea pick the length** — never pad to fill time; dead air kills completion.
 
 ## Native features (use where they fit)

@@ -4,7 +4,7 @@
 - **The agent** structures the transformation content — the narrative arc, the reveal/journey beats, the honest
   framing + the required disclosures, and the caption/script — and specs the visual. A **video/design tool** and
   the **human** produce the actual before/after media (real photos/footage/data); the **human** approves.
-- **WoopSocial does NOT generate media** — it **publishes the finished image/video** + reads native analytics.
+- **WoopSocial does NOT generate media** — it **publishes the finished image/video** (measurement: the platforms' native analytics).
 - **The honesty spine (this format's core, and it's law):** real un-staged before; **consistent conditions** (no
   lighting/posing/edit trickery — a visual trick is a deceptive claim under the FTC net-impression test); **real
   timeline**; **disclose aids** (filters/medication/surgery/pro help); **no cherry-picking/survivorship**; if the
@@ -22,7 +22,7 @@
 - **storytelling-and-narrative** = the narrative arc; **this** specializes it to the before/after structure.
 - **educational-content-and-how-to** = teaches a process; **this** = the transformation *reveal* format (they
   pair for a case-study teach).
-- **quote-cards / design-and-templates** = the visual assets/system.
+- **quote-cards-and-text-graphics / design-and-templates** = the visual assets/system.
 
 ## Where this connects
 - **Reads first:** brand-profile + social-proof-and-testimonials (consent + FTC substantiation) +

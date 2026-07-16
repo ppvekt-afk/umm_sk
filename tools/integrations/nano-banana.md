@@ -15,7 +15,7 @@ is the connection layer behind it.)
 generation**, a small family of image-capable Gemini models. As of mid-2026 (verify):
 
 - **Nano Banana** — `gemini-2.5-flash-image`. Fast, cheap, high-volume.
-- **Nano Banana 2** — `gemini-3.1-flash-image` (preview suffix may apply). Launched Feb 2026; adds
+- **Nano Banana 2** — `gemini-3.1-flash-image` (GA; a `-preview` variant also exists). Launched Feb 2026; adds
   up to 4K; the high-efficiency default for most work.
 - **Nano Banana Pro** — `gemini-3-pro-image` (GA June 2026). Best **legible in-image text**
   (multilingual), multi-image composition (blend up to ~14 reference images), complex-instruction
@@ -29,7 +29,7 @@ Treat "Nano Banana API" as a **Gemini API** question:
   (`generateContent`). The programmatic path. Image returns as base64 `inline_data` inside
   `candidates[0].content.parts` — iterate parts, don't assume an index.
 - **Google AI Studio** — testing surface; a free tier (~500 images/day, verify) for prototyping.
-- **Vertex AI** — enterprise/scaled use.
+- **Gemini Enterprise Agent Platform** (formerly Vertex AI) — enterprise/scaled use.
 - **Gemini app / Workspace / Google Ads** — no-code surfaces.
 
 API key from **Google AI Studio** or **Google Cloud Console** (enable the Gemini API; new Cloud
@@ -64,10 +64,11 @@ an image.
 ## Relationship to other pieces
 
 - **This guide** = the connection/API layer (shared).
-- **`nano-banana` mini-skill** (Tier 2) = prompt craft / driving the model well.
+- **`nano-banana` mini-skill** (Tier 2, under the `image-prompt` router) = prompt craft / driving
+  the model well.
 - **A skill's bundled pack** (e.g., `carousel-writer`) = how that skill applies it.
 
 ## Skills that use it
 
-`carousel-writer` (and forthcoming `image-prompt`, `thumbnail`, `quote-graphic`,
-`infographic-prompt`, `carousel-design`). Alternative text-in-image engine: `integrations/ideogram.md`.
+`carousel-writer` (and `image-prompt`, `thumbnail-design`, `quote-cards-and-text-graphics`,
+`infographic-and-data-viz`). Alternative text-in-image engine: `integrations/ideogram.md`.

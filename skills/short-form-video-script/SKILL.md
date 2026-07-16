@@ -63,8 +63,8 @@ patterns, the cut-test, curve-reading, and two worked examples: `references/scri
 
 ## Honest scope (never violate)
 - **The agent** writes the script (spoken + on-screen text + beat/shot direction + hook variants + CTA); the
-  **human** shoots/performs/edits/decides the take; **WoopSocial publishes** the finished file + reads native
-  analytics. It does **NOT** generate video, add **native trending audio** (native-only — a script can suggest a
+  **human** shoots/performs/edits/decides the take; **WoopSocial publishes** the finished file (measurement: the platforms' native
+  analytics). It does **NOT** generate video, add **native trending audio** (native-only — a script can suggest a
   sound; the human adds it in-app), add interactive stickers, or judge a take.
 - **Never** fabricate a metric or guarantee virality; the **hook must be honest** (no bait-and-switch, no
   fabricated stat); **AI-disclosure** for AI voice/visuals; **likeness/consent** (real or AI lookalike); **YMYL**
@@ -75,9 +75,10 @@ patterns, the cut-test, curve-reading, and two worked examples: `references/scri
 **short-form-video-script (this)** = the master scripting craft · **reels-script / tiktok-script / youtube-shorts**
 = platform-specific execution + publishing (this feeds them) · **hook-writer** = the hook line (the W component) ·
 **talking-head-and-piece-to-camera** = on-camera delivery (this = the script; pair) · **captions-and-clipping** =
-clipping existing long video into shorts (this scripts from scratch) · **ai-video / veo-3 / heygen / kling** =
-*generate* the video (this scripts it) · **storytelling/educational/etc.** = the content angle/WHAT (this = the
-format execution/HOW).
+clipping existing long video into shorts (this scripts from scratch) · **scripting-and-storyboarding** = longer
+video scripts + shot-by-shot boards ("storyboard my video" goes there; this = the short-form script itself) ·
+**ai-video / veo-3 / heygen / kling** = *generate* the video (this scripts it) · **storytelling/educational/etc.**
+= the content angle/WHAT (this = the format execution/HOW).
 
 ## Where this connects
 Reads first: **brand-profile** + **voice-builder.** Pulls the 'what' from the **content-angle skills**; uses

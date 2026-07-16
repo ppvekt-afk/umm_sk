@@ -34,8 +34,10 @@ unlinked mentions** — not just likes.
 - **IP:** many memes use copyrighted images/video/music. Social sharing often gets **fair-use** latitude, but
   **commercial/brand use = greater liability.** **Right of publicity** (a person's likeness) + **trademark**
   (creators trademark catchphrases — "Damn Daniel"). **The 2026 "likeness crisis":** using an AI-generated
-  image that **merely *looks like*** a real person/celebrity for commercial gain is now **legally actionable**
-  in the US + UK (post-DMCA-2025 updates + the EU AI Act) — an AI lookalike is **not** a loophole.
+  image that **merely *looks like*** a real person/celebrity for commercial gain is **legally actionable** —
+  US state right-of-publicity law (e.g. Tennessee's ELVIS Act, California) already covers AI replicas, a
+  federal **NO FAKES Act** is advancing in Congress (Senate Judiciary, June 2026), the EU AI Act adds
+  transparency duties, and UK passing-off applies — an AI lookalike is **not** a loophole. (verify-quarterly)
   **Mitigation: make ORIGINAL meme-style visuals** (AI image gen + the final human pass, custom photography,
   commissioned illustration); **avoid copyrighted characters / any real person's likeness (real OR an AI
   lookalike) without permission;** credit original creators; lawyer when unsure.

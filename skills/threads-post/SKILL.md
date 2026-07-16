@@ -1,7 +1,7 @@
 ---
 name: threads-post
 description: >-
-  The Threads format-execution skill. Use when someone wants a "Threads post," to "post to Threads," grow
+  Write and publish single posts on Meta's Threads — the Threads format-execution skill. Use when someone wants a "Threads post," to "post to Threads," grow
   on Meta's Threads, or publish a Threads post via WoopSocial. Writes a Threads-native conversation post
   (text <=500 + optional media) built to earn replies — Threads is conversation-first: replies outweigh
   likes, engagement velocity (first 30-90 min) drives distribution, the For You feed surfaces new accounts,
@@ -9,8 +9,9 @@ description: >-
   Uses the REPLY framework. Reads brand-profile + goals-and-kpis first. WoopSocial publishes ONE Threads
   post (no native multi-post chain, no polls/voice/GIF, no reply surface); the replying that drives reach
   is a human/community-management job; no update endpoint (edit = delete+recreate); metrics never
-  fabricated; no engagement bait. Distinct from x-growth (sibling text platform, different culture) and
-  caption-writer (text only).
+  fabricated; no engagement bait. Distinct from thread-writer (a user saying "write a thread" wants that
+  multi-post X chain, not this), x-growth (sibling text platform, different culture) and caption-writer
+  (text only).
 version: 1.0.0
 ---
 
@@ -64,17 +65,18 @@ Post types, anatomy, the WoopSocial Threads publish block + worked examples:
 
 ## Distinct from its siblings (route correctly)
 **threads-post (this)** = the Threads-native conversation post + the WoopSocial Threads publish facts ·
-**x-growth** = the sibling text platform, different culture (X real-time/credit-metered, links-in-reply;
-Threads conversation/reply-driven, links-inline) · **caption-writer**/**hook-writer** = the post line ·
-**community-management** = the replies that win reach.
+**thread-writer** = the multi-post chain ("write a thread" means that; this is ONE post — WoopSocial can't
+chain) · **x-growth** = the sibling text platform, different culture (X real-time/credit-metered,
+links-in-reply; Threads conversation/reply-driven, links-inline) · **caption-writer**/**hook-writer** =
+the post line · **community-management** = the replies that win reach.
 
 ## Where this connects
 Reads first: **brand-profile**, **goals-and-kpis**. Copy: **hook-writer**, **caption-writer**. Media
-(external to WoopSocial): **image-prompt**/**ideogram**/**imagen**, the **video** cluster. Publish:
+(external to WoopSocial): **image-prompt**/**ideogram**/**nano-banana**, the **video** cluster. Publish:
 **scheduling-and-queue → WoopSocial** (single Threads post to a velocity window),
 **platform-specs-and-validation** (validate + field rules), **content-calendar** (cadence). Engage/measure:
 **community-management** (the reply work), **analytics-and-reporting** (replies/reach/profile-visits),
-**experimentation** (A/B hooks/times). Replies + polls/voice stay native.
+**experimentation-and-ab-testing** (A/B hooks/times). Replies + polls/voice stay native.
 
 ## Definition of done
 A conversation-starting post (question/hot take/opinion) in the brand's voice, ≤500 chars, with one genuine

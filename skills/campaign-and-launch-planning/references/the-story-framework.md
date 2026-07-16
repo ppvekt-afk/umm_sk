@@ -11,8 +11,8 @@ ads, checkout, press, and livestream are external/native.**
   owns what, the timeline). **Discipline over speed.**
 
 ## T — Tease to build demand (pre-launch)
-- **Emotional investment** before the offer exists. **Waitlist** (specific promise; ~30% higher day-one) +
-  **referral.** **One campaign hub** all links point to. **BTS / teasers / proof drops**; a **beta group**
+- **Emotional investment** before the offer exists. **Waitlist** (specific promise; pre-launch marketing ≈
+  +30% day-one sales — vendor, directional) + **referral.** **One campaign hub** all links point to. **BTS / teasers / proof drops**; a **beta group**
   (50–200); **personalized press/creator outreach** (10–20, not a mass release).
 
 ## O — One coordinated launch (launch day)

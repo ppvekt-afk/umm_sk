@@ -68,7 +68,7 @@ picker-and-templates.md`.
 ## Honest scope (never violate)
 - **The agent** designs the viz spec (chart type, takeaway title, honest scale, labels, accessibility, alt text)
   and can draft a chart; a **design/chart tool renders** the final graphic; the **human** approves; **WoopSocial
-  publishes** the finished image + reads native analytics. **WoopSocial does NOT generate media.**
+  publishes** the finished image (measurement: the platforms' native analytics). **WoopSocial does NOT generate media.**
 - **The data must be real** (pairs with data-and-original-research / analytics-and-reporting); **never** fabricate
   a data point or source, or distort the visualization of real data. **Honest scales** (zero-baseline bars, no
   3D/dual-axis/cherry-pick); **cite source + date** + context; **accessibility** (color-blind-safe + redundant

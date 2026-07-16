@@ -1,7 +1,7 @@
 ---
 name: analytics-and-reporting
 description: >-
-  The measurement keystone for 2026. Use when someone wants to "check my analytics," "see how my posts
+  Social media analytics and reporting — read native platform data honestly and turn it into next actions. Use when someone wants to "check my analytics," "see how my posts
   are doing," "build a social media report," "which content is working," "what metrics/KPIs should I
   track," or to turn performance data into next steps. Measures goal-mapped SIGNAL metrics (saves,
   shares, watch time/retention, engagement-rate-by-reach, follower-growth-rate, CTR, conversions) — not
@@ -64,14 +64,14 @@ platform-specific signal, relative benchmarks, attribution undercount, and the r
 
 ## Distinct from its siblings (route correctly)
 **analytics-and-reporting (this)** = measure native performance + report + close the loop ·
-**goals-and-kpis** (forthcoming) = set the targets this measures against · **experimentation** = design
+**goals-and-kpis** = set the targets this measures against · **experimentation** = design
 + run controlled tests (this reads their results) · **competitor-analysis** = rivals' *public* numbers
 (this is your own first-party data).
 
 ## Where this connects
 Reads first: **brand-profile**, **social-strategy**. Feeds: **content-recycling** (winner selection),
 **experimentation**, **competitor-analysis**, **goals-and-kpis**, and **every growth skill** (IG, TikTok,
-LinkedIn, YouTube×2, X, Pinterest, Facebook). Informs: **hook-writer**, **viral-reverse-engineering**,
+LinkedIn, YouTube×2, X, Pinterest, Threads, Facebook). Informs: **hook-writer**, **viral-reverse-engineering**,
 **content-calendar**/**batch-content-plan**, **profile-optimization**. Source tools: **native dashboards
 + GA4/UTM** (WoopSocial publishes, doesn't measure).
 

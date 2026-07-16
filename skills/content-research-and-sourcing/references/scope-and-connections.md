@@ -23,9 +23,9 @@
   feeds it verified quotes).
 - **infographic-and-data-viz** = owns honest visualization of the numbers this verifies.
 - **before-after-and-transformation** = owns results-claim compliance (FTC net-impression).
-- **news-and-commentary / trend skills** = speed contexts where this skill's protocol runs in compressed form
+- **trend-jacking / the trend skills** = speed contexts where this skill's protocol runs in compressed form
   (verify before amplifying).
-- **listicle-and-roundup / educational-content** = formats whose claims this verifies.
+- **listicle-and-roundup / educational-content-and-how-to** = formats whose claims this verifies.
 
 ## Where this connects
 - **Reads first:** brand-profile (voice for attribution style) + the piece's format skill + platform norms.

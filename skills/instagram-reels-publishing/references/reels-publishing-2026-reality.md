@@ -15,7 +15,7 @@ problem.** Design for **how Instagram actually displays a Reel**, not how it loo
 
 ## The crop trap (3 display contexts)
 - **Reels tab = full 9:16** (full frame). **Main feed preview = 4:5** crop (cuts top/bottom). **Profile grid =
-  3:4 (1080×1440)** — the **2026 rectangular-grid change** (removes the top ~240px + bottom ~240px; was 1:1).
+  3:4 (1080×1440)** — the **2025 rectangular-grid change** (rolled out Jan 2025; removes the top ~240px + bottom ~240px; was 1:1).
   **Link/DM preview ≈ 1.91:1.** → **Design for 9:16 but keep critical content (hook text, face, CTA) centered**
   so it survives every crop.
 

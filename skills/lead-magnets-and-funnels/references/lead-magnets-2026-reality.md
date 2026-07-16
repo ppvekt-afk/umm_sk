@@ -11,7 +11,7 @@ possible by **3–5×**. The problem usually isn't the funnel — **it's the mag
 ## What works now: interactive, instant, specific
 **Interactive / instant-result magnets** (quizzes, calculators, assessments, generators, specific
 templates) convert **~4× static PDFs**. **AI-personalized checklists ≈ 11.4% conversion-to-sale** in a
-30-day window vs **4.7%** for long-form PDF guides. The rules:
+30-day window vs **4.7%** for long-form PDF guides (CMI 2026 B2C report; attribute). The rules:
 - **One audience, one problem, one quick win** — relevance is the single biggest conversion lever; broad
   = converts no one.
 - **Instant, on-the-spot result** (a score/plan/recommendation) beats "check your inbox in 10 minutes."
@@ -37,7 +37,8 @@ benefit-first landing page -> short form -> instant success/thank-you page (sets
 ```
 - **Short form:** email (or email + first name) only — **each extra field cuts conversion ~5–10%.** Native
   lead forms (Meta instant forms) = lower CPL but **lower quality**; landing pages = higher quality.
-- **On-page video** can lift conversions up to **86%**; **multi-step conversational forms +49.3%** completion.
+- **On-page video** tends to lift landing conversion (the oft-cited "up to 86%" figure is a decade old —
+  treat as directional and A/B your own); **multi-step conversational forms +49.3%** completion.
 
 ## The nurture (value-first, behavior-branched)
 **3–5 emails** is ideal (longer can convert even better): **deliver the asset → one quick win → proof/

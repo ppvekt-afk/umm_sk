@@ -23,7 +23,7 @@ privacyLevel: from platform-inputs (PUBLIC_TO_EVERYONE for reach; branded can't 
 allowComment: true            # engagement engine
 allowDuet: true               # APPLIES to VIDEO - free distribution
 allowStitch: true             # APPLIES to VIDEO - free distribution
-cover: <image media>          # stitched as the FIRST frame -> the title-card thumbnail (1080x1920)
+cover: <image media>          # the video's cover/thumbnail -> the title-card look (1080x1920)
 isYourBrand: <true if promoting own products>        # disclosure - truthful
 isBrandedContent: <true if a third party paid>        # disclosure - truthful; #ad up front
 postMode: DIRECT_POST         # or MEDIA_UPLOAD = inbox-to-finish (add a trending sound natively)

@@ -59,11 +59,12 @@ brand, audience, and goals?"** — *silence on the wrong day beats noise on the 
 Lead times: major 8–12 wk / minor 2–4 wk; brief Back-to-School in May, Halloween in Aug; quarterly (13-wk)
 cycles. Biggest-ROI moments: Christmas, **BFCM (Nov 27 / Nov 30 2026)**, **Halloween (Oct 31 — Saturday)**,
 Valentine's, Mother's — run as a **multi-week series**; **BFCM = a dedicated campaign + paid** (organic
-doesn't carry it; social ≈14% of holiday e-commerce traffic). Authenticity gate: Pride/MLK/Juneteenth/Earth
+doesn't carry it; social ≈16% of holiday e-commerce traffic). Authenticity gate: Pride/MLK/Juneteenth/Earth
 Day need **year-round standing** ("why us, why this moment?" or stay quiet — rainbow-washing/authenticity-
 theater backlash; a sale on a solemn/identity day is tone-deaf). Tier by category + brand-safety (safe/
-sensitive/caution). Plan around seasons, retail anchors, awareness months, industry events (CES/MWC), cultural/
-sporting (2026 World Cup, Winter Olympics), milestones. Go beyond "happy [day]"; measure vs the goal:
+sensitive/caution). Plan around seasons, retail anchors, awareness months, industry events (CES/MWC), major
+cultural/sporting moments (Olympics/World Cup cycles, awards shows — confirm what's actually upcoming;
+these rotate), milestones. Go beyond "happy [day]"; measure vs the goal:
 `references/seasonal-moments-2026-reality.md`. The two gates, the tier table, the lead-time table, the
 per-moment plan, the WoopSocial flow + worked examples: `references/building-the-moment-calendar.md`.
 

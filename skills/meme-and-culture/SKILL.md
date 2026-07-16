@@ -60,7 +60,7 @@ over-explaining, off-brand. Safety: never tragedies/sensitive/divisive/private/a
 research origin. IP: make original visuals; no copyrighted characters/celeb likeness; trademark on
 catchphrases; commercial use ≠ casual fair use. AI generates concepts but the human adds the final ~10% wit +
 sensitivity pass. Platforms: TikTok (video + sound), X (reactive screenshots), LinkedIn (work humor, witty not
-edgy), Reddit (participate, don't broadcast): `references/meme-culture-2026-reality.md`. The format/platform
+edgy), Reddit (participate, don't broadcast — `reddit-marketing`): `references/meme-culture-2026-reality.md`. The format/platform
 literacy, the brand-fit filter, the safety "don't" list, the IP checklist, the execution playbook + worked
 examples: `references/formats-fit-and-safety.md`.
 
@@ -88,7 +88,7 @@ trending-audio licensing · **caption-writer**/**hook-writer** = the general cop
 Reads first: **brand-profile** + the **meme/moment** (+ origin). Pairs with: **trend-jacking** (the speed
 play), **community-management** (reactive banter), **audience-research** (what the in-group finds funny),
 **social-strategy** (memes as a pillar, not a random act). Briefs for the asset: **image-prompt** →
-**ideogram**/**imagen**/**nano-banana**, **design-and-templates** (original meme visuals); **ai-music-and-
+**ideogram**/**nano-banana**, **design-and-templates** (original meme visuals); **ai-music-and-
 sound** (trending audio). Publishes via: the **finished meme** → **scheduling-and-queue → WoopSocial**
 (evergreen/planned) or the **human posts reactive ones in the moment.** Measure with: dark-social + brand
 search + **analytics-and-reporting** (never fabricated). Cultural fit, IP clearance + the final wit pass stay

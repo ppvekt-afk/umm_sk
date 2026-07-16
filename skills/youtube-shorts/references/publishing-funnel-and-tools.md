@@ -7,7 +7,7 @@ YouTube Studio holds the measurement. Here's the wiring.
 Route the finished Short through **scheduling-and-queue**, which connects to WoopSocial via
 **`tools/integrations/woopsocial.md`** (indexed in `tools/REGISTRY.md`).
 - **Endpoints:** MCP `https://api.woopsocial.com/mcp` · REST `https://api.woopsocial.com/v1`.
-- **YouTube is a supported platform** (one of 7). Native scheduling; auto per-platform handling.
+- **YouTube is a supported platform** (one of 10, as of July 2026). Native scheduling; auto per-platform handling.
 - **Lifecycle:** create / list / read / **validate** / delete. **No update** — editing a Short
   means **delete + recreate**. Validate before publishing.
 - **No analytics surface.** WoopSocial cannot report swipe rate, retention, or engaged views.

@@ -41,7 +41,7 @@ caption underperforms.
 
 ## TikTok
 
-- **Caption limit:** up to ~4,000 characters (expanded in 2024; verify).
+- **Caption limit:** up to ~4,000 characters (expanded from 2,200; verify).
 - **Preview:** only a short portion shows over the video; lead with the hook or a curiosity
   gap.
 - **Hashtags & keywords:** relevant hashtags help categorization; **keywords in the caption

@@ -16,25 +16,26 @@
   verify-quarterly.
 
 ## Distinct from its siblings (route correctly)
-- **content-strategy / content-calendar** = the goals, pillars, and schedule this system serves (pillars are
-  *defined* there; this fills them).
+- **social-strategy / content-pillars / content-calendar** = the goals, pillars, and schedule this system
+  serves (pillars are *defined* there; this fills them).
 - **audience-research** = who the audience is and what they want (this consumes its outputs and feeds findings
   back).
 - **trend-jacking / trends skills** = riding live trends (here, trends are only a timing filter).
 - **contrarian-and-opinion** = the POV craft the A-gate routes to.
-- **content-remixing-and-formats / content-recycling** = executing the matrix multiplication on existing
+- **cross-platform-repurposing / content-recycling** = executing the matrix multiplication on existing
   content (this generates; those transform).
 - **data-and-original-research** = original data as a signal source and as content.
 - **hook-writer + the format skills** = where a chosen idea goes to become content.
 - **interactive-content** = the probe mechanics (polls) + the micro-survey loop feeding S.
 
 ## Where this connects
-- **Reads first:** brand-profile + content-strategy (pillars, goals) + audience-research (the segments).
+- **Reads first:** brand-profile + social-strategy + content-pillars (pillars, goals) + audience-research
+  (the segments).
 - **Consumes signals from:** interactive-content (poll results), community-management (relayed conversations),
   analytics-and-reporting (what worked), data-and-original-research, social-listening done natively by the
   human.
 - **Feeds:** every content-angle and format skill (the chosen idea's execution), content-calendar (the
-  schedule), scripting-and-storyboarding (Wave 13 sibling).
+  schedule), scripting-and-storyboarding.
 - **Publishes via:** the executed content → scheduling-and-queue → **WoopSocial.**
 - **Measure with:** bank runway + probe responses + native performance via **analytics-and-reporting** — never
   fabricated.

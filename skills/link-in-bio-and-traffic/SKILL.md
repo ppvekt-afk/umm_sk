@@ -1,7 +1,7 @@
 ---
 name: link-in-bio-and-traffic
 description: >-
-  The conversion-bridge skill for 2026. Use when someone wants to "drive traffic from social," "optimize
+  Link-in-bio and traffic strategy — convert social reach into clicks, subscribers, and owned audience. Use when someone wants to "drive traffic from social," "optimize
   my link in bio," "get more clicks," "turn followers into email subscribers / leads / sales," "where do
   I put my link," or to convert reach into an owned audience. Turns rented reach into clicks and an OWNED
   audience: one clear action (not a link-dump), capture-before-sell, correct link placement per platform
@@ -64,16 +64,16 @@ destination cheat-sheet, capture funnel, hub structure, UTM scheme + worked exam
 ## Distinct from its siblings (route correctly)
 **link-in-bio-and-traffic (this)** = reach → clicks → owned audience (link/destination/placement) ·
 **profile-optimization** = the whole profile/bio that earns the follow · **social-selling-and-dm**
-(forthcoming) = the DM funnel · **email-and-newsletter** (forthcoming) = the owned channel itself ·
-**lead-magnets-and-funnels** (forthcoming) = designs the magnet/funnel this points into. *(The
-"forthcoming link/traffic" pointers in `story-writer`, `pinterest-growth`, and `x-growth` resolve here.)*
+= the DM funnel · **email-and-newsletter** = the owned channel itself ·
+**lead-magnets-and-funnels** = designs the magnet/funnel this points into. *(The
+link/traffic pointers in `story-writer`, `pinterest-growth`, and `x-growth` resolve here.)*
 
 ## Where this connects
 Reads first: **brand-profile**, **goals-and-kpis**. Placement mechanics: **x-growth**,
 **facebook-strategy**, **linkedin-growth**, **pinterest-growth**, **instagram-growth**, **tiktok-growth**,
 **youtube-shorts**/**-long-form**, **story-writer**. Copy/creative: **caption-writer**, **hook-writer**,
 **image-prompt**/**ideogram**. Capture/nurture: **email-and-newsletter**, **lead-magnets-and-funnels**,
-**social-selling-and-dm** (forthcoming). Measure/test: **analytics-and-reporting** (GA4/native),
+**social-selling-and-dm**. Measure/test: **analytics-and-reporting** (GA4/native),
 **experimentation** (A/B the hub). Publish: **scheduling-and-queue → WoopSocial**.
 
 ## Definition of done

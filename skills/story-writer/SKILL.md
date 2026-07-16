@@ -3,8 +3,8 @@ name: story-writer
 description: >-
   Writes Instagram/Facebook Stories as a content type. Use when someone wants "a Story" / "Stories,"
   "an IG/FB Story sequence," "Story ideas," interactive sticker content (polls, quizzes, question
-  boxes, countdowns, link stickers), a behind-the-scenes or daily-update sequence, or to turn a post
-  into Stories. Stories are the relationship-deepening surface (not reach) — optimise for completion +
+  boxes, countdowns, link stickers), a Close Friends drop, a behind-the-scenes or daily-update
+  sequence, or to turn a post into Stories. Stories are the relationship-deepening surface (not reach) — optimise for completion +
   interaction. Uses the FRAME framework. Reads brand-profile + voice-builder first. The agent drafts
   frames + sticker copy; WoopSocial schedules/publishes base frames (IG+FB); interactive stickers and
   DM replies are handled natively in-app by a human; metrics come from native Insights; nothing is
@@ -33,7 +33,7 @@ for **completion + interaction (sticker taps, replies, link taps)**, never impre
 - **F — First frame earns the tap-through:** sound-off hook stating the problem/outcome (most exits
   happen here); 9:16, safe zone, text sparingly.
 - **R — Rhythm: one beat per frame:** a 3–5 frame arc (or multi-day mini-series), each a distinct
-  takeaway; ≤15s per segment.
+  takeaway; keep each beat short (~15s) even though a segment can run to 60s.
 - **A — Activate with a sticker:** poll/quiz/question/slider/countdown — the single most effective
   Stories tool; turns watchers into tappers (+ free audience research).
 - **M — Move to one action:** **one goal per sequence**; link sticker + **"Tap here"** overlay / reply
@@ -42,8 +42,9 @@ for **completion + interaction (sticker taps, replies, link taps)**, never impre
   completion/exits/taps natively to learn.
 
 ## Specs + cadence (verify-quarterly)
-9:16 (1080×1920), key content in the **safe zone (1080×1420)**, **sound-off legible**, ≤15s/segment.
-Post **daily, ~3–7 frames**; mix ~**70% value / 20% BTS / 10% promo.** Sticker/sequence playbook:
+9:16 (1080×1920), key content in the **safe zone (1080×1420)**, **sound-off legible**; video segments
+run up to **60s** (photos show ~5s) — keep beats ~15s. Post **daily, ~3–7 frames**; mix ~**70% value /
+20% BTS / 10% promo**; use **Close Friends** for insider/VIP drops. Sticker/sequence playbook:
 `references/sequence-and-sticker-recipes.md`; full reality: `references/stories-2026-reality.md`.
 
 ## Honest scope (never violate)
@@ -64,8 +65,8 @@ Post **daily, ~3–7 frames**; mix ~**70% value / 20% BTS / 10% promo.** Sticker
 
 ## Where this connects
 Reads first: **brand-profile**, **voice-builder**. Frame assets: **image-prompt** →
-**ideogram**/**imagen**/**nano-banana**; clips via **reels-script**/**ai-video**. Copy: **hook-writer**,
-**caption-writer**. Traffic: **link-in-bio-and-traffic** (forthcoming). Reuse: **content-recycling**,
+**ideogram**/**nano-banana**; clips via **reels-script**/**ai-video**. Copy: **hook-writer**,
+**caption-writer**. Traffic: **link-in-bio-and-traffic**. Reuse: **content-recycling**,
 **cross-platform-repurposing**. Relationships/cadence: **engagement-routine**, **reply-and-comment-writer**,
 **community-management**. Publish: **scheduling-and-queue → WoopSocial** (base frames; stickers native).
 

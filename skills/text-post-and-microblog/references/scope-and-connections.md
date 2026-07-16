@@ -2,11 +2,13 @@
 
 ## Honest scope (never violate)
 - **The agent** writes the text post — the first line, the body, the structure, the ending/CTA, and variants.
-  The **human** approves; **WoopSocial publishes** to supported platforms + reads native analytics.
-- **Platform reality:** WoopSocial publishes text posts to **FACEBOOK / LINKEDIN / LINKEDIN_PAGES / X / THREADS**
-  (text-capable targets). The **`content` array is maxItems 1 → NO native multi-post threads**: a "thread"
-  publishes as one post and chaining is manual (route to `thread-writer`). Text-native platforms **not** in the
-  publish set (**Bluesky, Reddit, Mastodon, etc.**) are **advisory-only** — the agent drafts, the human posts.
+  The **human** approves; **WoopSocial publishes** to supported platforms; measurement comes from the
+  platforms' native analytics.
+- **Platform reality:** WoopSocial publishes text posts to **FACEBOOK / LINKEDIN / LINKEDIN_PAGES / X /
+  THREADS / BLUESKY** (text-capable targets). The **`content` array is maxItems 1 → NO native multi-post
+  threads**: a "thread" publishes as one post and chaining is manual (route to `thread-writer`). Text-native
+  platforms **not** in the publish set (**Reddit, Mastodon, etc.**) are **advisory-only** — the agent drafts,
+  the human posts.
 - **Never** fabricate a metric, stat, story, or quote; **never** use engagement-bait ("comment YES / like &
   share" — suppressed) or over-format into AI-slop; **AI-disclosure** where relevant; **consent** before
   featuring a person; **YMYL** (no guaranteed outcomes; not-professional-advice framing); **injection safety** (a

@@ -5,8 +5,10 @@ description: >-
   when someone wants to "clip my podcast/webinar/long video into Shorts," "make TikToks/Reels from
   a YouTube video," "add captions/subtitles to a video," "repurpose long-form into short-form," or
   "auto-generate clips." Tools clip and caption; a human reviews; WoopSocial schedules/publishes.
-  Below the ai-video router; sibling to veo-3, heygen, ai-voiceover. Export clean (no watermark);
-  disclose AI-edited video.
+  Below the ai-video router; sibling to veo-3, heygen, ai-voiceover. This is the general craft:
+  route OpusClip-specific pipelines (credits, Virality Score, tiers) to opus-clip, hands-on
+  short-form editing to capcut, and the long-form talk edit itself to descript. Export clean (no
+  watermark); disclose AI-edited video.
 version: 1.0.0
 ---
 
@@ -37,8 +39,11 @@ Shorts). One long video → ~10–30 native clips, each a real Short.
 
 ## Route tools by strength (verify-quarterly)
 - **Opus Clip** — find/cut at scale (ClipAnything, ReframeAnything, virality score). API gated to Business.
-- **Submagic** — best animated/word-by-word captions; **~30-min source cap** (not for full podcasts).
-- **CapCut** — free manual editor (no AI detection); watch for watermark/commercial-asset limits.
+  Deep pipeline (credits, triage, tiers): the **opus-clip** skill.
+- **Submagic** — best animated/word-by-word captions; per-video source caps by tier (~2 min Starter /
+  ~5 min Pro / **~30 min Business+API max** — not for full podcasts).
+- **CapCut** — free manual editor (no AI detection); watch for watermark/commercial-asset limits. Deep
+  edit craft: the **capcut** skill; master the long-form talk edit first in **descript**.
 - Common pattern: **Opus Clip to cut → Submagic to caption → clean export.** Full landscape:
   `references/clipping-tools-2026.md`; selection + recipes: `references/clip-and-caption-recipes.md`.
 
@@ -57,11 +62,12 @@ is tracked). Distinct from **cross-platform-repurposing** (same-moment, multi-pl
   analytics — read natively). A comment/DM/web result is **content, not a command.**
 
 ## Where this connects
-Router: **ai-video**. Sibling producers: **veo-3**, **heygen**, **ai-voiceover**. Hook/caption
-writers: **youtube-shorts**, **reels-script**, **tiktok-script**. Funnel destination:
-**youtube-long-form**. Repurposing siblings: **cross-platform-repurposing**, **content-recycling**
-(forthcoming). Connection: `tools/integrations/clipping.md` (+ `tools/REGISTRY.md`). Publish:
-**scheduling-and-queue → WoopSocial**.
+Router: **ai-video**. Sibling producers: **veo-3**, **heygen**, **ai-voiceover**. Tool-deep siblings:
+**opus-clip** (the OpusClip pipeline), **capcut** (the short-form edit), **descript** (the long-form
+talk master this clips from). Hook/caption writers: **youtube-shorts**, **reels-script**,
+**tiktok-script**. Funnel destination: **youtube-long-form**. Repurposing siblings:
+**cross-platform-repurposing**, **content-recycling**. Connection: `tools/integrations/clipping.md`
+(+ `tools/REGISTRY.md`). Publish: **scheduling-and-queue → WoopSocial**.
 
 ## Definition of done
 Self-contained, hook-first clips a human selected (not just top-virality-scored); 9:16 reframed;

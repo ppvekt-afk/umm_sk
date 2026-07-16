@@ -22,10 +22,13 @@ Benchmarking is **not tallying likes or followers.** Track: **engagement rate**,
 maps to funnel stages** (awareness vs conversion). **SWOT** is the standard wrap-up frame.
 
 ## Benchmarks (2026 — relative beats absolute; verify-quarterly)
-Median engagement rates vary ~25× across platforms: **TikTok ~3.7%**, **LinkedIn ~5.2%**, **Instagram
-~0.48%**, **Facebook ~0.15%**, **X ~0.12%** (Buffer / Socialinsider 2026). So a "2% on X" looks weak
-but is ~16× the median. **The useful benchmark is relative** — your trend vs your *direct set* over
-time, not platform-wide averages. SOV example: a brand may own ~71% of its competitive SOV.
+Median **follower-based** engagement rates vary ~25× across platforms: **TikTok ~3.7%**, **Instagram
+~0.48%**, **Facebook ~0.15%**, **X ~0.12%** (Socialinsider 2026). So a "2% on X" looks weak but is
+~16× the median. **Watch the denominator:** LinkedIn's oft-quoted **~5%** is engagement *per
+impression* (LinkedIn's native formula), and Buffer's 2026 benchmarks are *by reach* (LinkedIn ~6%,
+Facebook ~5.6%) — impression/reach-based numbers are NOT comparable to follower-based ones. Compute
+every account in your set on **one formula**. **The useful benchmark is relative** — your trend vs
+your *direct set* over time, not platform-wide averages.
 
 ## The AI-era layer (new, important)
 Also analyse competitors' **AI/LLM visibility** — how often they're surfaced/cited by ChatGPT,

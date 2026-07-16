@@ -15,7 +15,7 @@ video skills); **WoopSocial publishes via `postType=VIDEO`** and auto-discloses 
 
 ## A — Attract with the cover
 - Set a **clickable cover frame** — a legible **title card** that wins the **profile grid + search.**
-  WoopSocial stitches the `cover` image as the **first frame** (1080×1920, key text centred).
+  WoopSocial sets the `cover` image as the video's **cover/thumbnail** (1080×1920, key text centred).
 
 ## C — Confirm disclosure (truthfully)
 - **`isBrandedContent`** (third-party paid) / **`isYourBrand`** (own products) set **truthfully**; **#ad
@@ -32,7 +32,7 @@ video skills); **WoopSocial publishes via `postType=VIDEO`** and auto-discloses 
 INPUTS: the video file (external) + script/topic; brand-profile voice; the goal (reach/saves/shop)
 CAPTION: primary keyword first -> value-prop -> secondary keywords + niche hashtags; mirror in on-screen text
 SETTINGS: allowComment/allowDuet/allowStitch ON (unless brand-safety); privacyLevel from platform-inputs
-COVER: the title-card frame (stitched first frame, 1080x1920, centred)
+COVER: the title-card image (cover/thumbnail, 1080x1920, centred)
 DISCLOSURE: isBrandedContent/isYourBrand truthful + #ad up front; AI auto-disclosed; prohibited AI stays out
 MODE + CHECK: DIRECT_POST or MEDIA_UPLOAD (trending sound); validate; no update -> delete+recreate; native analytics only
 ```

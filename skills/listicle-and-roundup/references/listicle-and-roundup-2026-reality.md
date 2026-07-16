@@ -7,8 +7,9 @@ specific list is disproportionately citable and shareable) is stable; the number
 - **The single most-cited AI format.** The ranked "best-of" listicle is repeatedly reported as the most-cited
   content format in AI answers — ~21–22% of Google AI Overview citations (multiple 2026 round-ups), and an
   arXiv/Ranqo analysis of ~102 brands / ~150k citations (Mar–May 2026) found the listicle the single largest
-  content format (~21–31%). Per an Ahrefs analysis of 26,283 ChatGPT-cited URLs across 750 terms, ~43.8% of
-  source links were "best of" listicles. (attribute; verify-quarterly)
+  content format (~21–31%). Per an Ahrefs study of 26,283 ChatGPT source URLs (750 "best" lists across three
+  categories), "Best X" listicles were the single most prominent page type cited — ~43.8% of all page types.
+  (attribute; verify-quarterly)
 - **Why machines love it.** A well-structured list is the easiest content for an LLM to parse — each entry is a
   discrete, named, consistently-formatted chunk it can clip as an answer. Comprehensive lists (~10–20 items)
   tend to perform best because the model wants a complete answer.

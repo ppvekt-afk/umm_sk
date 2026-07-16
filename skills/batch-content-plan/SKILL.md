@@ -3,13 +3,15 @@ name: batch-content-plan
 description: >-
   Use to plan and produce a full batch of social media content for a period — a week or a month
   — in one session: strategically balanced, on-brand, mapped to a calendar, and ready to
-  schedule. Run when the user says "plan my content," "a month of posts," "content calendar,"
-  "batch my content," "plan the week," "fill my calendar," or wants many posts planned at once.
+  schedule. Run when the user says "plan my content," "a month of posts," "batch my content,"
+  "plan the week," "fill my calendar," or wants many posts planned at once in one sitting.
   Reads brand-profile, voice, and content-pillars first, and produces a brief for each post that
   the content skills (caption-writer, reels-script, hook-writer) execute. As a BRIDGE skill it
   then confirms and hands the batch to scheduling-and-queue. Builds a balanced mix — never
   all-promotion — matched to the user's real capacity. Suggests cadence but does not claim
-  analytics-based timing (WoopSocial has no analytics surface yet).
+  analytics-based timing (WoopSocial has no analytics surface yet). For the ongoing recurring
+  system — which pillars/formats post on which days, the living "content calendar" — use
+  content-calendar; this skill fills one specific period of that system with actual post briefs.
 metadata:
   version: 1.0.0
 license: MIT
@@ -122,11 +124,11 @@ without explicit confirmation.**
 ## Related skills
 
 - `brand-profile`, `voice-builder`, `content-pillars` — read first; supply strategy + voice.
+- `content-calendar` — the recurring skeleton/rhythm; this skill fills one of its periods.
 - `hook-writer` — drafts each post's hook angle.
 - `caption-writer`, `reels-script`, the content skills — execute the briefs.
 - `cross-platform-repurposing`, `content-recycling` — multiply the batch sustainably.
 - `scheduling-and-queue` — validates and schedules the approved batch.
-- `best-time-to-post` — advisory timing (not analytics-backed yet).
 
 ## References
 

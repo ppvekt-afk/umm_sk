@@ -27,7 +27,7 @@ thresholds. It **sets** the win conditions; **analytics-and-reporting measures**
 - **Benchmark inputs:** `analytics-and-reporting` (your baseline), `competitor-analysis` (relative
   context), the `*-growth` skills (per-platform norms).
 - **Hands targets to:** `analytics-and-reporting` (measurement), `content-calendar`/`batch-content-plan`
-  (cadence to hit them), `experimentation` (tests toward them), `campaign-and-launch-planning` (campaign KPIs).
+  (cadence to hit them), `experimentation-and-ab-testing` (tests toward them), `campaign-and-launch-planning` (campaign KPIs).
 - **Per-channel North Stars draw on:** `instagram-growth`, `tiktok-growth`, `linkedin-growth`,
   `youtube-shorts`/`-long-form`, `x-growth`, `pinterest-growth`, `facebook-strategy`.
 - **No publishing/tool surface** — this is a planning skill; outputs feed the measurement + content loop.

@@ -8,14 +8,15 @@ description: >-
   brand. Teaches: the image brief (the job — hero / explainer / quote graphic / product / thumbnail /
   background — the one thing it must convey, the platform aspect ratio); the universal anatomy of a
   strong prompt (subject, composition, lighting, colour, style, mood, framing, constraints) in natural
-  language, not keyword spam; and a tool router (text-heavy/typographic -> ideogram-3 or nano-banana;
-  photoreal portraits/product -> Imagen/Midjourney; surreal/painterly art -> Midjourney; consistent
-  character/set -> reference-image models; editing -> canvas/inpainting; vector/SVG -> Recraft; video
-  -> veo-3). Includes a "should this even be AI-generated?" gate (a real photo, screenshot, UGC, or
-  chart often beats generic AI), accessibility (contrast/legibility, negative space for overlays), and
-  honest cross-cutting scope (disclose AI per platform/region, never real identifiable people or
-  copyrighted IP, verify text/data). Hands off to the tool-specific mini-skills (nano-banana,
-  ideogram-3, veo-3) for model-specific craft; the connection/API lives in tools/integrations/*;
+  language, not keyword spam; and a tool router (text-heavy/typographic -> ideogram or nano-banana;
+  photoreal portraits/product -> nano-banana or flux; surreal/painterly art -> Midjourney; editing
+  "change one thing, keep the rest" -> nano-banana or flux; consistent character/product set ->
+  nano-banana or flux (reference images); vector/SVG -> Recraft; video -> veo-3). Includes a "should
+  this even be AI-generated?" gate (a real photo, screenshot, UGC, or chart often beats generic AI),
+  accessibility (contrast/legibility, negative space for overlays), and honest cross-cutting scope
+  (disclose AI per platform/region, never real identifiable people or copyrighted IP, verify
+  text/data). Hands off to the tool-specific mini-skills (nano-banana, ideogram, flux,
+  veo-3) for model-specific craft; the connection/API lives in tools/integrations/*;
   WoopSocial publishes the result via Media upload and doesn't generate images.
 metadata:
   version: 1.0.0
@@ -26,8 +27,8 @@ license: MIT
 
 The **foundation of the visual cluster.** When a post needs an image, this skill decides **what** image
 (the brief), describes it with **model-agnostic** craft, and routes to the **right tool** — then hands
-off. It sits *above* the tool-specific mini-skills (`nano-banana`, `ideogram-3`, `veo-3`), which own
-their model's specific tricks.
+off. It sits *above* the tool-specific mini-skills (`nano-banana`, `ideogram`, `flux`,
+`veo-3`), which own their model's specific tricks.
 
 Think of it as the visual equivalent of `brand-profile`/`content-pillars`: the shared decision layer
 the tool skills assume you've already worked through.
@@ -58,10 +59,12 @@ Specificity beats length; design for any **text overlay** (negative space, contr
 
 Pick by the image's **dominant requirement**:
 
-- **Text / typographic** → `ideogram-3` or `nano-banana` (both strong — honest pick by tooling).
-- **Photoreal portrait/product** → Imagen / Midjourney. **Surreal/painterly** → Midjourney.
-- **Infographics / consistency / editing** → `nano-banana`. **Consistent set** → reference-image models.
-- **Vector/SVG** → Recraft. **Open weights** → Flux. **Video** → `veo-3`.
+- **Text / typographic** → `ideogram` or `nano-banana` (both strong — honest pick by tooling).
+- **Photoreal portrait/product** → `nano-banana` or `flux` (Midjourney external). **Surreal/painterly** → Midjourney.
+- **Editing** ("change one thing, keep the rest") → `nano-banana` (conversational) or `flux` (Kontext).
+- **Consistent character/product set** → `nano-banana` (multi-image references) or `flux` (multi-reference).
+- **Search-grounded infographics** → `nano-banana`. **Brand-exact hex / open weights / license control** → `flux`.
+- **Vector/SVG** → Recraft. **Video** → `veo-3`.
 
 When two fit, **say both work and pick by the deciding factor** — don't fake a winner. See
 `references/choosing-the-tool.md`.
@@ -102,7 +105,7 @@ generate**.
 
 ## Related
 
-- `nano-banana`, `ideogram-3`, `veo-3` — the tool-specific mini-skills this routes/hands off to.
+- `nano-banana`, `ideogram`, `flux`, `veo-3` — the tool-specific mini-skills this routes/hands off to.
 - `tools/integrations/*` — the connection/API for each tool; `brand-profile` — the visual brand.
 - `carousel-writer`, `reels-script`, `caption-writer`/`hook-writer` — consumers (image-prompt-pack / overlay copy).
 - `scheduling-and-queue` — upload the asset to Media and attach to a post.

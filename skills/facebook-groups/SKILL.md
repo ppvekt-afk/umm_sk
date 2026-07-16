@@ -90,7 +90,7 @@ engagement + admin), **crisis-and-moderation** (moderation), **reply-and-comment
 Funnels from/to: **facebook-strategy** (the Page that drives joins — what WoopSocial publishes),
 **lead-magnets-and-funnels**/**email-and-newsletter** (capture via membership questions),
 **creator-monetization** (offers to the warm audience), **link-in-bio-and-traffic** (the join link),
-**caption-writer**/**reels-script**/**imagen** (the Page + group content). Publishes via:
+**caption-writer**/**reels-script**/**nano-banana** (the Page + group content). Publishes via:
 **scheduling-and-queue → WoopSocial** — the **Page + cross-channel join-funnel content only** (the group is
 native). Measures with: native **Group Insights** + **analytics-and-reporting** (acceptance, retention, engaged
 members). In-group posting, admin, moderation + analytics stay native/human.

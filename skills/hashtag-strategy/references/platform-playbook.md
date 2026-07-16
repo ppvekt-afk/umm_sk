@@ -31,9 +31,11 @@ everywhere. Match the approach to where the audience actually is.
 
 ## LinkedIn
 
-- **~3–5 specific** hashtags. One of the few platforms where tags still meaningfully help topic
-  organization/discovery — but specific beats broad (`#SaaSLeadership` > `#Leadership`).
-- Shifting toward **natural-language keyword indexing**, so keywords in the post body matter too.
+- **~3–5 specific** hashtags, treated as a **lightweight topic signal, not a reach driver**.
+  LinkedIn has deprioritized hashtag distribution (its own product lead calls them "nice to have,
+  not need to have"); its algorithm reads semantic meaning from the post body directly.
+- So the lever is **keywords in the post body**; if you tag, specific beats broad
+  (`#SaaSLeadership` > `#Leadership`) — never a broad-tag pile.
 
 ## X / Twitter
 
@@ -65,7 +67,7 @@ everywhere. Match the approach to where the audience actually is.
 |---|---|---|
 | Instagram | 3–5 (hard cap 5) | keyword caption + on-screen text; trending audio (Reels) |
 | TikTok | 3–5, as keywords | triple-mention keyword (spoken+on-screen+caption) |
-| LinkedIn | 3–5 specific | specific tags + keywords in the body |
+| LinkedIn | 3–5 specific (light signal) | keywords in the body; tags don't drive reach |
 | X/Twitter | 0–2 | the post itself; tag only to join a moment |
 | Threads | 1 topic tag | the post + topic tag |
 | Pinterest | minor | keywords in title/description |

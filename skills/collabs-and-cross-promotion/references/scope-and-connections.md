@@ -13,8 +13,8 @@ native/human.**
   **mention in the caption.** It does **NOT**: create a **native IG Collab co-authored post** (native-only —
   not in the spec's Instagram fields), **run giveaway mechanics**, **duet/stitch** (native / via the video
   file), **DM to find or pitch partners** (no DM surface), or **manage the agreement.**
-- **The co-created/co-authored content** (joint video, live, duet, IG Collab) and the **relationship** are
-  **native/human.**
+- **The co-created/co-authored content** (joint video, live, duet, IG Collab, YouTube's native Collaboration
+  invite) and the **relationship** are **native/human.**
 - **Disclosure:** a **pure mutual collab (no payment) is NOT a sponsorship** — no #ad. **If money/free
   product changes hands → it's a sponsorship → disclose** → route to `ugc-and-influencer`/
   `creator-monetization`. **Partnerships must be genuine** — no bought/faked engagement (fraud; detectable;

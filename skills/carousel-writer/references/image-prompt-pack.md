@@ -3,7 +3,7 @@
 A carousel is visual, so this pack turns the slide text into on-brand slide images. It bundles
 prompts for the current image generators that render **legible in-image text** — the make-or-break
 requirement for carousel slides. (This is the image equivalent of the Veo pack in `reels-script`.)
-For the full tool drivers, the `nano-banana` and `ideogram-3` mini-skills go deeper.
+For the full tool drivers, the `nano-banana` and `ideogram` mini-skills go deeper.
 
 > Tools and pricing move fast — re-verify quarterly. Use whichever the user has; the prompt
 > structure transfers.

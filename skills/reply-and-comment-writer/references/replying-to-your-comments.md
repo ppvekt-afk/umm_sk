@@ -31,7 +31,9 @@ Match the reply to what the comment is:
   keep the thread going. Don't just "🙏". Consider pinning a great one.
 - **A genuine question** → **answer it specifically and usefully** — this is the highest-value reply.
   It helps that person, signals expertise to lurkers, and the thread boosts reach. **Reuse recurring
-  questions as content** (a post/FAQ) — if one person asked, many wondered.
+  questions as content** (a post/FAQ) — if one person asked, many wondered. The strongest version:
+  **reply to the comment with a video** (TikTok's video replies; IG's comment-reply sticker on Reels) —
+  the question becomes the hook of a new post, and the commenter becomes part of it (human shoots/posts).
 - **A neutral/light comment** → **deepen it** with a question back; turn a drive-by into a conversation.
 - **A criticism or complaint** → **acknowledge genuinely, don't get defensive**, move toward a fix, and
   take the details **to DM/private** if needed. A well-handled complaint in public builds more trust

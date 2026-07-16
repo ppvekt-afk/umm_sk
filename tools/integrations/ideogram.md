@@ -16,8 +16,9 @@ renders; a human reviews; the image is **uploaded to WoopSocial Media → attach
 - Text-to-image with **structured JSON** input: per-element **bounding boxes**, **hex color palette**
   (up to ~16), per-element **text string + styling**; native **2K** (2048px), aspect ratios 256–2048
   (multiples of 16). **magic-prompt** expands casual text into JSON.
-- **Background Remover** endpoint → alpha cutout (transparency). Editable text/movable layers are
-  announced roadmap, **not yet live**.
+- **Background Remover** endpoint → alpha cutout (transparency). **Layerize Text** endpoint (live,
+  **beta**) → extracts rendered text as editable layers (string, font, color, position); best on
+  clear, straight standard type. Movable *image* layers remain roadmap.
 - Tiers: **Turbo / Default / Quality** (quality + price scale up).
 
 ## Billing (verify-quarterly)
@@ -39,10 +40,12 @@ Face); commercial deployment needs an Ideogram plan/API or commercial license.
 WoopSocial handles per-platform delivery; it does not generate images.
 
 ## Registry
-Add to `tools/REGISTRY.md` (and retire the `ideogram-3` line):
-`ideogram — design-grade image gen, typography/layout (developer.ideogram.ai, API key, per-image $0.03-0.10, MCP) → skill: ideogram → router: image-prompt`
+Registered in `tools/REGISTRY.md` (Image generation & editing): design-grade image gen with
+best-in-class legible in-image text — developer.ideogram.ai, API key, per-image $0.03–0.10, MCP
+→ skill: `ideogram` (generation + app-editor workflow) → router: `image-prompt`.
 
 ## Related
-Prompt-craft skill: `ideogram` (supersedes `ideogram-3`). Router: `image-prompt`. Sibling guide:
+Prompt-craft skill: `ideogram` (generation prompt-craft + the app-editor workflow — Canvas/Magic
+Fill/Style References/Layerize, see its references/app-editor-and-canvas.md). Router: `image-prompt`. Sibling guide:
 the nano-banana connection guide. Motion: `tools/integrations/veo.md` (image-to-video). Publish
 bridge: `tools/integrations/woopsocial.md`.

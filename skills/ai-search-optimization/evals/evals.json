@@ -9,7 +9,7 @@
       "expect": [
         "reads brand-profile and audience first",
         "starts with the manual prompt-audit (ask the target queries across ChatGPT/Perplexity/Gemini and document who's cited)",
-        "applies the GEO levers: be retrievable (rank in Google/Bing), earn brand mentions across cited community sources, make content extractable, build entity clarity",
+        "applies the GEO levers: be retrievable (rank in Google/Bing, AI retrieval crawlers not blocked), earn brand mentions across cited community sources, make content extractable, build entity clarity",
         "foregrounds the social/community plays (Reddit, YouTube, LinkedIn) done authentically",
         "is honest that GEO is probabilistic and judged via the audit/tools/referral traffic, not WoopSocial analytics"
       ]
@@ -18,7 +18,7 @@
       "name": "how-engines-cite",
       "input": "How do ChatGPT and Perplexity even decide what to cite?",
       "expect": [
-        "explains retrieval-augmented generation (live web retrieval) and that ranking in Bing/Google feeds ChatGPT/AI Overviews",
+        "explains retrieval-augmented generation (live web retrieval): ChatGPT retrieves via OpenAI's own crawler/index (historically Bing-seeded) and Google feeds AI Overviews/AI Mode, so search ranking and crawler access feed AI citation",
         "explains query fan-out (the AI splits the question into sub-queries)",
         "notes platforms cite different sources (e.g., ChatGPT skews Wikipedia, Perplexity skews Reddit) so optimizing for one isn't optimizing for all"
       ]

@@ -16,8 +16,10 @@ logos, signage, captions, and watermarks. To get the most out of it:
 
 ## Transparency & resolution
 - **Background Remover** → a clean **alpha cutout** from any 4.0 output (logos, stickers, icons drop
-  onto new backdrops without masking). Editable text/movable image **layers** are announced roadmap —
-  **not yet live** — so treat text as elements now.
+  onto new backdrops without masking). **Layerize Text** (live, **beta**; all plans + an API endpoint)
+  extracts rendered text as **editable layers** (string, font, color, position) — rewrite/restyle/
+  localize copy without regenerating. Works best on clear, straight standard typography; curved or
+  decorative text may not be detected.
 - Native **2K (2048px)**; any aspect ratio **256–2048, multiples of 16**. Pick the social ratio up
   front (4:5 / 9:16 / 1:1).
 

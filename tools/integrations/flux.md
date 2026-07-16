@@ -12,7 +12,7 @@ terms shift per release — **verify-quarterly** at bfl.ai, docs.bfl.ai, and the
    key/connection exists; REST, async webhooks on some providers.
 2. **BFL Playground:** browser, zero-setup — for prompt iteration and evaluating fit before committing.
 3. **Self-host (ComfyUI / diffusers):** FLUX.2 [dev] 32B (quantized runs on an RTX 4090 w/ remote text encoder),
-   [klein] 4B (~8GB VRAM, sub-second), FLUX.1 [schnell]/[dev]/Kontext [dev]. The agent supplies prompts/edit
+   [klein] 4B (~13GB VRAM, sub-second), FLUX.1 [schnell]/[dev]/Kontext [dev]. The agent supplies prompts/edit
    instructions; the human runs the pipeline.
 
 ## The variant × license map (≈, verify-quarterly)
@@ -24,9 +24,9 @@ terms shift per release — **verify-quarterly** at bfl.ai, docs.bfl.ai, and the
 | FLUX.1 [schnell] | Open weights | **Apache 2.0** |
 | FLUX.1 [dev] / Kontext [dev] | Open weights | Non-commercial (same outputs-vs-service line) |
 
-**Self-host commercial tiers (bfl.ai/licensing, attributed):** developer ≈ 10K img/mo, single-domain
-internal/marketing, **not client work** · product ≈ 100K/mo · **agency ≈ 100K/mo — first 3 clients included,
-per-client fees beyond.** **The [dev] license requires content filters or manual review in deployment — BFL
+**Self-host commercial tiers (bfl.ai/licensing, attributed):** Builder ≈ 10K img/mo, single-domain
+internal/marketing, **not client work** · Platform ≈ 100K/mo · **Professional ≈ 100K/mo — up to 3 client
+domains included, per-client fees beyond** · Enterprise = custom. **The [dev] license requires content filters or manual review in deployment — BFL
 states it may approach known deployers at random to verify.** High-stakes → counsel (not legal advice).
 
 ## Capability notes (FLUX.2 era)
@@ -39,7 +39,7 @@ lighting/physics.
 ## The stack workflow (canonical)
 `image-prompt` (router/craft) + `brand-profile`/`design-and-templates` (hex codes, type) → FLUX generate →
 multi-reference for sets → in-context edits for the last 5% → human judges (side-by-side drift review) → export →
-`scheduling-and-queue` → **WoopSocial `POST /media` + `POST /posts`** → native analytics.
+`scheduling-and-queue` → **WoopSocial** (upload media → attach → validate → create post; per-platform required fields validate atomically — see `woopsocial.md`).
 
 ## Hard lines
 Human judges every render · rights verified for the variant actually used (outputs-vs-service line; filter

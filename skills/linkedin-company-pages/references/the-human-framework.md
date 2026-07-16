@@ -25,7 +25,7 @@ human/native.**
 - **Carousel/document** (top saves), **short vertical video w/ captions**, **custom images** — **never
   text-only** (~0.42×). **Links in comments, not body** (−60%). **Questions/frameworks** → 437% views +
   saves (**Depth Score**). (Post craft → `linkedin-post-writer`; carousel/video visuals → `ideogram`/
-  `imagen`.)
+  `nano-banana`.)
 
 ## N — Nurture cadence + measure
 - **Consistent (weekly+)** → ~5.6× followers; respond fast; cross-promote the **Follow button**. **Track**

@@ -16,8 +16,8 @@ description: >-
   brief; previz frames cost cents, generations cost credits). The agent writes every planning artifact; the
   HUMAN shoots/generates and judges; WoopSocial publishes the finished video. NEVER stage candid-as-real
   moments, lift another creator's script, or promise runtimes the word count can't deliver. Distinct from
-  short-form-video-script (the words craft this productionizes), talking-head (the delivery), capcut/descript
-  (the edit), luma (the generations), and visual-storytelling (the visual-narrative craft).
+  short-form-video-script (the words craft this productionizes), talking-head-and-piece-to-camera (the
+  delivery), capcut/descript (the edit), and luma (the generations).
 version: 1.0.0
 ---
 
@@ -87,7 +87,7 @@ and two worked examples: `references/templates-and-examples.md`.
 retention-words craft (WATCH writes the spine; SCENE productionizes it) · **talking-head-and-piece-to-camera**
 = the on-camera delivery · **capcut / descript** = the edit executing the AV script's visual plan · **luma /
 ai-video** = the generations whose shot briefs the panels become · **flux / image-prompt** = previz frames +
-reference stills · **visual-storytelling** (Wave 13) = the visual-narrative craft this schedules into shots ·
+reference stills · **storytelling-and-narrative** = the narrative angle/WHAT this schedules into shots ·
 **idea-generation-and-ideation** = supplies the idea.
 
 ## Where this connects
@@ -108,4 +108,4 @@ honesty pass held (no staged-as-candid, no lifted scripts, feasibility stated st
 written as generation shot briefs with previz-before-credits economics; the human shooting and judging,
 the edit receiving a clean handoff, and the finished video publishing via WoopSocial; **nothing staged as
 real, nothing plagiarized, no fabricated production claims**; and correctly distinguished from
-short-form-video-script, talking-head, capcut/descript, luma, and visual-storytelling.
+short-form-video-script, talking-head-and-piece-to-camera, capcut/descript, and luma.

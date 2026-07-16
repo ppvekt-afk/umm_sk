@@ -9,8 +9,8 @@
   credentials, or feelings; never manufactures vulnerability; never stages typos or fake imperfection as a
   deception strategy. "Sound human" is achieved by real substance, not counterfeit texture. Small true
   details beat grand invented ones.
-- **Detector honesty:** no detector-score theater (detectors misflag real writers — including 19.8% of
-  non-native-English essays in the Stanford finding); the judge is the reader. **AI-disclosure** where
+- **Detector honesty:** no detector-score theater (detectors misflag real writers — non-native-English
+  essays at a 61.3% average false-positive rate in the Stanford finding); the judge is the reader. **AI-disclosure** where
   platform or policy requires — the goal is writing that earns trust, not writing that hides provenance.
 - **Tone ethics:** crisis and bad-news moments get plain, direct language — never cleverness, never spin;
   complaint replies stay accountable. Stats in drafts route through content-research-and-sourcing before

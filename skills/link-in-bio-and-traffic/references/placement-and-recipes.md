@@ -26,7 +26,7 @@ offers only. Rotate the primary weekly.
 ## UTM scheme (so you can see what converts)
 `utm_source=instagram` · `utm_medium=bio` (or `story`, `comment`, `description`) ·
 `utm_campaign=<offer>` · `utm_content=<post-or-video-id>`. Use a **branded short link**; read results in
-**GA4** + the link tool. (A/B test the highest-traffic hub — ties `experimentation`.)
+**GA4** + the link tool. (A/B test the highest-traffic hub — ties `experimentation-and-ab-testing`.)
 
 ## Worked example 1 — IG lead-magnet capture (blunt indie-founder voice)
 ```

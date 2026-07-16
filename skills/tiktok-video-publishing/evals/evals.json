@@ -69,7 +69,7 @@
       "name": "honest_scope_configures_not_films",
       "input": "Make the video and post it for me.",
       "expect": [
-        "Clarifies the agent configures the publish (SEO caption, cover direction, settings, disclosure, mode) but the VIDEO FILE is filmed by a human or made by the video skills (veo/runway/kling + edited in CapCut) -- WoopSocial doesn't film/edit/generate video",
+        "Clarifies the agent configures the publish (SEO caption, cover direction, settings, disclosure, mode) but the VIDEO FILE is filmed by a human or made by the video skills (veo-3/luma/kling + edited in CapCut) -- WoopSocial doesn't film/edit/generate video",
         "States WoopSocial publishes via postType VIDEO + raw-bytes upload and auto-discloses AI on TikTok",
         "Notes replies / pinned comment / native trending sound are human or native, and there's no update (edit = delete+recreate)",
         "Notes metrics come from native TikTok analytics and are never fabricated"

@@ -56,7 +56,7 @@ the full PHOTO publish-config block + worked examples: `references/carousel-reci
 
 ## Honest scope (never violate)
 - **The agent writes the slide plan + overlay copy + caption + publish config.** The **images are produced
-  by a human or an image skill** (`image-prompt`/`ideogram`/`imagen`) — **WoopSocial doesn't generate
+  by a human or an image skill** (`image-prompt`/`ideogram`/`nano-banana`) — **WoopSocial doesn't generate
   images.**
 - **WoopSocial publishes the native PHOTO post** (`postType=PHOTO`, raw-bytes upload) and **auto-discloses
   AI on TikTok.** **No update endpoint** → edit = delete + recreate (only while `NOT_STARTED`).
@@ -72,10 +72,10 @@ publish config) · **tiktok-script** = the TikTok VIDEO script (duet/stitch/cove
 
 ## Where this connects
 Reads first: **brand-profile**, **goals-and-kpis**. Copy: **hook-writer**, **caption-writer**. Images
-(external to WoopSocial): **image-prompt**/**ideogram**/**imagen**, **carousel-writer** (adapt down to
+(external to WoopSocial): **image-prompt**/**ideogram**/**nano-banana**, **carousel-writer** (adapt down to
 9:16). Publish: **scheduling-and-queue → WoopSocial** (native PHOTO), **platform-specs-and-validation**
 (validate + postType/field rules), **content-calendar**. Reuse/measure: **content-recycling** (→ IG/
-Pinterest), **analytics-and-reporting** (completion/saves), **experimentation** (A/B the first slide).
+Pinterest), **analytics-and-reporting** (completion/saves), **experimentation-and-ab-testing** (A/B the first slide).
 Images stay external.
 
 ## Definition of done

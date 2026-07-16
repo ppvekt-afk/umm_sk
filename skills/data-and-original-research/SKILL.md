@@ -64,7 +64,7 @@ examples: `references/methods-and-templates.md`.
 
 ## Honest scope (never violate)
 - **The agent** designs the study and **frames** the findings + cuts; the **human/tool gathers the real data**;
-  **WoopSocial publishes** the finished cuts and reads native analytics. It does **NOT** run surveys, collect or
+  **WoopSocial publishes** the finished cuts (measurement: the platforms' native analytics). It does **NOT** run surveys, collect or
   scrape data, do statistical analysis, detect trends, or judge a finding.
 - **Never fabricate** data, stats, sample sizes, or a methodology; **disclose** method + limits; **attribute**
   external sources; **YMYL** (a self-funded survey is not clinical/financial proof — disclaimer + route to pros);

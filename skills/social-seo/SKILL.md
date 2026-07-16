@@ -3,9 +3,10 @@ name: social-seo
 description: >-
   Use to make social content discoverable through SEARCH across social platforms — the
   social-SEO / keyword-discovery skill. Run when the user says "social SEO," "get found in search,"
-  "rank on TikTok/YouTube/Pinterest search," "Instagram SEO," "keywords for social," "searchable
-  captions," "evergreen discovery," or wants to be found when people search rather than just appear
-  in the feed. Reads brand-profile and audience first. Built on the 2026 reality: all social
+  "TikTok SEO," "YouTube SEO," "rank in TikTok/YouTube search," "keywords for social," "searchable
+  captions," "show up when people search," "evergreen discovery," or wants search across platforms
+  rather than just the feed. For single-platform depth, route "Instagram SEO" to instagram-seo and
+  Pinterest-specific asks to pinterest-seo; this skill owns the cross-platform framework. Reads brand-profile and audience first. Built on the 2026 reality: all social
   platforms are search engines (TikTok/IG/YouTube/Pinterest/LinkedIn), keywords (not hashtags) are
   the discovery lever, search optimization doubles as recommendation categorization, and social
   content also surfaces on Google. Covers what each platform indexes (spoken audio/transcription,
@@ -125,6 +126,7 @@ growth pillar) · `ai-search-optimization` (GEO hand-off) · `scheduling-and-que
 ## Related skills
 
 - `brand-profile`, `audience-research` — the search language and positioning.
+- `instagram-seo`, `pinterest-seo` — single-platform search depth (route platform-specific asks there).
 - `hashtag-strategy` — the hashtag layer (a minor signal); `caption-writer` — caption craft.
 - `profile-optimization` — profile as conversion (this skill = profile as search).
 - `content-pillars` — pillars become keyword clusters; the growth skills lean on search.

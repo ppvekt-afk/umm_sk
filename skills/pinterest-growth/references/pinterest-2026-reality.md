@@ -6,7 +6,7 @@
 Pinterest works like **Google for visuals.** Users arrive **with intent** (planning purchases,
 projects, recipes, decor) — high purchase intent. Discovery is driven by **keywords, relevance, and
 visual similarity — not who you follow.** So **followers matter far less than keyword structure and
-fresh pin designs**; small/new accounts can win on strong SEO + creative. (537M MAU.)
+fresh pin designs**; small/new accounts can win on strong SEO + creative. (631M MAU, Q1 2026.)
 
 ## Evergreen + compounding (the superpower)
 Pins last **months to years** (vs 24–48h on IG/TikTok). A well-optimized pin keeps surfacing in search
@@ -37,8 +37,9 @@ months to correct — structure it right from the start.
 - **2:3 ratio (1000×1500) is essential** — other ratios are **penalized** (official guidance). Add a
   **keyword text overlay.**
 - **Static pins** → most **traffic** (link out). **Video pins** (9:16, **6–15s**) → ~**2× engagement.**
-  **Idea Pins** (multi-slide, no expiry) → audience/visibility but **no outbound link.** Collage/Rich/
-  Product pins for shopping.
+  **Idea Pins are retired** — Pinterest merged everything into one unified Pin format (old Idea Pins
+  became video pins), so **every pin can carry an outbound link now.** Collage/Rich/Product pins for
+  shopping.
 
 ## Links — the differentiator
 Unlike X/IG, **Pinterest rewards outbound links** ("free clicks"). Link to a **relevant** product/blog/

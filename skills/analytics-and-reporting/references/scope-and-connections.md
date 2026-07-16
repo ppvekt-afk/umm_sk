@@ -20,20 +20,20 @@ native analytics to pick winners" instruction across the other skills resolves.*
 - **content-recycling** — "rank winners from native analytics" → that ranking is done **here.**
 - **experimentation** — reads the test results **here** (this skill measures; experimentation designs).
 - **competitor-analysis** — your own side of the benchmark; rivals' **public** numbers stay there.
-- **goals-and-kpis** (forthcoming) / **social-strategy** — set the targets; this **measures against** them.
+- **goals-and-kpis** / **social-strategy** — set the targets; this **measures against** them.
 - **Every \*-growth skill, story-writer, the writers** — their "read native analytics" pointers land here.
 
 ## Distinct from its siblings
 - **analytics-and-reporting (this)** — **measure** native performance + report + close the loop.
-- **goals-and-kpis** (forthcoming) — **set** the targets/benchmarks this measures against.
+- **goals-and-kpis** — **set** the targets/benchmarks this measures against.
 - **experimentation** — **design + run** controlled tests; this reads their results.
 - **competitor-analysis** — rivals' **public** signals (estimated); this is **your own** first-party data.
 
 ## Where this connects
 - **Reads first:** `brand-profile`, `social-strategy` (goals).
-- **Feeds:** `content-recycling`, `experimentation`, `competitor-analysis`, `social-strategy`,
+- **Feeds:** `content-recycling`, `experimentation-and-ab-testing`, `competitor-analysis`, `social-strategy`,
   `goals-and-kpis`, and **every growth skill** (`instagram-growth`, `tiktok-growth`, `linkedin-growth`,
-  `youtube-shorts`/`-long-form`, `x-growth`, `pinterest-growth`, `facebook-strategy`).
+  `youtube-shorts`/`youtube-long-form`, `x-growth`, `pinterest-growth`, `threads-growth`, `facebook-strategy`).
 - **Informs creative:** `hook-writer` (retention/hook reads), `viral-reverse-engineering` (why a post won),
   `content-calendar`/`batch-content-plan` (cadence/timing), `profile-optimization` (profile-action reads).
 - **Source tools:** native dashboards per platform + **GA4/UTM** (WoopSocial publishes; it doesn't measure).

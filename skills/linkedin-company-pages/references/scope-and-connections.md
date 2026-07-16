@@ -34,7 +34,7 @@ features are human/native.**
 
 ## Where this connects
 - **Reads first:** `brand-profile` (positioning/voice), `goals-and-kpis` (awareness vs hiring vs pipeline).
-- **Routes craft to:** `linkedin-post-writer` (the page post), `ideogram`/`imagen` (carousel/video visuals),
+- **Routes craft to:** `linkedin-post-writer` (the page post), `ideogram`/`nano-banana` (carousel/video visuals),
   **`linkedin-growth`** (the employees'/founder's **personal-profile** advocacy — the growth engine),
   `caption-writer` (lines).
 - **Pairs with:** `social-selling-and-dm` (pipeline), `lead-magnets-and-funnels`/`email-and-newsletter`

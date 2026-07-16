@@ -23,7 +23,8 @@ discovery, Feed for depth, Groups for community. REACH is the 2026 engine.
 ## C — Community in Groups
 - **Groups are the goldmine** (20–40% member reach vs 1–6% Pages; Meta favors them). **Build or actively
   participate** in niche Groups; Group posts rank higher (community signal).
-- Community is **human-run, in-app** (route the discipline to `community-management`) — never auto-blasted.
+- Community is **human-run, in-app** — never auto-blasted. Route the **build/grow/run-a-Group strategy**
+  to `facebook-groups`; the day-to-day engagement discipline to `community-management`.
 
 ## H — Hold trust in Feed + handle links natively
 - **Feed = connected depth/trust:** photos (highest feed engagement), carousels (storytelling), longer

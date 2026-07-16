@@ -1,17 +1,17 @@
 ---
 name: thumbnail-design
 description: >-
-  The video-thumbnail design skill. Use when someone wants to design a YouTube thumbnail, improve CTR, brief
+  Design YouTube video thumbnails that earn the click — mobile-legible, one focal point, honest. Use when someone wants to design a YouTube thumbnail, improve CTR, brief
   a thumbnail, choose thumbnail text, or plan thumbnail A/B testing. Designs and briefs high-CTR thumbnails
   and writes the A/B test plan: a thumbnail is a promise, not a poster -- designed as a unit with the title
   (show vs tell, never repeating), built on one focal point, genuine emotion, high contrast, and 0-4 bold
   words, and legible on mobile at ~168x94 px. YouTube's native Test & Compare picks the winner by watch-time
   share (not CTR), so misleading thumbnails lose. Uses the CLICK framework. Reads brand-profile + the video/
-  title first. A HUMAN or an image/design tool (imagen/ideogram/Canva/designer) creates the final raster;
+  title first. A HUMAN or an image/design tool (nano-banana/ideogram/Canva/designer) creates the final raster;
   the YouTube custom thumbnail is uploaded NATIVELY in Studio (WoopSocial has no thumbnail field) and Test &
   Compare is native; TikTok/IG-Reel covers use WoopSocial's cover field via those format skills. No
   clickbait, no unconsented real-person/deepfake faces, CTR never fabricated. Distinct from
-  youtube-publishing-and-metadata (the metadata) and imagen/ideogram (which generate the raster this briefs).
+  youtube-publishing-and-metadata (the metadata) and nano-banana/ideogram (which generate the raster this briefs).
 version: 1.0.0
 ---
 
@@ -53,14 +53,15 @@ first** — most viewing is on a phone, where simplicity and contrast win.
 Promise-not-poster + thumbnail+title-as-unit + watch-time A/B punishes clickbait; the three principles
 (simplicity/contrast/emotion); faces (+20–30%, genuine, gaze, unknown-face-can-hurt); contrast/color
 (complementary, avoid YT red/white, 60-30-10, B&W test); text (0–4 words, bold sans-serif, no title
-duplicate); mobile-first + safe zones + specs (1280×720; up to 50MB rolling out); brand consistency; native
-Test & Compare (watch-time-share winner, not Shorts, traffic-dependent): `references/thumbnail-2026-reality.md`.
+duplicate); mobile-first + safe zones + specs (1280×720; 50MB cap since early 2026); brand consistency; native
+Test & Compare (watch-time-share winner, also tests titles/combos, not Shorts, traffic-dependent):
+`references/thumbnail-2026-reality.md`.
 The promise template, design checklist, spec block, A/B plan + worked examples:
 `references/design-and-test-recipes.md`.
 
 ## Honest scope (never violate)
 - **The agent** writes the promise/concept/text/**brief** and can **critique a mockup** — but a **HUMAN or
-  image tool** (`imagen`/`ideogram`/Canva/a designer) **creates the final raster.**
+  image tool** (`nano-banana`/`ideogram`/Canva/a designer) **creates the final raster.**
 - **The YouTube custom thumbnail is uploaded NATIVELY in Studio — WoopSocial has no thumbnail field** — and
   **Test & Compare is native** (a human uploads + runs it). **TikTok/IG-Reel covers** are different: those
   use **WoopSocial's `cover` field** via `tiktok-video-publishing`/the IG skill.
@@ -70,13 +71,13 @@ The promise template, design checklist, spec block, A/B plan + worked examples:
 
 ## Distinct from its siblings (route correctly)
 **thumbnail-design (this)** = the thumbnail design craft + brief + A/B plan · **youtube-publishing-and-
-metadata** = the title/description/tags metadata (points HERE for the thumbnail) · **imagen**/**ideogram** =
+metadata** = the title/description/tags metadata (points HERE for the thumbnail) · **nano-banana**/**ideogram** =
 generate the raster this briefs · **tiktok-video-publishing** = the TikTok `cover` field · **hook-writer**/
 **caption-writer** = text lines.
 
 ## Where this connects
 Reads first: **brand-profile** + the **video/title** (**youtube-publishing-and-metadata**/**youtube-long-
-form**/**youtube-shorts**). Pairs with: **imagen**/**ideogram** (render the brief), **hook-writer** (the
+form**/**youtube-shorts**). Pairs with: **nano-banana**/**ideogram** (render the brief), **hook-writer** (the
 thumbnail words), **youtube-publishing-and-metadata** (title as a unit with the thumbnail),
 **experimentation** (A/B discipline), **competitor-analysis** (preview against ranking thumbnails). Hands to:
 a **human** to render + **upload the YouTube thumbnail natively** + run **Test & Compare**;
@@ -91,4 +92,4 @@ high contrast (complementary, not YouTube red/white, 60-30-10, passes the B&W te
 1280×720 specs; an A/B plan of 3 meaningfully-different concepts changing one variable, scored natively by
 watch-time share; the raster left to an image tool/designer and the YouTube upload + test left to native
 Studio; no clickbait, no unconsented faces, no fabricated CTR; correctly distinguished from
-youtube-publishing-and-metadata and imagen/ideogram.
+youtube-publishing-and-metadata and nano-banana/ideogram.

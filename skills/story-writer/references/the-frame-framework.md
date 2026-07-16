@@ -10,7 +10,7 @@ that earns the tap-through, converts watchers into tappers, and drives one clear
 
 ## R — Rhythm: one beat per frame
 - Build a **3–5 frame arc** (or a multi-day mini-series); **one beat per frame**, each a distinct
-  takeaway, building progressively. ≤15s per segment.
+  takeaway, building progressively. Segments can run to 60s, but a short beat (~15s) holds attention.
 - Vary the frames (photo, clip, text card) so it doesn't feel like one flat slideshow.
 
 ## A — Activate with a sticker

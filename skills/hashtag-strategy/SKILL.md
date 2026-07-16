@@ -3,8 +3,8 @@ name: hashtag-strategy
 description: >-
   Use to build a hashtag and discoverability strategy for social posts — the modern (2026)
   approach, not the outdated "30 hashtags to go viral" playbook. Run when the user says
-  "hashtags," "what hashtags should I use," "hashtag strategy," "help me get discovered/reach," or
-  asks how to tag a post. Reads brand-profile and audience first. Sets the keyword/social-SEO layer
+  "hashtags," "what hashtags should I use," "how many hashtags," "hashtag strategy," "help me get
+  discovered/reach," asks "do hashtags still work / are hashtags dead," or asks how to tag a post. Reads brand-profile and audience first. Sets the keyword/social-SEO layer
   first (caption, on-screen text, spoken audio) because that — plus engagement and the content
   itself — drives discovery far more than hashtags now; then picks a tight, relevant, per-platform
   hashtag set (respecting caps like Instagram's enforced 5-tag limit), favors niche/mid-tier tags

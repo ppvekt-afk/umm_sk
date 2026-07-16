@@ -20,8 +20,8 @@ word-by-word captions → render. Knowing this, you can mix tools per stage rath
 ## Submagic — best-in-class captions (not the clipper for long sources)
 - **Animated/word-by-word captions**, emoji, trendy styles; ~98.9% accuracy, 50+ languages; magic
   B-roll; AI clip detection via a Magic Clips add-on.
-- **Hard cap: ~30-minute source video** even on top plans → **cannot clip a full podcast.** Pricing
-  ~$19/mo (20 videos) → $49+; API on the ~$69 Business+API tier.
+- **Per-video source caps by tier:** ~2 min (Starter $19) / ~5 min (Pro $39) / **~30 min max
+  (Business+API $69)** → **cannot clip a full podcast** on any plan; API on the Business+API tier.
 - The reviewer pattern: **Opus Clip (or your own cut) to find the clip, then Submagic to caption it.**
 
 ## CapCut — free, manual, hands-on

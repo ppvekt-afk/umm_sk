@@ -1,7 +1,7 @@
 ---
 name: content-recycling
 description: >-
-  The evergreen-reuse-over-time engine. Use when someone wants to "get more mileage out of old posts,"
+  Content recycling — resurface, update, and repost proven evergreen content over time. Use when someone wants to "get more mileage out of old posts,"
   "recycle/repost our best content," "resurface evergreen pieces," "update and republish an old post,"
   or build a recycling queue of proven winners. Recycles the INSIGHT refreshed (new hook/format/updated
   data) on a deliberate cadence — never an identical repost. Distinct from cross-platform-repurposing

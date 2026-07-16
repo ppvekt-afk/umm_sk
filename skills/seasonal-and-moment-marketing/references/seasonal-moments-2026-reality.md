@@ -23,7 +23,8 @@ beats noise on the wrong topic.*
 Saturday, stronger window) · Valentine's Day · Mother's Day.** These perform best as a **multi-week content
 series with a genuine brand angle**, not a single seasonal-visual post. **BFCM needs its own dedicated
 campaign track** (→ `campaign-and-launch-planning`) **+ paid amplification** — organic reach alone doesn't
-carry it at brand scale (social ≈ 14% of holiday e-commerce traffic, +8% YoY in 2024, Salesforce).
+carry it at brand scale (social ≈ 16% of holiday e-commerce traffic, +15% YoY in 2025, Salesforce holiday
+shopping data).
 
 ## The authenticity gate (load-bearing)
 Identity/cause moments — **Pride Month, MLK Day, Juneteenth, Black History Month, Earth Day** — require
@@ -44,7 +45,9 @@ tone-deaf.
 ## What to plan around (beyond holidays) + best practice
 Evergreen **seasons** (cozy fall, vibrant summer); **retail anchors** (BFCM, back-to-school, Mother's/Father's
 Day); **awareness months** (Mental Health, Breast Cancer) for **sustained narratives**; **industry events**
-(CES Jan, MWC Mar — tie company news to them); **major cultural/sporting** (2026 FIFA World Cup, Winter
-Olympics/Paralympics Milan, awards shows); **company milestones** (launches, anniversaries, "[Year] Wrapped").
+(CES Jan, MWC Mar — tie company news to them); **major cultural/sporting moments** (Olympics/World Cup
+cycles, awards shows — these rotate and pass mid-year; confirm what's actually *upcoming* before anchoring,
+don't plan around one that's already over); **company milestones** (launches, anniversaries, "[Year]
+Wrapped").
 Map **one date → multiple formats/channels**; go **beyond "happy [day]"** to substantive value; **measure
 against the moment's goal** (engagement vs a sales window), not vanity.

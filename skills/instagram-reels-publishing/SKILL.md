@@ -5,7 +5,8 @@ description: >-
   keyword caption), and platform-specs-and-validation (cross-platform validation). Use when someone has a
   finished Reel and needs to publish it correctly: dimensions/specs, the cover, the safe zone, and the publish
   settings. It gets the Reel OUT the way Instagram actually displays it: 9:16 1080x1920 spec-clean video, the
-  safe zone (top ~250 / bottom ~350 UI) that survives the 4:5 feed crop and the 2026 3:4 profile-grid crop, a
+  safe zone (top ~250 / bottom ~350 UI) that survives the 4:5 feed crop and the 3:4 profile-grid crop (the 2025
+  rectangular-grid change), a
   custom grid-safe cover (chosen before publish, can't edit after), the keyword caption, and audio. Uses the
   FRAME framework. Reads brand-profile + the Reel asset/topic first. The agent specs the publish settings + the
   cover brief + the specs/safe-zone checklist + advises audio/tags. WoopSocial publishes postType REEL + video
@@ -29,7 +30,7 @@ come from other tools.
 ## The POV: the Reel is made elsewhere — this gets it OUT spec-clean
 Great Reels get squashed/cropped/blurred at the **publish step** — a sizing/settings problem, not a content
 problem. Design for **how Instagram actually displays a Reel**: full **9:16** in the Reels tab, a **4:5** crop
-in the feed, and the **2026 3:4 (1080×1440)** crop on the profile grid — so keep critical content **centered**
+in the feed, and the **3:4 (1080×1440)** profile-grid crop (the 2025 rectangular-grid change) — so keep critical content **centered**
 and in the **safe zone.** The **cover** is chosen before publish and **can't be edited after.** WoopSocial
 publishes **postType REEL + video + caption + cover**; the trending audio, Share-to-Feed, tags, and quality
 settings are native/in-app, and the video/cover/captions come from other tools.
@@ -46,7 +47,7 @@ settings are native/in-app, and the video/cover/captions come from other tools.
   safe zone (survives the **4:5 feed + 3:4 grid crops**).
 - **A — Art the cover for the grid:** choose before publishing; a **custom upload beats a video frame**; key
   elements + bold ≥60px text in the **3:4-grid-safe center**; **can't edit after upload** (→ `ideogram`/
-  `imagen`).
+  `nano-banana`).
 - **M — Match caption + audio:** publish the **keyword caption** (← `instagram-seo`); audio beats silent +
   trending audio is pushed (native); the first-3-sec hook (← `reels-script`); burned-in captions in the safe
   zone (← `captions-and-clipping`).
@@ -57,7 +58,7 @@ settings are native/in-app, and the video/cover/captions come from other tools.
 ## The reality (verify-quarterly)
 9:16 1080×1920 canonical (off 0.5625 crops/letterboxes); MP4/MOV H.264 30/60fps ≥1080p ≤4GB ~15–20 Mbps;
 length ~90s / 3 min in-app / ~15 min third-party; the 3 crop contexts (Reels tab 9:16, feed 4:5, **profile
-grid 3:4 1080×1440** [2026 rectangular-grid change], link 1.91:1); safe zones (top ~250 / bottom ~350 UI;
+grid 3:4 1080×1440** [2025 rectangular-grid change], link 1.91:1); safe zones (top ~250 / bottom ~350 UI;
 central ~1320 safe; March 2026 unified FB+IG safe zone); cover (chosen before publish, frame or custom upload,
 **can't edit after**, renders 9:16 feed + 3:4 grid, custom > frame, bold ≥60px center); audio (with-audio >
 silent, trending pushed [native]); hook first 3s; burn captions (safe zone); remove watermarks; blurry fixes
@@ -87,8 +88,8 @@ design** = YouTube thumbnails (the cover is the IG analogue) · **instagram-grow
 
 ## Where this connects
 Reads first: **brand-profile** + the **finished Reel asset.** Pulls from: **reels-script** (the hook/script),
-**instagram-seo** (the keyword caption), the **video tools** (`veo-3`/`runway`/`kling`/`heygen` via
-**ai-video**) for the clip, **ideogram**/**imagen** for the **cover**, **captions-and-clipping** for the
+**instagram-seo** (the keyword caption), the **video tools** (`veo-3`/`luma`/`kling`/`heygen` via
+**ai-video**) for the clip, **ideogram**/**nano-banana** for the **cover**, **captions-and-clipping** for the
 burned-in captions. Validates with: **platform-specs-and-validation** (9:16, ≤4GB, MP4/MOV). Publishes via:
 **scheduling-and-queue → WoopSocial** (postType REEL + video + caption + cover). Measures with: native **Reel
 Insights** + **analytics-and-reporting**. Trending audio, Share-to-Feed, tags, quality, Insights + asset

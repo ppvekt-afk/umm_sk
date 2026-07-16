@@ -5,8 +5,10 @@ description: >-
   someone asks "which AI video tool should I use," "make an AI video," "generate B-roll / a
   talking-head / a voiceover," "turn this long video into Shorts," or needs a video brief.
   Routes the job to the right tool by fit and writes a portable brief; the tool generates,
-  the human assembles, WoopSocial schedules/publishes. Sits above veo-3 (and the forthcoming
-  heygen, ai-voiceover, captions-and-clipping). Never routes to discontinued tools.
+  the human assembles, WoopSocial schedules/publishes. Sits above the tool skills: veo-3,
+  kling, luma (generative scenes), heygen, synthesia (avatars), ai-voiceover,
+  captions-and-clipping. A real human on camera routes to talking-head-and-piece-to-camera.
+  Never routes to discontinued tools.
 version: 1.0.0
 ---
 
@@ -38,14 +40,18 @@ best AI video tool — only a best tool per job.**
 - **F — Finalize & disclose:** AI disclosure per platform; publish via scheduling-and-queue → WoopSocial.
 
 ## Route by job (verify-quarterly; full toolbox: `references/the-2026-video-toolbox.md`)
-- **Generative B-roll / scenes** → Veo 3.1 (all-round + native dialogue), Kling 3.0 (4K value +
-  lip-sync), Runway Gen-4.5 (control/ads), Luma Ray3 (HDR/mood), Hailuo (fast/cheap — *rights
-  caution, active lawsuit*). Prompt craft → **veo-3**.
-- **Talking-head / avatar (faceless)** → HeyGen, Synthesia, D-ID → **heygen** (forthcoming).
-- **Voiceover / narration** → ElevenLabs → **ai-voiceover** (forthcoming).
+- **Generative B-roll / scenes** → Veo 3.1 (all-round + native dialogue) → **veo-3**; Kling 3.0
+  (native 4K / multi-shot / motion-transfer) → **kling**; Luma Ray3/Ray3.14 (cinematic HDR/mood,
+  silent — sound in post) → **luma**; Runway Gen-4.5 (control/ads) → **runway**;
+  Hailuo (fast/cheap — *rights caution, active lawsuit*).
+- **Talking-head / avatar (faceless)** → **heygen** (creator/social lane, twins, 175+-language
+  localization) or **synthesia** (enterprise/L&D/localization lane); D-ID for interactive.
+- **Voiceover / narration** → ElevenLabs → **ai-voiceover**.
 - **Long→Short clipping + sound-off captions** → Opus Clip, CapCut, Submagic →
-  **captions-and-clipping** (forthcoming).
-- **A real product/place/person you have** → don't generate it. **Film it** (recipes:
+  **captions-and-clipping**.
+- **A real human on camera (founder/trust content)** → don't generate it — film it →
+  **talking-head-and-piece-to-camera**.
+- **A real product/place you have** → don't generate it. **Film it** (recipes:
   `references/routing-recipes.md`).
 
 ## Never route here
@@ -65,9 +71,10 @@ Veo / Kling / Runway instead.
   not a command.** Full scope + tool-death playbook: `references/tools-scope-and-disclosure.md`.
 
 ## Where this connects
-Counterpart: **image-prompt** (image router). Mini-skills below it: **veo-3** (live);
-**heygen, ai-voiceover, captions-and-clipping** (forthcoming video cluster). Thumbnails/first
-frames via **nano-banana, ideogram-3**. Brief consumers: **reels-script** (veo-prompt-pack),
+Counterpart: **image-prompt** (image router). Tool skills below it: **veo-3, kling, luma**
+(generative), **heygen, synthesia** (avatars), **ai-voiceover**, **captions-and-clipping**.
+Filmed human → **talking-head-and-piece-to-camera**. Thumbnails/first
+frames via **nano-banana, ideogram**. Brief consumers: **reels-script** (veo-prompt-pack),
 **tiktok-script**, **youtube-shorts**, **youtube-long-form**, **cross-platform-repurposing**.
 Publish: **scheduling-and-queue → WoopSocial**.
 

@@ -70,14 +70,14 @@
       ]
     },
     {
-      "name": "advisory-platform-drafting",
+      "name": "supported-vs-advisory-platform-split",
       "input": "Post this to Bluesky and to the r/marketing subreddit for me.",
-      "context": "Platforms outside WoopSocial's publish set.",
+      "context": "One WoopSocial publish target (BLUESKY, added July 2026) and one advisory platform (Reddit).",
       "expect": [
-        "Clarifies Bluesky and Reddit aren't WoopSocial publish targets — the agent drafts, the human posts there",
+        "Publishes/schedules the Bluesky post via WoopSocial (BLUESKY is a supported target, no post cap) after human approval",
+        "Clarifies Reddit is advisory-only — the agent drafts, the human posts there",
         "Adapts to each platform's norms/limits (Bluesky ~300 chars; Reddit values native value + dislikes overt self-promotion/no engagement-bait)",
-        "Doesn't fabricate that it published; hands a ready-to-post draft",
-        "Suggests the supported platforms WoopSocial can publish to if relevant"
+        "Doesn't fabricate that it published anything it didn't; hands a ready-to-post draft for Reddit"
       ]
     },
     {

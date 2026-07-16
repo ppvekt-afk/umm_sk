@@ -40,8 +40,11 @@ YouTube sub-gains: joint video ~50–300/creator; series ~200–1,000+/creator �
 
 ## Platform-specific + disclosure
 - **IG/TikTok:** joint giveaways, co-created Reels, mutual Story shoutouts; **IG has a native Collab
-  co-author** (one post on both grids — native-only), **TikTok duet/stitch**. **Email:** newsletter/partner
-  mentions (lead gen). **Content:** co-authored posts, webinars, podcast swaps (SEO/authority).
+  co-author** (one post on both grids — native-only), **TikTok duet/stitch**. **YouTube has a native
+  Collaboration feature** (launched Aug 2025): up to **5 channels credited on one video/Short**, surfacing it
+  to every collaborator's audience with a subscribe button each — the modern upgrade to "both upload the same
+  video" (native-only, via YouTube Studio invite). **Email:** newsletter/partner mentions (lead gen).
+  **Content:** co-authored posts, webinars, podcast swaps (SEO/authority).
 - **Escalation ladder:** start small (mutual shoutout/email mention) → giveaway → content collab →
   co-product. Build trust first; each success opens the next.
 - **Disclosure:** a **pure mutual collab (no payment) is NOT a sponsorship** — no #ad. **If money/free

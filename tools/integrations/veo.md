@@ -76,5 +76,5 @@ fabricated claims or fake testimonials in generated video.
 
 ## Skills that use it
 
-`reels-script` (and forthcoming `tiktok-script`, `youtube-shorts-script`, `text-to-video-prompt`,
-`image-to-video-prompt`, `b-roll-and-shotlist`).
+`veo-3` (prompt craft, under the `ai-video` router), `reels-script` (veo-prompt-pack),
+`tiktok-script`, `youtube-shorts`, `scripting-and-storyboarding`.

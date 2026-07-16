@@ -86,7 +86,7 @@
       "context": "YMYL health testimonial implying efficacy.",
       "expect": [
         "Applies YMYL care: a single testimonial is not proof of efficacy and can't be framed as a typical or guaranteed outcome",
-        "Avoids implied medical claims; adds a results-not-typical / not-medical-advice framing; keeps the quote in honest context",
+        "Avoids implied medical claims; if the result isn't typical, discloses the actual generally-expected result (a bare 'results not typical' line is insufficient per FTC) + not-medical-advice framing; keeps the quote in honest context",
         "Requires consent and avoids health-claim/regulatory overreach; routes genuine claims to qualified pros/real evidence",
         "Does not fabricate, exaggerate, or generalize the outcome"
       ]

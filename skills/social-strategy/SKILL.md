@@ -5,11 +5,12 @@ description: >-
   ignore), what to achieve, the angle to win, and a realistic operating cadence. The top-level
   plan that sits above content pillars and the calendar. Run when the user says "social
   strategy," "social media strategy," "which platforms should I be on," "what's my plan,"
-  "should I be on TikTok/LinkedIn," "set goals for social," or is starting or resetting their
-  social presence. Reads brand-profile, audience-research, and content-pillars first. Makes real
-  choices and trade-offs — especially what NOT to do — ties goals to the business not vanity
-  metrics, and is honest that WoopSocial has no analytics yet (measurement is platform-native /
-  manual for now). Produces a social-strategy.md. Works for any business.
+  "should I be on TikTok/LinkedIn," or is starting or resetting their social presence. Reads
+  brand-profile, audience-research, and content-pillars first. Makes real choices and
+  trade-offs — especially what NOT to do — ties goals to the business not vanity metrics, and
+  is honest that WoopSocial has no analytics (measurement is the platforms' native analytics).
+  Produces a social-strategy.md. It names the objective; to turn it into SMART targets, KPIs,
+  and North Star metrics, use goals-and-kpis. Works for any business.
 metadata:
   version: 1.0.0
 license: MIT
@@ -50,7 +51,9 @@ Pick **one** primary objective social must serve right now — awareness, audien
 community, authority/positioning, leads, or sales — chosen from what the **business actually
 needs** (a pre-launch startup needs awareness/audience; an established one needs leads/sales).
 Add at most one secondary. Define a **meaningful metric**, not a vanity one, and be honest about
-measurement (see `references/goals-and-measurement.md`).
+measurement (see `references/goals-and-measurement.md`). To cascade the objective into SMART
+targets, per-channel North Stars, and action thresholds, hand off to `goals-and-kpis` — this
+skill names the objective; that one sets the numbers.
 
 ## Step 2 — Select channels (focus, don't spread)
 
@@ -94,8 +97,8 @@ with reasons), the wedge, the operating model and phasing. Summarize back and in
 - Are **channels chosen by the fit framework**, with the dropped ones named? (Not "all of them.")
 - Is there a real **wedge** — a differentiated way to win, from the brand's POV?
 - Is the operating model **sustainable** and **phased** (start focused, then expand)?
-- Is measurement **honest** — meaningful metrics, and no analytics promised that WoopSocial can't
-  yet deliver?
+- Is measurement **honest** — meaningful metrics, read from the platforms' native analytics, and
+  no analytics promised that WoopSocial doesn't have?
 - Would following this make the brand *choose* — or just do everything everywhere?
 
 If the "strategy" doesn't say no to anything, it isn't one.
@@ -112,12 +115,14 @@ If the "strategy" doesn't say no to anything, it isn't one.
   often a *subtraction* strategy.
 - **B2B vs B2C** → channel and goal differ sharply (LinkedIn/X authority+leads vs IG/TikTok
   awareness); use the audience profile.
-- **Measurement expectations** → set targets but be clear measurement is platform-native/manual
-  until WoopSocial analytics exists; don't promise dashboards.
+- **Measurement expectations** → be clear WoopSocial publishes; measurement is the platforms'
+  native analytics (read manually) — don't promise dashboards.
 
 ## Related skills
 
 - `brand-profile`, `audience-research`, `content-pillars` — read first; supply the inputs.
+- `goals-and-kpis` — turns this strategy's objective into SMART targets, per-channel North
+  Stars, and thresholds ("set our goals/KPIs" requests route there).
 - `content-pillars` — the themes that serve this strategy.
 - `batch-content-plan` — turns the strategy + pillars into a calendar.
 - `cross-platform-repurposing` — makes a focused multi-channel strategy sustainable.

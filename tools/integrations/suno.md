@@ -15,8 +15,9 @@ Terms/Help Center; treat pre-Warner-deal reviews as stale on rights.
    meta-tag structure, exclude-styles, lyrics, the consistency plan, and the archive checklist; the human
    generates, curates, and exports.
 3. **Handoff:** WAV/MP3 exports → `capcut` (scoring the edit — replacing its license-trap library music) or
-   `podcast-and-audiograms` (stings) → the finished content → `scheduling-and-queue` → **WoopSocial `POST
-   /media` + `POST /posts`.** WoopSocial does not generate or attach audio; **trending audio is native-only.**
+   `podcast-and-audiograms` (stings) → the finished content → `scheduling-and-queue` → **WoopSocial: upload
+   media → attach → validate → create post** (see `tools/integrations/woopsocial.md`). WoopSocial does not
+   generate audio or mix it into video — score the edit before upload; **trending audio is native-only.**
 
 ## Tiers (≈; verify in-app)
 **Free:** 50 credits/day (~10 songs) — **strictly non-commercial, forever** (no retroactive rights after
@@ -50,4 +51,4 @@ tracks underperform human releases on saves ~25–40%.
 Human ears judge every track · paid tier before anything commercial · never clone a real artist's voice or fake
 a collab · litigation-aware prompting (generic styles) · DDEX AI flag at distribution; no PRO registration for
 pure-AI · archive keepers ahead of deprecation · never state a tier/legal status as immutable fact ·
-WoopSocial does not generate, attach, or license audio; trending audio is native-only.
+WoopSocial does not generate, mix, or license audio; trending audio is native-only.

@@ -48,8 +48,9 @@
       "input": "Set up the strategy and tell me how we'll track performance.",
       "expect": [
         "sets meaningful metrics and a review cadence",
-        "is honest that WoopSocial has no analytics yet — measurement is platform-native/manual for now",
-        "does NOT promise dashboards or automated reporting the product can't deliver"
+        "is honest that WoopSocial has no analytics — measurement is the platforms' native analytics, read manually",
+        "does NOT promise dashboards or automated reporting the product can't deliver",
+        "routes detailed target-setting (SMART targets, North Stars, thresholds) to goals-and-kpis"
       ]
     },
     {

@@ -21,7 +21,7 @@ stream only when the prior one is steady. Aim for **≥3 streams** for resilienc
 Recurring core: 2-4% of an engaged email/audience base may convert to a paid tier.
 Example (illustrative, NOT a promise): 5,000 engaged followers x ~3% x $10/mo ~= $1,500/mo recurring,
    highly variable by niche/engagement/offer. Pair with 1 digital product for margin.
-Platform fund: treat as a bonus (TikTok fund ~ $20-40 per MILLION views).
+Platform fund: treat as a bonus (TikTok Creator Rewards ~ $400-1,000 per MILLION qualified views; ~10k-follower gate).
 ```
 
 ## Sponsorship media-kit essentials

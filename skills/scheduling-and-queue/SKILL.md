@@ -34,6 +34,8 @@ overrides everything else:
 posts via WoopSocial; upload media; fan one post out to multiple platforms.
 
 **Doesn't:**
+- **Post to Reddit.** Reddit isn't a supported target — route to `reddit-marketing` (advisory-only:
+  the agent drafts, the human posts natively).
 - **Create content.** It schedules finished content. If the content isn't ready or on-brand,
   route back to `caption-writer` / the relevant content skill first.
 - **Report analytics.** WoopSocial has no analytics surface yet, so this skill never claims
@@ -45,7 +47,9 @@ posts via WoopSocial; upload media; fan one post out to multiple platforms.
 Look for a WoopSocial MCP/API connection (see `tools/integrations/woopsocial.md`). Then:
 
 - **Connected:** discover the user's projects and connected social accounts (WoopSocial
-  surfaces account/project identifiers automatically). Confirm which accounts you'll use.
+  surfaces account/project identifiers automatically). Confirm which accounts you'll use. If a
+  target platform's account isn't connected yet, offer to connect it from here: call
+  `oauth_create_authorization`, give the user the browser URL to approve, then re-list accounts.
 - **Not connected — degrade gracefully, never fail silently:** produce a clean, ready-to-use
   **schedule table** (post · platform · date/time · timezone) the user can act on manually, and
   give the ~60-second connect steps (create account → create API key in dashboard → add the
@@ -129,7 +133,6 @@ with the post IDs WoopSocial returns. On failure:
 - `cross-platform-repurposing` — adapt one post per platform before scheduling.
 - `batch-content-plan` — builds the month; this skill schedules it.
 - `brand-profile` — supplies guardrails (e.g., AI-disclosure, sensitive-topic rules).
-- `best-time-to-post` — advisory timing suggestions (not analytics-backed yet).
 
 ## References
 

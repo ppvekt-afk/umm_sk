@@ -7,8 +7,10 @@ description: >-
   "thought leadership post," "founder post," or wants professional/B2B social content. Reads
   brand-profile and voice first, uses hook-writer for the opening line that must win the "see
   more" expand, formats for dwell, drives genuine comments, and routes links to the first comment
-  to protect reach. Avoids LinkedIn cringe (broetry, engagement bait). For general captions use
-  caption-writer; for X threads use thread-writer; for the carousel slides use carousel-writer.
+  to protect reach. Avoids LinkedIn cringe (broetry, engagement bait). This is the single-post
+  craft: to "grow on LinkedIn" or set the account strategy use linkedin-growth; for company-page
+  strategy use linkedin-company-pages; for general captions use caption-writer; for X threads use
+  thread-writer; for the carousel slides use carousel-writer.
 metadata:
   version: 1.0.0
 license: MIT
@@ -43,7 +45,8 @@ and first-person. Carry guardrails and any compliance rules.
 - **Goal** — authority, leads/warming, comments, or reach (shapes the close).
 - **Person vs company** — personal/founder profiles consistently out-reach company pages and read
   as more trustworthy. Recommend a **personal** voice for thought leadership; reserve the company
-  page for announcements/brand. (See `references/linkedin-mechanics.md`.)
+  page for announcements/brand. (See `references/linkedin-mechanics.md`; the page's own strategy
+  lives in `linkedin-company-pages`.)
 
 ## Step 2 — Write the "see more" hook
 
@@ -117,7 +120,8 @@ reason tied to the goal.
 - `hook-writer` — the "see more" opening line.
 - `caption-writer` — general captions; `thread-writer` — X threads; `carousel-writer` — the slides
   for a document-carousel post.
-- `linkedin-growth` — the broader LinkedIn growth playbook.
+- `linkedin-growth` — the personal-profile growth system (cadence, commenting, the golden hour);
+  `linkedin-company-pages` — the company-page strategy. This skill stays on the single post.
 - `scheduling-and-queue` — schedule the finished post.
 
 ## References

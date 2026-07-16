@@ -24,7 +24,7 @@ cadence, the reply-more-than-post engine, format mix, the Threads→IG funnel, m
 original posts**; the **reply flywheel, Communities, DMs, dashboards, and analytics are human/native.**
 
 ## The POV: conversation-first — grow by replying more than you post
-Threads (~450M MAU; ~141.5M daily mobile, more than X; ~6.25% engagement, far above X) is **neither X nor
+Threads (~500M MAU mid-2026; ~141.5M daily mobile, more than X; ~6.25% engagement, far above X) is **neither X nor
 Instagram** — a **conversation-first, positive** platform where dunks and negativity get **throttled.** The
 defining lever is **Mosseri's "reply much more than you post":** replies are weighted heaviest, your **own
 replies count**, and **first-hour engagement velocity is the #1 ranking factor.** It's an **interest graph**
@@ -81,7 +81,7 @@ funnel, metrics) · **threads-post** = the single-post CRAFT (one ≤500-char po
 
 ## Where this connects
 Reads first: **brand-profile**, **goals-and-kpis**. Routes craft to: **threads-post** (the post),
-**caption-writer**/**hook-writer** (lines), **imagen**/**ideogram** (the +60% photo), **community-management**
+**caption-writer**/**hook-writer** (lines), **nano-banana**/**ideogram** (the +60% photo), **community-management**
 (the reply flywheel + Communities/DMs). Funnels to: **instagram-growth** (conversion),
 **cross-platform-repurposing**/**content-recycling** (repurpose top posts in 24–72h),
 **link-in-bio-and-traffic**. Publishes via: **scheduling-and-queue → WoopSocial** (original posts) +

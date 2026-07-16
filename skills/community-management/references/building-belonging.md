@@ -28,6 +28,9 @@ get them connecting with **each other.**
 Belonging compounds through **recurring formats that train members to expect value** on a schedule.
 Pick a few and hold them:
 
+- **A welcome/onboarding ritual for new members** — an intro thread, a named welcome, and one easy
+  first action ("introduce yourself + your current project"). Members who post in their first days
+  stay; ones who lurk silently churn. Design the first 48 hours, don't leave them to chance.
 - **A weekly thread / prompt** (a standing question, "wins of the week," "what are you working on?").
 - **A monthly AMA or live Q&A** (founder/expert/creator).
 - **A challenge** members participate in and share.
@@ -42,7 +45,7 @@ keep for months, not a burst.
 
 Inviting members to **co-create** — submit content, vote, name things, shape the product — turns
 consumers into collaborators and advocates, and doubles as social proof. (Sourcing it deeply →
-`ugc-and-review-sourcing` when available.)
+`social-proof-and-testimonials`.)
 
 ## Live moments
 

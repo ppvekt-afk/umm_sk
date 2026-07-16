@@ -6,8 +6,8 @@ Each platform's carousel has its own specs and culture. Match the build to the t
 
 ## Instagram carousel
 
-- **Slides:** up to 10 (sometimes up to 20 in expanded rollouts — verify). Mixed images/video
-  allowed.
+- **Slides:** up to 20 (raised from 10 in 2024). Mixed images/video allowed. The sweet spot is
+  still ~5–10; reserve 15–20 for photo dumps / deep walkthroughs that earn it.
 - **Aspect ratio:** 1:1 (square) or **4:5 (portrait)** — 4:5 takes more feed space and is usually
   better. Keep all slides the same ratio.
 - **Cover:** shows in the feed and on the grid — must work at thumbnail size.
@@ -43,6 +43,6 @@ a flexible template, then export per platform's ratio.
 
 | Platform | Format | Ratio | Slides | Best for |
 |---|---|---|---|---|
-| Instagram | image/video carousel | 4:5 or 1:1 | up to 10 (–20) | saves, teaching, story |
+| Instagram | image/video carousel | 4:5 or 1:1 | up to 20 | saves, teaching, story |
 | LinkedIn | PDF document | 1:1 or portrait | generous | frameworks, B2B authority |
 | TikTok | photo mode | 9:16 | several | casual, native, reach |

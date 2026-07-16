@@ -19,8 +19,8 @@ This video shows [audience] how/why [specific outcome or problem] by revealing [
 
 ## Spec block
 ```
-Size 1280x720, 16:9, JPG or PNG. <2MB historically (up to 50MB rolling out early 2026 for TV). RGB.
-Created in an image/design tool (imagen / ideogram / Canva / a designer) -- NOT by WoopSocial.
+Size 1280x720, 16:9, JPG or PNG. Cap is 50MB since early 2026 (was 2MB; the extra headroom is for 4K/TV). RGB.
+Created in an image/design tool (nano-banana / ideogram / Canva / a designer) -- NOT by WoopSocial.
 YouTube custom thumbnail: uploaded NATIVELY in YouTube Studio (WoopSocial has no thumbnail field).
 TikTok / IG-Reel COVER: different -- a frame/card set via WoopSocial's `cover` field (tiktok-video-publishing / IG skill).
 ```
@@ -31,8 +31,10 @@ Variant A: [promise/emotion 1]   e.g. surprised face + "$0 to $10K"
 Variant B: [promise/emotion 2]   e.g. object-only product hero, no text
 Variant C: [promise/emotion 3]   e.g. before/after split
 Rule: change ONE meaningful variable across the set; each tests a different reason to click.
-Winner: YouTube picks by WATCH-TIME SHARE (not CTR), up to ~14 days. Not for Shorts. Needs traffic
-(<1k impressions/week -> inconclusive). A HUMAN uploads + runs it in Studio. Log the result for next time.
+Winner: YouTube picks by WATCH-TIME SHARE (not CTR), up to ~14 days. Not for Shorts. Needs Advanced
+Features + traffic (<1k impressions/week -> inconclusive). Test & Compare can also test TITLES or
+title+thumbnail combos (since Dec 2025) -- test the packaging as the unit it is.
+A HUMAN uploads + runs it in Studio. Log the result for next time.
 ```
 
 ## Worked example 1 — tutorial, established face (blunt indie-founder voice)

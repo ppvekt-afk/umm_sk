@@ -29,10 +29,10 @@
       "name": "audiogram_for_audio_only",
       "input": "My podcast is audio-only, what do I do?",
       "expect": [
-        "Recommends an audiogram: cover art/background + animated waveform + captions + title",
+        "Recommends an audiogram: cover art/background + animated waveform + captions + title, designed caption-first (the waveform is support, not the star)",
         "Names audiogram tools (Headliner / Podsqueeze / Kapwing)",
         "Routes the on-brand audiogram template to design-and-templates",
-        "Notes audiograms outperform static posts and are sound-off accessible"
+        "Is honest about performance: audiograms beat static posts but real video clips outperform audiograms — suggests recording video going forward where feasible"
       ]
     },
     {

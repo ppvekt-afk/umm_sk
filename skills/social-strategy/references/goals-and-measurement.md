@@ -45,17 +45,17 @@ conversion often happens elsewhere (site, email, DMs, sales call). So:
   reach/saves, not purchases.
 - A "conversion" goal still needs upper-funnel content feeding it.
 
-## Honest measurement (given no analytics yet)
+## Honest measurement
 
-WoopSocial has **no analytics surface yet**, so measurement is **platform-native and manual** for
-now — read each platform's own insights, track your primary metric in a simple sheet, and review
-periodically. Set targets, but:
+**WoopSocial publishes (measurement: the platforms' native analytics).** Measurement is
+**platform-native and manual** — read each platform's own insights, track your primary metric in
+a simple sheet, and review periodically. Set targets, but:
 
-- Don't promise dashboards or automated reporting this product can't deliver.
-- Treat measurement as **advisory/manual** until WoopSocial analytics ships (then it gets
-  easier).
+- Don't promise dashboards or automated reporting the product can't deliver.
 - Be wary of obsessing over numbers week to week; social compounds over months. Set a cadence to
   review (e.g., monthly) rather than chasing every post.
+- To cascade the objective into SMART targets, per-channel North Stars, and action thresholds,
+  hand off to `goals-and-kpis`.
 
 ## A simple goal statement
 

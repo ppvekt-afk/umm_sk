@@ -44,6 +44,9 @@ pages. People follow people. So:
 - **Announcements, brand, hiring → the company page is fine**, but pair it with a personal post for
   reach (employee advocacy).
 
+(This skill writes the post. The account-level system — cadence, commenting, golden hour — is
+`linkedin-growth`; the page strategy and advocacy program are `linkedin-company-pages`.)
+
 ## The link problem
 
 LinkedIn suppresses reach on posts with **external links in the body** (it wants people to stay

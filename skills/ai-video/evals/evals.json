@@ -9,9 +9,9 @@
       "context": "brand-profile and voice-builder exist.",
       "expect": [
         "Asks for (or infers) the JOB first — generative B-roll, talking-head/avatar, voiceover, or clipping/captions — because there is no single best tool, only a best tool per job",
-        "Routes by output shape with current options (e.g. Veo 3.1 all-round + dialogue, Runway Gen-4.5 control, Kling 3.0 4K value, Luma Ray3 HDR/mood), marked verify-quarterly",
+        "Routes by output shape with current options (e.g. Veo 3.1 all-round + dialogue, Kling 3.0 4K/multi-shot value, Luma Ray3 HDR/mood, Runway Gen-4.5 control), marked verify-quarterly",
         "Introduces the BRIEF framework and writes a portable, tool-agnostic brief",
-        "Reads brand-profile and voice-builder first and routes prompt craft to the relevant mini-skill (veo-3 for Veo)"
+        "Reads brand-profile and voice-builder first and routes prompt craft to the relevant tool skill (veo-3, kling, or luma for generative; heygen or synthesia for avatars)"
       ]
     },
     {
@@ -50,9 +50,9 @@
       "input": "I want a faceless talking-head video explaining our pricing.",
       "expect": [
         "Identifies this as an avatar/talking-head job, not generative B-roll",
-        "Routes to avatar tools (HeyGen, Synthesia; D-ID for interactive) via the heygen mini-skill (forthcoming in the video cluster)",
-        "Notes voiceover would come from ElevenLabs via ai-voiceover (forthcoming) if not using the avatar's built-in voice",
-        "Reserves generative tools (Veo/Kling/Runway) for cinematic B-roll, a different job"
+        "Routes to the avatar skills — heygen (creator/social lane) or synthesia (enterprise/L&D/localization lane); D-ID for interactive — and notes a real human on camera routes to talking-head-and-piece-to-camera instead",
+        "Notes voiceover would come from ElevenLabs via ai-voiceover if not using the avatar's built-in voice",
+        "Reserves generative tools (Veo/Kling/Luma/Runway) for cinematic B-roll, a different job"
       ]
     },
     {

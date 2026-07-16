@@ -1,7 +1,7 @@
 ---
 name: creator-monetization
 description: >-
-  The revenue-portfolio skill for 2026. Use when someone wants to "make money as a creator," "monetize my
+  Creator monetization — build a diversified revenue portfolio from an audience: memberships, products, brand deals, platform payouts. Use when someone wants to "make money as a creator," "monetize my
   audience," "start a membership/community," "sell a course/digital product," "get brand deals / set my
   rates," or build diversified creator income. Builds a revenue STACK rather than chasing a viral payout:
   an owned audience -> a recurring core (membership/community) + high-margin digital products + selective
@@ -10,7 +10,8 @@ description: >-
   memberships, or pay creators: the agent chooses/sequences streams, designs offers + media kit, and drafts
   promo posts; WoopSocial publishes the promo/launch posts; infrastructure is external; income is never
   promised or fabricated; sponsorships are disclosed (FTC). Distinct from email-and-newsletter (the owned
-  channel), lead-magnets-and-funnels (the funnel mechanics), and the capture-path skills.
+  channel), lead-magnets-and-funnels (the funnel mechanics), ugc-and-influencer (the BRAND side of paid
+  creator deals — this skill is the creator side that lands and prices them), and the capture-path skills.
 version: 1.0.0
 ---
 
@@ -23,8 +24,8 @@ product/payout infrastructure is **external + human-run.**
 ## The POV: build a revenue stack, not a viral payout
 The creator economy is huge but its income is **concentrated** — most full-time creators earn below a
 living wage, and the average creator turns only ~2–3% of audience size into revenue. Durable income comes
-from a **revenue stack**, not a viral hit or one platform's fund (TikTok's pays ~$20–40 per *million*
-views): an **owned audience** feeding a **recurring core** (membership/community) plus **high-margin
+from a **revenue stack**, not a viral hit or one platform's fund (a *million* qualified TikTok views ≈
+$400–1,000): an **owned audience** feeding a **recurring core** (membership/community) plus **high-margin
 digital products**, with **selective, aligned sponsorships** and **platform funds as a bonus, never the
 foundation.** Each model rewards a different strength — so match streams to who you are, **diversify**, and
 **never bank on a single algorithm.**
@@ -48,7 +49,7 @@ foundation.** Each model rewards a different strength — so match streams to wh
 ## The reality (verify-quarterly)
 Opportunity-wide/income-concentrated (2–4% six figures; 56% below living wage; ~2–3% of audience as
 revenue); streams ranked by stability (memberships compound; products = margin; sponsorships big but not
-solo; funds = pennies/bonus); earnings ranges by audience + fluctuation + emergency fund; match-to-strength;
+solo; funds = gated bonus); earnings ranges by audience + fluctuation + emergency fund; match-to-strength;
 disclosure/tax: `references/monetization-2026-reality.md`. Stream menu, sequencing, realistic math, media
 kit + worked examples: `references/streams-and-recipes.md`.
 
@@ -66,12 +67,14 @@ kit + worked examples: `references/streams-and-recipes.md`.
 ## Distinct from its siblings (route correctly)
 **creator-monetization (this)** = the income-stream portfolio + offer design + promotion ·
 **email-and-newsletter** = the owned channel (paid subs are ONE stream in the stack) ·
-**lead-magnets-and-funnels** = the lead→sale funnel mechanics · **link-in-bio-and-traffic** /
-**social-selling-and-dm** = the capture paths to the offer · **goals-and-kpis** = the revenue target.
+**lead-magnets-and-funnels** = the lead→sale funnel mechanics · **ugc-and-influencer** = the BRAND side of
+paid creator work (sourcing/briefing/paying creators; this skill is the creator side — landing, pricing,
+and disclosing the deals) · **link-in-bio-and-traffic** / **social-selling-and-dm** = the capture paths to
+the offer · **goals-and-kpis** = the revenue target.
 
 ## Where this connects
 Reads first: **brand-profile**, **goals-and-kpis**. Offer creative: **carousel-writer**/**caption-writer**/
-**hook-writer**, **story-writer**, **image-prompt**/**ideogram**/**imagen**, the **video** cluster. Drive
+**hook-writer**, **story-writer**, **image-prompt**/**ideogram**/**nano-banana**, the **video** cluster. Drive
 to the offer: **link-in-bio-and-traffic**, **social-selling-and-dm**, **lead-magnets-and-funnels**,
 **email-and-newsletter**. Promote/publish: **content-calendar**, **campaign-and-launch-planning**,
 **scheduling-and-queue → WoopSocial** (promo posts only). Measure/test: **analytics-and-reporting**,

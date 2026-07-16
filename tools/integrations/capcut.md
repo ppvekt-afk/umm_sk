@@ -8,10 +8,9 @@ shift fast — **verify-quarterly** against capcut.com/pricing and the in-app ti
 1. **No agent connector.** CapCut has no public MCP/API for agent-driven editing — the **agent plans** (cut plan,
    caption spec, sound plan, export spec) and the **human executes** in-app (mobile / desktop / web; cloud sync
    between them). Never pretend automation; never claim to see or judge footage.
-2. **Publish handoff:** export MP4 (H.264/H.265; 4K on Pro) → `scheduling-and-queue` → **WoopSocial `POST /media`
-   + `POST /posts`** (TikTok requires privacyLevel, allowComment/Duet/Stitch, isYourBrand, isBrandedContent,
+2. **Publish handoff:** export MP4 (H.264/H.265; 4K on Pro) → `scheduling-and-queue` → **WoopSocial** (upload media → attach → validate → create post; per-platform required fields validate atomically — see `woopsocial.md`) (TikTok requires privacyLevel, allowComment/Duet/Stitch, isYourBrand, isBrandedContent,
    autoAddMusic — validated atomically). CapCut's direct-to-TikTok publish exists; the WoopSocial split
-   (7 platforms, validation, one queue, native analytics) is a stated stack choice.
+   (10 platforms, validation, one queue; measurement stays in the platforms' native analytics) is a stated stack choice.
 
 ## Plan gates (≈, sources conflict — verify in-app)
 - **Free:** core editor + basic AI; ~10-min auto-caption cap/project; free-library assets **personal-use only**;

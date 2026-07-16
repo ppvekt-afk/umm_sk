@@ -3,7 +3,8 @@
 *Volatile. Re-verify quarterly (Threads + Mosseri ship changes often).*
 
 ## The POV: conversation-first — grow by replying more than you post
-Threads is **~450M MAU / ~141.5M daily mobile users (more than X's ~125M), with a ~6.25% median engagement
+Threads is **~500M MAU (mid-2026 estimates) / ~141.5M daily mobile users (more than X's ~125M — though X
+still leads on web + total MAU), with a ~6.25% median engagement
 rate (≈73.6% higher than X's 3.6%)** — and only ~1% of brands post consistently (an open window). It's
 **neither X nor Instagram**: a **conversation-first**, **positive/constructive** culture where **sarcasm,
 dunks, and negativity get throttled.** Mosseri's core advice: **"reply much more than you post."** Replies

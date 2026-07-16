@@ -119,7 +119,7 @@ If two versions are the same text with different hashtags, you reposted — go b
 - `hook-writer` — a fresh hook for each platform.
 - `caption-writer`, `reels-script`, `thread-writer` — build each native version.
 - `content-recycling` — repurposing across **time** (refresh evergreen later).
-- `blog-to-social`, `podcast-video-to-clips` — source-specific repurposing at depth.
+- `captions-and-clipping`, `opus-clip` — cutting clips from long video (podcasts, webinars) at depth.
 - `batch-content-plan` — uses this to stretch material into a calendar.
 - `scheduling-and-queue` — schedules/fans out the finished versions.
 

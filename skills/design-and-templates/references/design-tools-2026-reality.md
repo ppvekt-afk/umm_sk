@@ -34,5 +34,6 @@ Firefly for the hero visuals.
 ## Relationship to the image tools (the library's generative branch)
 This skill is about **layout + template systems** (type, hierarchy, brand consistency, reusable frames) —
 often **not generative.** When a template needs a **generated image**, brief the image tools (`image-prompt`
-→ `ideogram` for text-in-image, `imagen` for photoreal, `midjourney` for artistic, `nano-banana` for edits)
+→ `ideogram` for text-in-image, `nano-banana` for photoreal + edits/composition, `flux` for
+edit control + character/product consistency, Midjourney for artistic)
 or use a built-in generator (Canva **Dream Lab** / Adobe **Firefly**). Layout ≠ generation — they connect.

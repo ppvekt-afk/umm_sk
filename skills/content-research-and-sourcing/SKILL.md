@@ -88,11 +88,11 @@ protocol, zombie autopsy, source log, attribution patterns, and worked examples:
 where ideas come from · **data-and-original-research** = creating original data + GEO (route there when no
 source exists) · **quote-cards-and-text-graphics** = quote-card accuracy rules (this feeds verified quotes) ·
 **infographic-and-data-viz** = honest charts · **before-after-and-transformation** = results-claim compliance ·
-**news-and-commentary / trend skills** = compressed-protocol speed contexts (verify before amplifying).
+**trend-jacking / the trend skills** = compressed-protocol speed contexts (verify before amplifying).
 
 ## Where this connects
 Reads first: **brand-profile** + the piece's **format skill.** Consumes: drafts from any content skill, AI
-research output (tested hard), inherited stats (re-checked). Feeds: every format skill, **quote-cards**,
+research output (tested hard), inherited stats (re-checked). Feeds: every format skill, **quote-cards-and-text-graphics**,
 **infographic-and-data-viz**, **email-and-newsletter**, the source log to **content-calendar.** Publishes via:
 the verified piece → **scheduling-and-queue → WoopSocial.** Measure with: zero corrections + source-log reuse
 + citations earned via **analytics-and-reporting** — never fabricated.

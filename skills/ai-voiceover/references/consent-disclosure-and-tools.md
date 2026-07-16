@@ -40,6 +40,6 @@ bidirectional cross-links (done here). ai-voiceover is the **audio** producer al
 
 ## Where this connects
 Router: **ai-video**. Sibling producers: **veo-3** (scenes), **heygen** (avatars);
-**captions-and-clipping** (forthcoming) pairs the VO with sound-off captions and long→Short cuts.
+**captions-and-clipping** pairs the VO with sound-off captions and long→Short cuts.
 VO consumers: **reels-script**, **youtube-shorts**, **youtube-long-form**, **linkedin-growth**,
 **cross-platform-repurposing**. Publish: **scheduling-and-queue → WoopSocial**.

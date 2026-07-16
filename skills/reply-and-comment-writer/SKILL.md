@@ -49,7 +49,8 @@ pastes/forwards it — WoopSocial can't pull it) and the **goal** (relationship,
 
 ### 1. Reply to comments on your own posts (highest return)
 Be present in the **golden hour**; draft **voice-consistent** replies matched to the comment type —
-praise (receive + extend), **question** (answer specifically; reuse recurring ones as content),
+praise (receive + extend), **question** (answer specifically; reuse recurring ones as content — the
+strongest form is a native video reply to the comment),
 neutral (deepen with a question back), **criticism** (acknowledge → fix → take private), troll (don't
 feed), spam (delete). Nudge **member-to-member** conversation, not a wall of brand replies. See
 `references/replying-to-your-comments.md`.

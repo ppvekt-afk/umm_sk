@@ -12,10 +12,11 @@
   years; repetition strengthens brand recall (especially ideas that need several exposures to land).
 
 ## The hard constraint — refresh, not duplicate
-- **Meta's 2026 Original Content rules** (formal March 2026; enforced since July 2025): **penalties
-  for unoriginal/duplicate content** — reduced reach and demonetization for accounts repeatedly
-  reusing material; Instagram **redirects viewers to the original** version of a clip rather than
-  showing reposts; other-platform watermarks penalized. **Quality over volume** — fewer original
+- **Meta's Original Content rules** (enforced since July 2025; verify-quarterly): **penalties for
+  unoriginal/duplicate content** — reduced reach (applied account-wide, not just the offending post),
+  demonetization, and "non-recommendable" status for accounts repeatedly reusing material; Instagram
+  **redirects viewers to the original** version of a clip rather than showing reposts; other-platform
+  watermarks penalized. Reaction videos / trend participation / added-take content are exempt. **Quality over volume** — fewer original
   posts outperform more low-effort reposts.
 - Net: **identical reposting is risky.** Treat recycling as **editing, not duplication.** "Never
   repeat the same opening line twice."

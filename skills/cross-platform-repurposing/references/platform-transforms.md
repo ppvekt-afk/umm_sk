@@ -48,6 +48,19 @@ mechanics, and register — never just the hashtags.
 - **Transform:** reactive, opinion-forward, lower-polish than LinkedIn; one topic tag.
 - **CTA:** invite replies.
 
+## → Bluesky
+
+- **Native form:** short text post; links are clickable and welcome (no link penalty culture).
+- **Transform:** like X but warmer/less combative; skeet-length punchy take; hashtags barely used.
+- **CTA:** reply / repost.
+
+## → Facebook
+
+- **Native form:** text + image/video post; group-friendly, conversational.
+- **Transform:** slightly longer and more personal than X; lead with a relatable line; minimal
+  hashtags; links fine in the post.
+- **CTA:** comment / share.
+
 ## → YouTube Shorts
 
 - **Native form:** short vertical video.
@@ -73,8 +86,10 @@ mechanics, and register — never just the hashtags.
 | LinkedIn | text post / doc | med–long | line + whitespace | comments | authority |
 | X | post / thread | short | the point | inline | conversational |
 | Threads | post / light thread | short | the take | inline | casual |
+| Bluesky | short post | short | the take | inline | casual-warm |
+| Facebook | text + media post | short–med | relatable line | inline | personal |
 | YT Shorts | short video | short | searchable line | description | clear |
 | Pinterest | pin + link | short | keyword | clickable | descriptive |
 
-Same atom, seven different builds. If your versions don't differ across these columns, you
+Same atom, nine different builds. If your versions don't differ across these columns, you
 haven't repurposed — you've relocated.

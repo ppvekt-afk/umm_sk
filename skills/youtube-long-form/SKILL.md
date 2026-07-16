@@ -31,7 +31,7 @@ more). It's **decoupled** from Shorts, though the Short→long click-through is 
 ## The framework: CHAIN
 (Depth: `references/the-chain-framework.md`.)
 - **C — Click:** package (title + thumbnail) **before** scripting; clarity > clickbait > clutter;
-  A/B test. (ideogram-3 / nano-banana for thumbnails.)
+  A/B test. (ideogram / nano-banana for thumbnails.)
 - **H — Hook:** the first 30s **pays off the promise** — payoff/stakes/question, no logo, no
   "hey guys." (hook-writer.)
 - **A — AVD:** re-hook every 60–90s; one topic; **no padding**; length matched to idea (8–15 min
@@ -55,7 +55,7 @@ Produces packaging/scripts; **does not publish or measure directly**. Full wirin
   `…/mcp`, REST `…/v1`). YouTube supported; **validate; no edit (delete + recreate)**.
 - **Studio, not WoopSocial, owns** end screens/playlists/series, A/B testing, and **all analytics**
   (CTR/AVD/retention/traffic sources) — read them **natively**.
-- **Assets:** thumbnails via ideogram-3 / nano-banana (image-prompt); B-roll via veo-3 / ai-video;
+- **Assets:** thumbnails via ideogram / nano-banana (image-prompt); B-roll via veo-3 / ai-video;
   cut Shorts from the long-form via captions-and-clipping.
 
 ## Honest scope (never violate)
@@ -71,7 +71,7 @@ Produces packaging/scripts; **does not publish or measure directly**. Full wirin
 ## Where this connects
 Sibling (opposite engine): **youtube-shorts**. Other growth engines: **instagram-growth,
 tiktok-growth, linkedin-growth**. Openers/scripts: **hook-writer**; long-form scripting support and
-the video cluster: **ai-video, captions-and-clipping**. Thumbnails/B-roll: **ideogram-3,
+the video cluster: **ai-video, captions-and-clipping**. Thumbnails/B-roll: **ideogram,
 nano-banana, image-prompt, veo-3**. Search: **social-seo, ai-search-optimization**. Planning:
 **content-calendar, batch-content-plan, content-pillars**. Repurpose out: **cross-platform-repurposing**.
 Publish: **scheduling-and-queue**.

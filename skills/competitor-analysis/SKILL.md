@@ -1,7 +1,7 @@
 ---
 name: competitor-analysis
 description: >-
-  The public-data competitive-reconnaissance skill. Use when someone wants to "analyse/research our
+  Competitor analysis for social media — public-data competitive reconnaissance to find the gap a brand can own. Use when someone wants to "analyse/research our
   competitors," "see what rivals are doing on social," "benchmark against competitors," "find content
   gaps / white space," or "do a competitive landscape / SWOT." Reads the PUBLIC competitive field —
   positioning, pillars, formats, cadence, share of voice — to find the gap the brand can own, then
@@ -41,8 +41,10 @@ platform averages.
   with KPIs → social-strategy.
 
 ## Benchmark honestly (verify-quarterly)
-2026 median engagement rates vary ~25× by platform (TikTok ~3.7% · LinkedIn ~5.2% · Instagram ~0.48% ·
-Facebook ~0.15% · X ~0.12%), so raw counts mislead — **read relative to your direct set over time.**
+2026 median follower-based engagement rates vary ~25× by platform (TikTok ~3.7% · Instagram ~0.48% ·
+Facebook ~0.15% · X ~0.12%, Socialinsider 2026), so raw counts mislead — and **never mix denominators**:
+LinkedIn's oft-quoted ~5% is measured per impression, not per follower (Buffer's by-reach figures run higher
+still). **Read relative to your direct set over time, on one consistent formula.**
 SWOT wraps it up; re-run **monthly/quarterly**. Full reality: `references/competitor-analysis-2026.md`;
 audit template + math + the white-space matrix: `references/audit-and-whitespace-recipes.md`.
 

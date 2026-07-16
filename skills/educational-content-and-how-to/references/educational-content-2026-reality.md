@@ -4,9 +4,10 @@
 cited marketing-research claims — attribute, don't present as hard fact.)*
 
 ## The POV: teach one thing completely, accurately
-Teaching is the **highest-trust, highest-save authority builder.** **Saves are the most heavily weighted 2026
-signal** (Instagram explicitly upgraded saves above likes/comments/shares) and **educational/how-to content is
-the most reliable way to earn them** — it's naturally **reference-worthy.** The win isn't recycled generic
+Teaching is the **highest-trust, highest-save authority builder.** **Saves + sends are top-weighted 2026
+signals** (Mosseri's confirmed top Instagram signals are watch time, likes per reach, and **sends per reach** —
+and 2026 updates weight DM shares, saves, watch time + profile clicks far above raw likes) and
+**educational/how-to content is the most reliable way to earn them** — it's naturally **reference-worthy.** The win isn't recycled generic
 tips ("the same 'save this' CTAs everyone posts") — it's **one genuinely useful idea, taught completely and
 accurately.** "Give value upfront; the audience returns it with attention, saves, and intent." Be a **visual
 teacher: solve a problem, don't sell.**

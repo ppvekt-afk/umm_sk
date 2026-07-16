@@ -72,6 +72,7 @@ each format to the signal its surface rewards; don't post them interchangeably. 
 - **Convert** the reach: if views are high but follows are low, the **profile** is the problem →
   `profile-optimization`.
 - **Retain** the warm audience: **Stories** (polls/questions/replies) + fast comment/DM replies +
+  a **broadcast channel** (one-to-many DMs — the highest-attention surface for superfans) +
   community. This boosts early signals on every new post.
 
 ## Step 6 — Niche, SEO, cadence, measurement
@@ -116,7 +117,8 @@ instagram-growth diagnoses and routes; these execute: `reels-script` · `hook-wr
 - `reels-script`, `hook-writer`, `carousel-writer`, `caption-writer` — the content that earns reach.
 - `profile-optimization` — converts reach to follows; `content-calendar` — sustainable cadence.
 - `hashtag-strategy` / `social-seo` — the keyword/discoverability layer; `trend-jacking` — trends.
-- `viral-reverse-engineering` — learn what already gets shared; `scheduling-and-queue` — publish.
+- `viral-reverse-engineering` — learn what already gets shared; `instagram-reels-publishing` +
+  `scheduling-and-queue` — publish.
 
 ## References
 

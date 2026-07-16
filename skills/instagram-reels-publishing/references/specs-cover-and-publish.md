@@ -18,7 +18,7 @@ Center ~1320 px  -> SAFE: hook text, face, captions, CTA. Also survives the 4:5 
 Bottom ~350 px   -> caption + action buttons (NO burned-in text -- it vanishes behind the comment icon)
 ```
 
-## Cover brief (-> ideogram / imagen; or a frame)
+## Cover brief (-> ideogram / nano-banana; or a frame)
 ```
 Custom upload (beats a video frame). Key subject + bold text >=60px, high contrast, in the central 3:4 (1080x1440) crop.
 Design so it reads on the grid AND in the 9:16 feed. CAN'T be edited after upload -- get it right once.
@@ -54,7 +54,7 @@ WoopSocial publishes postType REEL + video + caption + cover, scheduled. I add t
 ## Worked example 2 - product brand (warm studio voice)
 ```
 A 9:16 product Reel -- we double-check it's 1080x1920 and the TikTok watermark is gone before anything else. Key shots stay
-centered so the 3:4 grid crop stays clean. A custom cover (imagen) reads on the grid. WoopSocial publishes the postType REEL,
+centered so the 3:4 grid crop stays clean. A custom cover (nano-banana) reads on the grid. WoopSocial publishes the postType REEL,
 video, keyword caption + cover on schedule (validated via platform-specs-and-validation); we add the trending audio + product tags natively.
 ```
 

@@ -58,7 +58,7 @@
       "expect": [
         "routes to the Ideogram Background Remover for a clean alpha cutout from a 4.0 generation (transparency available today)",
         "notes native 2K (2048px) output with aspect ratios in multiples of 16 for print/large display",
-        "flags that editable text/movable image layers are announced roadmap, not yet live, so plan text as elements now (verify-quarterly)",
+        "notes Layerize Text is live in beta (all plans + API endpoint) for extracting rendered text as editable layers, best on clear straight typography (verify-quarterly)",
         "advises verifying the wordmark renders correctly"
       ]
     },

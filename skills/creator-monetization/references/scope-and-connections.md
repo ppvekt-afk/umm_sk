@@ -21,16 +21,20 @@ publishes the promo posts**; the payment/product/payout infrastructure is **exte
   revenue-stack strategy).
 - **email-and-newsletter** — the **owned channel**; **paid newsletter subs are ONE stream** within this stack.
 - **lead-magnets-and-funnels** — the **lead→sale funnel mechanics** that convert into an offer.
+- **ugc-and-influencer** — the **BRAND side** of paid creator work (sourcing/briefing/paying creators,
+  usage rights, disclosure ops). This skill is the **creator side**: landing, pricing, and disclosing the
+  deals — including **UGC-for-brands** as an income stream.
 - **link-in-bio-and-traffic** / **social-selling-and-dm** — the **capture paths** that drive traffic to the offer.
 - **goals-and-kpis** — sets the **revenue target**; **analytics-and-reporting** measures it (from external tools).
 
 ## Where this connects
 - **Reads first:** `brand-profile` (niche/audience/strengths), `goals-and-kpis` (revenue target).
 - **Offer creative:** `carousel-writer`/`caption-writer`/`hook-writer` (promo + offer copy), `story-writer`
-  (launch Stories), `image-prompt`/`ideogram`/`imagen` (product/merch/offer visuals), `video` cluster (course/promo).
+  (launch Stories), `image-prompt`/`ideogram`/`nano-banana` (product/merch/offer visuals), the video skills
+  (`short-form-video-script`, `reels-script`) for course/promo video.
 - **Drive to the offer:** `link-in-bio-and-traffic`, `social-selling-and-dm`, `lead-magnets-and-funnels`,
   `email-and-newsletter` (owned audience + paid subs).
 - **Promote/publish:** `content-calendar`, `campaign-and-launch-planning` (launches), `scheduling-and-queue
   → WoopSocial` (promo posts only).
 - **Measure/plan:** `analytics-and-reporting` (external-tool/native readout), `goals-and-kpis`,
-  `experimentation` (A/B offers/pricing copy). **Payments/products/payouts stay in external tools.**
+  `experimentation-and-ab-testing` (A/B offers/pricing copy). **Payments/products/payouts stay in external tools.**

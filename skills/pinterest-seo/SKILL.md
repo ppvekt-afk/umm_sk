@@ -26,7 +26,7 @@ link**; **WoopSocial publishes the pin's title + description + board + link**; *
 text, Rich Pins, and the research tools are native/advised.**
 
 ## The POV: a visual search engine — keywords rank you, not followers
-Pinterest is **"Google with pictures"** (498–500M+ users, **DA 94**, pins also rank in Google image results),
+Pinterest is **"Google with pictures"** (631M MAU Q1 2026, **DA 94**, pins also rank in Google image results),
 where **~97% of top searches are unbranded** and **follower count barely matters — keywords + relevance +
 engagement rank you.** Pins have a **~4-month lifespan**, so optimization **compounds.** The craft is
 Pinterest-specific: research via **autocomplete + Guided Search bubbles + Trends**, layer **long-tail

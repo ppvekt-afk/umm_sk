@@ -19,7 +19,7 @@
       "input": "Should I use Nano Banana for a photorealistic headshot of our founder, or for a quote graphic with text?",
       "expect": [
         "recommends Nano Banana for the text/quote graphic (best-in-class legible in-image text)",
-        "notes it's not the strongest for photoreal human portraits (e.g. Imagen) and surreal art (Midjourney)",
+        "gives an honest photoreal read (dedicated photoreal models like flux/Midjourney compete; Imagen 4 is deprecated with Gemini API shutdown Aug 17, 2026) and flags that a real founder's face must not be fabricated",
         "matches the tool to the job rather than defaulting to it for everything"
       ]
     },

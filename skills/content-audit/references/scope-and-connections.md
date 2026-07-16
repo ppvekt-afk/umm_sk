@@ -23,7 +23,7 @@ it into a keep/kill/refresh roadmap that feeds the forward plan. It **reads** (v
 `content-pillars` + `social-strategy` (the intended plan), `goals-and-kpis` (the targets).
 **Feeds:** `content-recycling` (scale/refresh winners), `content-pillars` (rebalance whitespace),
 `profile-optimization` (fixes), `voice-builder` (drift/evolution), `social-strategy` (the revised plan),
-`experimentation` (re-test uncertain calls).
+`experimentation-and-ab-testing` (re-test uncertain calls).
 
 ## Distinct from its siblings
 - **content-audit (this)** — **periodic retrospective triage of YOUR account** (keep/kill/refresh +
@@ -37,6 +37,6 @@ it into a keep/kill/refresh roadmap that feeds the forward plan. It **reads** (v
 ## Where this connects
 Reads first: `brand-profile`, `content-pillars`, `social-strategy`, `analytics-and-reporting`. Findings
 hand off to: `content-recycling`, `content-pillars`, `profile-optimization`, `voice-builder`,
-`social-strategy`, `experimentation`. Benchmark context: `competitor-analysis`, `goals-and-kpis`. Covers
-all active platforms (the seven `*-growth` skills inform per-platform format/native expectations). No
+`social-strategy`, `experimentation-and-ab-testing`. Benchmark context: `competitor-analysis`, `goals-and-kpis`. Covers
+all active platforms (the per-platform `*-growth` skills inform format/native expectations). No
 publishing/tool surface — a diagnostic + planning skill.

@@ -43,4 +43,4 @@ RECOMMENDATIONS: 1) double the beginner-tax carousel cadence 2) shorten TikTok c
 ```
 
 Both: goal-mapped; native numbers only (no fabrication); signal over vanity; relative read; ends in
-**specific next actions** that feed `content-recycling` / `experimentation` / `social-strategy`.
+**specific next actions** that feed `content-recycling` / `experimentation-and-ab-testing` / `social-strategy`.

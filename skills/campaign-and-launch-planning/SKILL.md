@@ -1,7 +1,7 @@
 ---
 name: campaign-and-launch-planning
 description: >-
-  The campaign/launch orchestration skill. Use when someone wants to plan a launch, product drop, campaign,
+  Plan and orchestrate a product launch or social media campaign end to end — the multi-week arc, channel by channel. Use when someone wants to plan a launch, product drop, campaign,
   big announcement, waitlist/pre-launch push, or coordinated multi-platform moment. Plans a time-boxed
   campaign as ONE story across three phases (tease -> launch -> sustain) toward a single goal, and schedules
   the coordinated social posts via WoopSocial. Uses the STORY framework. Reads brand-profile + goals-and-kpis
@@ -26,7 +26,8 @@ livestream are external/native.**
 Your content calendar **keeps the lights on**; a **campaign is the spotlight event** — time-boxed, toward
 **one goal**, across **three phases (tease → launch → sustain)** told as **ONE story**, not three
 disconnected campaigns. Three forces win it: **anticipation** (a waitlist/emotional investment turns launch
-day into a confirmation, ~30% higher day-one conversions), **velocity** (a concentrated coordinated push
+day into a confirmation — launches with real pre-launch marketing see ~30% higher day-one sales; Waitlister,
+vendor-directional), **velocity** (a concentrated coordinated push
 beats a slow drip — algorithms reward it), and **proof** (post-launch is where you compound trust or confirm
 it was noise). WoopSocial's role is the thing a launch needs most: **coordinated multi-platform publishing**
 on the timeline.
@@ -39,7 +40,8 @@ on the timeline.
 (Depth: `references/the-story-framework.md`.)
 - **S — Set one goal + the brief:** one goal/metric; launch type (soft/hard/phased); 1–3 platforms; the
   one-page launch brief; discipline over speed.
-- **T — Tease to build demand:** waitlist (specific promise, ~30% day-one) + referral; one campaign hub;
+- **T — Tease to build demand:** waitlist (specific promise; pre-launch ≈ +30% day-one, vendor) + referral;
+  one campaign hub;
   BTS/teasers/proof drops; beta group; personalized press/creator outreach (not a mass release).
 - **O — One coordinated launch:** concentrated cross-platform push (velocity rewarded); one CTA + remove
   friction; **credible urgency** (real scarcity/bonus/deadline — never fake/resetting timers); drop/
@@ -51,7 +53,8 @@ on the timeline.
 
 ## The reality (verify-quarterly)
 Campaign-as-spotlight + the three-phase funnel as one story; pre-launch (anticipation/emotional investment,
-waitlist +30% day-one + referral, one hub, BTS/proof drops, beta, personalized press/creator outreach);
+waitlist + referral (pre-launch ≈ +30% day-one, vendor), one hub, BTS/proof drops, beta, personalized
+press/creator outreach);
 launch (velocity rewarded, one CTA, credible urgency — no fake timers, drop/countdown/live); post-launch
 (proof, sustain, signed-up→used gap); launch types (soft/hard/phased); orchestration (1–3 platforms,
 repurpose-not-copy, hero posts/phase, parallel email sequence); planning discipline (one-page brief,

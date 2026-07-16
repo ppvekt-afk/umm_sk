@@ -3,7 +3,7 @@
 *Volatile. Re-verify quarterly (search features + tools move).*
 
 ## The POV: a visual search engine — keywords + relevance rank you, not followers
-Pinterest is **"Google with pictures"** — a visual search engine (**498–500M+ users**, **DA 94**, and pins
+Pinterest is **"Google with pictures"** — a visual search engine (**631M MAU, Q1 2026**, **DA 94**, and pins
 also rank in **Google image/web results**). **~97% of top searches are unbranded** (users search for what you
 sell without knowing who sells it). **Follower count barely matters; search optimization is everything.**
 Pins have a **~4-month lifespan** (some 3–6 mo), so one optimized pin **compounds traffic for months** — ideal

@@ -52,6 +52,9 @@ transformation it delivers, not a feature list. Keep it the minority of the mix.
 - Is every pillar about something the **audience** cares about (not just the brand)?
 - Could you fill a month's calendar from these without straining? (If not, a pillar is too
   narrow — or you have too few.)
+- Is each pillar phrased in language the audience actually **searches**? TikTok, YouTube, and
+  Pinterest are search-driven; a pillar named in the audience's own query language (see
+  `audience-research`'s search-query evidence) compounds there, while internal jargon doesn't.
 - Is promotion the minority?
 
 If the set fails the "what is this brand about?" test, you have intents/formats masquerading as

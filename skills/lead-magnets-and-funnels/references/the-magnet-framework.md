@@ -23,7 +23,8 @@ builder** — it publishes the **promo posts**; capture/delivery/nurture run in 
 
 ## E — Engineer the whole funnel
 - **benefit-first landing → short form (email / +first name only) → instant success page → delivery email
-  → 3–5 email nurture.** Each extra form field −5–10%; on-page video +up to 86%. Map the path before building.
+  → 3–5 email nurture.** Each extra form field −5–10%; on-page video helps (directional — A/B it). Map the
+  path before building.
 
 ## T — Tend the nurture (value-first, behavior-branched)
 - **Deliver → quick win → proof → soft next step.** **Branch on behavior** (opens/clicks/visits), not just

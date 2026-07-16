@@ -24,12 +24,13 @@ first screen: what they get, who it's for, how long it takes.)
 | Platform | Where the link goes |
 |---|---|
 | **X** | in-post links suppressed → **bio or first comment** |
-| **LinkedIn** | **link penalty** in post body → bio / Featured / **first comment** (converts ~5–10× IG per visit) |
+| **LinkedIn** | **link penalty** in post body → bio / Featured / **first comment** (converts far higher per visit for B2B) |
 | **Facebook** | links worst in body → **first comment** |
-| **Instagram / TikTok** | no clickable caption links → **bio link** + **Stories link sticker** + verbal "link in bio" CTA (TikTok needs 1k+ followers) |
+| **Instagram / TikTok** | no clickable caption links → **bio link(s)** + **Stories link sticker** + verbal "link in bio" CTA (IG allows up to **5 native bio links**, but only the first shows without a tap — keep ONE primary; TikTok bio link needs 1k+ followers) |
 | **Pinterest** | **rewards link-OUT** on the pin (opposite of X) |
 | **YouTube** | **description + pinned comment** of top videos + About |
-| **Threads / Bluesky** | one profile link each (emerging) |
+| **Threads** | one profile link |
+| **Bluesky** | clickable URL(s) in the bio text + a pinned post with the link |
 
 ## Destination by platform intent
 **Instagram** (cold→warm, discovery) → lead magnet + email capture. **X** (skeptical, timeline) → **one

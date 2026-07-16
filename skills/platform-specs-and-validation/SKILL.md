@@ -1,7 +1,7 @@
 ---
 name: platform-specs-and-validation
 description: >-
-  The cross-cutting WoopSocial publish-readiness skill. Use when fanning a post out to multiple platforms,
+  Platform specs and publish validation — per-platform requirements and the validate-before-publish step for multi-platform fan-out. Use when fanning a post out to multiple platforms,
   when a post is getting rejected, when mapping per-platform postType/required fields, or to run the
   validate-before-publish step. Encodes the per-platform postType enums, required-field matrices, and media
   rules from the OpenAPI spec, and runs POST /posts/validate -> isValid/errors/warnings so a post lands

@@ -1,8 +1,9 @@
 ---
 name: collabs-and-cross-promotion
 description: >-
-  The creator-to-creator partnership skill. Use when someone wants to set up a collab, audience swap,
-  cross-promotion, joint giveaway, guest spot, joint video/series, or co-promo with another creator. Picks a
+  Creator collabs and cross-promotion — organic creator-to-creator partnerships that swap audiences. Use when someone wants to set up a collab, audience swap,
+  cross-promotion, shoutout swap ("shoutout for shoutout"), joint giveaway, guest spot, joint video/series,
+  a YouTube/IG collab post, or co-promo with another creator. Picks a
   complementary (not competing), similar-size, values-aligned partner; agrees the cross-promo plan before
   creating; co-creates shared-value content (not a bare shoutout); cross-promotes with a partner mention +
   one CTA on a coordinated schedule; measures per-source and escalates. Uses the UNITE framework. Reads
@@ -51,7 +52,8 @@ things a scheduler can make.
 Mutuality as the defining trait (vs sponsorship / brand-UGC); partner fit (complementary, 0.5–2×, values +
 authenticity); format effort tiers + the shoutouts-fade/shared-value-wins shift; cross-promo mechanics (plan
 before creating, mention + title/first-50-chars, one CTA, ~1–2/month, 3–4 weeks lead); platform features (IG
-native Collab, TikTok duet/stitch, giveaways, email/content swaps); escalation ladder; disclosure rule:
+native Collab, TikTok duet/stitch, YouTube's native Collaboration [up to 5 channels on one video — native],
+giveaways, email/content swaps); escalation ladder; disclosure rule:
 `references/collabs-2026-reality.md`. Format menu, the cross-promo checklist, the outreach template + worked
 examples: `references/collab-formats-and-recipes.md`.
 

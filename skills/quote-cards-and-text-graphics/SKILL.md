@@ -70,7 +70,7 @@ templates.md`.
 ## Honest scope (never violate)
 - **The agent** picks the line + specs/writes the card (text, hierarchy, emphasis, attribution, layout) and
   drafts; a **design tool renders** the final graphic; the **human** approves; **WoopSocial publishes** the
-  finished image + reads native analytics. **WoopSocial does NOT generate media.**
+  finished image (measurement: the platforms' native analytics). **WoopSocial does NOT generate media.**
 - **The honesty spine (central here):** never fabricate a quote; **never attribute an invented/fictional line to a
   real person** (no fake celebrity quotes; no words in a competitor's mouth — defamation); never strip context;
   **verify** wording + source; **consent** for words/face (real or AI lookalike); testimonials follow **social-

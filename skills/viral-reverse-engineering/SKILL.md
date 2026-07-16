@@ -13,7 +13,8 @@ description: >-
   (survivorship bias, luck, account size, one-time moments), then extracts the transferable principle
   and applies it to the user's niche — handing execution to the content skills. Reverse-engineers the
   mechanism, never a copy; flags when virality isn't replicable; uses visible/native signals (no
-  WoopSocial analytics).
+  WoopSocial analytics). Single-POST teardown only: for the account-level competitive landscape use
+  competitor-analysis; for riding a live trend use trend-jacking.
 metadata:
   version: 1.0.0
 license: MIT
@@ -115,7 +116,7 @@ to you" — **never a copy**. Build a swipe file of recurring patterns over time
 - `brand-profile`, `audience-research` — relevance + the "apply to your niche" step.
 - `hook-writer` — the most common load-bearing driver; `trend-jacking` — overlapping "why it spread."
 - `tiktok-script`, `reels-script`, `caption-writer`, `carousel-writer` — execute the extracted principle.
-- `competitor-social-audit`, `social-analytics` (advisory) — broader performance analysis.
+- `competitor-analysis`, `analytics-and-reporting` (advisory) — broader performance analysis.
 
 ## References
 

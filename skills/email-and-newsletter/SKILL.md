@@ -1,7 +1,7 @@
 ---
 name: email-and-newsletter
 description: >-
-  The owned-audience channel for 2026. Use when someone wants to "start/grow a newsletter," "build an
+  Email and newsletter strategy for creators and brands — the owned-audience layer that social feeds. Use when someone wants to "start/grow a newsletter," "build an
   email list," "turn followers into subscribers," "should I use Substack/beehiiv/LinkedIn," "repurpose
   my newsletter into social (or vice versa)," or build the audience layer social can't take away. Runs
   email (habit) + a web archive (discovery) off the same work and loops content social<->email. Uses the
@@ -65,8 +65,8 @@ repurposing engine, platform cheat-sheet + worked examples: `references/editions
 ## Distinct from its siblings (route correctly)
 **email-and-newsletter (this)** = the owned email channel + the email↔social loop · **link-in-bio-and-traffic**
 = the capture/handoff that drives signups in · **cross-platform-repurposing** = same-moment multi-platform ·
-**content-recycling** = evergreen reuse over time · **lead-magnets-and-funnels** (forthcoming) = the magnet
-design · **social-selling-and-dm** (forthcoming) = the DM funnel.
+**content-recycling** = evergreen reuse over time · **lead-magnets-and-funnels** = the magnet
+design · **social-selling-and-dm** = the DM funnel.
 
 ## Where this connects
 Reads first: **brand-profile**, **voice-builder**, **content-pillars**. Fed by: **link-in-bio-and-traffic**

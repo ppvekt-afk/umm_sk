@@ -4,7 +4,7 @@
 - **Title:** specific, outcome-oriented, curiosity with a clear payoff. Not a vague teaser.
   ("The freelance tax setup that saved me €4,000" > "My tax tips".)
 - **Thumbnail:** one idea, high contrast, readable text at mobile size, accurate to the content.
-  Remove clutter before adding anything. Generate concepts with ideogram-3 / nano-banana, then
+  Remove clutter before adding anything. Generate concepts with ideogram / nano-banana, then
   **A/B test** in Studio.
 - Rule: if you can't make the packaging compelling, the idea isn't ready. Reverse the usual order.
 

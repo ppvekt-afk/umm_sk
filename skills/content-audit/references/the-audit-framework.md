@@ -29,7 +29,7 @@ analytics, via `analytics-and-reporting`) to **inform** the future (`social-stra
 ## T — Turn into a roadmap
 - Output **strengths / weaknesses / opportunities**, split **quick wins vs long-term**, with **owners +
   timelines.** Feed `social-strategy` (the new plan), `content-recycling` (refresh winners),
-  `content-pillars` (rebalance), `profile-optimization` (fixes), `experimentation` (re-test). **No
+  `content-pillars` (rebalance), `profile-optimization` (fixes), `experimentation-and-ab-testing` (re-test). **No
   spreadsheet graveyard.**
 
 ## The audit brief a request should fill

@@ -15,7 +15,8 @@ continuing a conversation they started. **Cold** (no relationship) = highest spa
 bans originate.** Above ~50 DMs/day, cold outreach is simply the wrong approach.
 
 ## Why it converts
-A **~1-minute reply converts ~391% better** than a 30-minute wait. **Micro-accounts (1K–50K) convert
+Speed compounds — classic lead-response research puts a **~1-minute reply at ~391% better conversion**
+than a 30-minute wait, and the same decay applies in the inbox. **Micro-accounts (1K–50K) convert
 15–20%** DM-to-sale (vs 7–10% larger) — smaller, more engaged audiences respond more. Personalized
 outreach ~32% response vs ~18% cold email.
 

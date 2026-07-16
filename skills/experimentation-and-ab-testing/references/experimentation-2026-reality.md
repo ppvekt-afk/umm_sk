@@ -47,3 +47,10 @@ etc. **Always have at least one test running**; start monthly, increase with cap
 You **can't split the audience perfectly** and the algorithm shapes who sees what, so organic A/B isn't
 lab-grade. **Compensate** with tighter controls, a single primary metric, **effect-size thresholds**, and
 **repetition** — and treat results as **directional learning**, not proof.
+
+**The one native exception — YouTube Test & Compare** (verify-quarterly): YouTube Studio runs a true
+audience-split test on long-form videos of up to **3 variants — title only, thumbnail only, or
+title+thumbnail** (expanded beyond thumbnail-only in the Dec 2025 global rollout; desktop Studio,
+advanced features enabled; not Shorts/premieres/kids content). For YouTube title/thumbnail tests, prefer
+it over sequential posts — it removes the "different audience, different day" confound. The discipline
+here (decision rule first, one variable, guardrail, log it) still applies to how you use it.

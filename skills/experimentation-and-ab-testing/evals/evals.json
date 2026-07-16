@@ -71,6 +71,7 @@
       "expect": [
         "States WoopSocial has no A/B-testing or audience-split surface; the agent DESIGNS the test and drafts the variants",
         "Notes WoopSocial schedules the variants as controlled sequential posts, and the primary metric is read from native platform analytics (analytics-and-reporting)",
+        "Notes the one native exception: YouTube's Test & Compare (Studio, long-form) audience-splits up to 3 titles/thumbnails/combos — use it for YouTube title/thumbnail tests",
         "Applies the pre-set decision rule to the real numbers the user provides and never fabricates a result",
         "Keeps the test honest (effect-size + repetition, guardrail metric)"
       ]

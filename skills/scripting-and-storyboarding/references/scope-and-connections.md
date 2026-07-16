@@ -12,7 +12,7 @@
   deceptive endorsement — FTC material-connection rules; skits/dramatizations are fine **disclosed**); no
   lifted scripts (structure study is craft, verbatim lifting is plagiarism); runtime and feasibility stated
   honestly (no promising a 60s video from a 300-word script).
-- **WoopSocial publishes the finished video** + reads native analytics; it does not script, storyboard, shoot,
+- **WoopSocial publishes the finished video** (measurement: the platforms' native analytics); it does not script, storyboard, shoot,
   or edit. Tool specifics (Boords/Storyboarder.ai tiers etc.) shift — attribute, verify-quarterly.
 
 ## Distinct from its siblings (route correctly)
@@ -25,8 +25,8 @@
 - **capcut / descript** = the edit that executes the AV script's visual plan (the footage map hands off here).
 - **luma / ai-video** = generative shots whose briefs this skill's storyboard panels become.
 - **flux / image-prompt** = the previz frames + reference stills.
-- **visual-storytelling** (Wave 13 sibling) = the visual-narrative craft; **this** = the production planning
-  that schedules it into shots.
+- **storytelling-and-narrative** = the narrative angle (the WHAT); **this** = the production planning that
+  schedules it into shots.
 - **idea-generation-and-ideation** = supplies the idea this productionizes.
 
 ## Where this connects

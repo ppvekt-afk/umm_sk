@@ -33,6 +33,6 @@ schedules posts.
 - **Timely + discovery:** `trend-jacking`, `ai-search-optimization` (X is increasingly an AI-cited source).
 - **Engagement + relationships:** `engagement-routine` (the daily cadence), `reply-and-comment-writer`
   (drafting replies), `community-management`.
-- **Traffic/outcome:** `link-in-bio-and-traffic` (forthcoming) for the in-reply link destination.
+- **Traffic/outcome:** `link-in-bio-and-traffic` for the in-reply link destination.
 - **Plan + measure:** `social-strategy`, `competitor-analysis`; read native X analytics.
 - **Publish:** `scheduling-and-queue → WoopSocial` (posts; live replies are human).

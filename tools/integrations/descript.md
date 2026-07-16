@@ -12,8 +12,7 @@ the in-app meters; treat pre-2025 reviews as stale.
 2. **In-app (human executes):** no connection? The agent writes the cut list (transcript-anchored), Underlord
    prompts, the Overdub decision, and the export/repurpose plan; the human executes on desktop (macOS/Windows) or
    web (near-parity in 2026; cloud sync; **cloud-dependent — no offline editing**).
-3. **Publish handoff:** exports (episode, clips, captions) → `scheduling-and-queue` → **WoopSocial `POST /media`
-   + `POST /posts`**. RSS/podcast hosts are outside WoopSocial — the human publishes there.
+3. **Publish handoff:** exports (episode, clips, captions) → `scheduling-and-queue` → **WoopSocial** (upload media → attach → validate → create post; per-platform required fields validate atomically — see `woopsocial.md`). RSS/podcast hosts are outside WoopSocial — the human publishes there.
 
 ## Plan gates (≈, sources conflict — verify in-app)
 - **The Sept 2025 overhaul:** transcription-minutes → **media minutes** (ALL imported media counts) + **AI

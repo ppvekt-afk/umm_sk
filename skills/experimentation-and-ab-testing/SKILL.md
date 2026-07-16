@@ -1,13 +1,14 @@
 ---
 name: experimentation-and-ab-testing
 description: >-
-  The experimentation skill for 2026. Use when someone wants to "A/B test" or "split test" content,
+  A/B testing and experimentation for social media content — evidence over opinion, at honest organic-scale rigor. Use when someone wants to "A/B test" or "split test" content,
   "test which version/hook/time/caption/thumbnail works," "set up an experiment," "what should I test,"
   or to settle a content debate with evidence instead of opinion. Designs disciplined organic tests:
   one variable, controlled context, a decision rule set BEFORE publishing, enough duration and
   repetitions to separate signal from noise. Uses the TEST framework. Reads brand-profile +
   goals-and-kpis first. It DESIGNS the test and drafts variants; WoopSocial schedules them as controlled
-  sequential posts; the result is read from native analytics (analytics-and-reporting). Organic can't
+  sequential posts (exception: YouTube's native Test & Compare audience-splits up to 3 titles/thumbnails
+  on long-form); the result is read from native analytics (analytics-and-reporting). Organic can't
   reach true statistical significance, so it leans on effect-size (~20%+) and 3-5 repetitions; nothing
   is fabricated or p-hacked. Distinct from analytics-and-reporting (measures) and goals-and-kpis (sets targets).
 version: 1.0.0
@@ -54,7 +55,9 @@ examples: `references/what-to-test-and-recipes.md`. Full method + rules:
   repetition, not p-value theater.
 - **WoopSocial has no A/B/audience-split surface** → organic testing = **controlled sequential posts**;
   the agent designs + drafts variants + schedules; the **primary metric is read from native analytics**
-  (`analytics-and-reporting`).
+  (`analytics-and-reporting`). **One true native split exists: YouTube's Test & Compare** (YouTube
+  Studio, long-form, not Shorts) — up to **3 titles, thumbnails, or title+thumbnail combos**; use it
+  for YouTube title/thumbnail tests instead of sequential posts. (verify-quarterly)
 - **No p-hacking / HARKing / cherry-picking** — decision rule pre-set; a multi-variable change can't be
   pinned on one element; one post/one day is noise. **Never fabricate a result; a tie is valid.**
   (Scope, the loop role + connections: `references/scope-and-connections.md`.)
@@ -66,8 +69,8 @@ examples: `references/what-to-test-and-recipes.md`. Full method + rules:
 
 ## Where this connects
 Reads first: **brand-profile**, **goals-and-kpis**. Variants drafted via: **hook-writer**, **caption-writer**,
-**reels-script**/**tiktok-script**, **carousel-writer**, **image-prompt**/**ideogram**/**imagen**,
-**thumbnail-design** (forthcoming). Readout: **analytics-and-reporting** (native analytics). Scale/plan:
+**reels-script**/**tiktok-script**, **carousel-writer**, **image-prompt**/**ideogram**/**nano-banana**,
+**thumbnail-design**. Readout: **analytics-and-reporting** (native analytics). Scale/plan:
 **content-recycling**, **social-strategy**, **content-calendar**/**batch-content-plan**, every **\*-growth**
 skill. Publish variants: **scheduling-and-queue → WoopSocial** (controlled sequential posts).
 

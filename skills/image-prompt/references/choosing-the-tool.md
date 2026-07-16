@@ -11,20 +11,21 @@ craft. This is a decision layer, not a tool tutorial.
 Pick by the **dominant requirement** of the image:
 
 - **In-image TEXT / typographic design** (quote graphics, posters, logos, packaging, text-heavy
-  layouts) → **`ideogram-3`** or **`nano-banana`**. Both are excellent at text now — **pick by
-  tooling/ecosystem**, not a fake "best text" claim (Ideogram = design tooling, Style References,
-  Layerize; Nano Banana = Gemini reasoning, multi-image consistency, editing). Honest either-way.
-- **Photoreal human portraits / luxury product realism** → a **photoreal model (e.g. Imagen /
-  Midjourney)**. Avoid Ideogram for real faces.
+  layouts) → **`ideogram`** or **`nano-banana`**. Both are excellent at text now — **pick by
+  tooling/ecosystem**, not a fake "best text" claim (Ideogram = design tooling, structured layout
+  control; Nano Banana = Gemini reasoning, multi-image consistency, editing). Honest either-way.
+- **Photoreal human portraits / luxury product realism** → **`nano-banana`** or **`flux`** (Midjourney externally). Avoid
+  Ideogram for real faces.
 - **Surreal / painterly / editorial art** → **Midjourney**-class (more artistic range).
-- **Search-grounded infographics / accurate scenes / multi-image consistency / conversational editing**
+- **Search-grounded infographics / accurate scenes / conversational editing**
   → **`nano-banana`** (Gemini reasoning + references up to ~14 + Magic-Fill-style editing).
+- **Editing an existing image** ("change one thing, keep the rest" / inpaint/outpaint/fix) →
+  **`nano-banana`** (conversational editing) or **`flux`** (Kontext instruction-based edits).
 - **A consistent character/product across a set** → reference-image models (**`nano-banana`**
-  references, or **`ideogram-3`** Style References / custom brand model).
-- **Editing an existing image** (inpaint/outpaint/uncrop/fix) → a **canvas/inpainting** tool (Ideogram
-  Canvas/Magic Fill, Nano Banana editing).
+  references up to ~14, or **`flux`** multi-reference).
+- **Brand-exact colors (hex parameters) / license control / open weights you can run/tune** →
+  **`flux`** (or Ideogram's open weights).
 - **Vector / SVG for brand work** → **Recraft** (vector-native).
-- **Open weights you can run/tune** → **Flux** (or Ideogram's open weights).
 - **Moving image / video** → **`veo-3`** (and animate a still via the image→video pipeline).
 
 ## Honest "which of two?" calls
@@ -38,7 +39,8 @@ where there isn't one.
 
 Once routed, **hand off to the tool's mini-skill** for the model-specific craft:
 - `nano-banana` — Gemini image prompt craft (text, consistency, editing).
-- `ideogram-3` — typography prompt craft (quotes rule, Style References, Canvas).
+- `ideogram` — typography/layout prompt craft (exact text in quotes, structured layout).
+- `flux` — variant + license picks, instruction-based edits, multi-reference consistency, hex colors.
 - `veo-3` — video prompt craft (audio, camera, image-to-video).
 
 The **connection/API** for each lives in `tools/integrations/<tool>.md`. After generation, the image/

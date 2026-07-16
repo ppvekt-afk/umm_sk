@@ -43,6 +43,8 @@ Use as a starting map; the audience and goal decide, not the platform's hype.
   food, DIY, home, weddings.
 - **Facebook** — older audience, local/community, Groups; still huge for local businesses.
 - **Threads** — casual, conversational, IG-adjacent; lighter commitment.
+- **Bluesky** — smaller but engaged text-first communities (tech, media, academia); usually a
+  secondary/repurpose channel, not a primary.
 
 ## When to add or drop a channel
 

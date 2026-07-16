@@ -60,9 +60,22 @@ these before scheduling and lean on WoopSocial's validate step.
 
 ## YouTube
 
-- Video upload (Shorts = 9:16 short; long-form = 16:9), with title + description.
+- Video upload (Shorts = vertical/square up to ~3 min; long-form = 16:9), with title + description.
 - Description is searchable — front-load keywords and any link.
 - Community posts are a separate, lighter format.
+
+## Threads
+
+- Text (~500 chars) with optional media; **single post only** — no chains, polls, voice, or
+  GIFs via the API. A "thread" chain is manual.
+- **One topic tag**, not hashtags — Threads limits to one.
+- Links are clickable but conversation-first content wins; see `threads-post`.
+
+## Bluesky
+
+- Text (~300 chars) with optional media; links clickable.
+- Casual, community-forward register — lead with the point (see `text-post-and-microblog`).
+- Newer publish target — run WoopSocial's validate step and re-verify limits before batches.
 
 ## Pre-schedule checklist
 

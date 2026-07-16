@@ -18,6 +18,8 @@ drives reach is human**.
 
 ## Distinct from its siblings
 - **threads-post (this)** — the **Threads-native conversation post** + the WoopSocial Threads publish facts.
+- **thread-writer** — the **multi-post chain**; a user who says "write a thread" means that, not this.
+  This skill produces ONE Threads post (and WoopSocial can't chain — single content item).
 - **x-growth** — the **sibling text platform with a different culture**: X is real-time/credit-metered with
   **links pushed to the reply**; Threads is conversation/reply-driven with **links rewarded inline.** Don't
   cross-post the same text.
@@ -28,9 +30,9 @@ drives reach is human**.
 ## Where this connects
 - **Reads first:** `brand-profile` (niche/voice), `goals-and-kpis` (replies / profile visits / follower growth).
 - **Copy:** `hook-writer` (the take/question), `caption-writer` (the line + reply prompt), `brand-profile` (voice).
-- **Media (external to WoopSocial):** `image-prompt`/`ideogram`/`imagen` (a supporting photo), the `video`
+- **Media (external to WoopSocial):** `image-prompt`/`ideogram`/`nano-banana` (a supporting photo), the `video`
   cluster (short clip).
 - **Publish:** `scheduling-and-queue → WoopSocial` (single Threads post to a velocity window),
   `platform-specs-and-validation` (validate + the field rules), `content-calendar` (cadence).
 - **Engage/measure:** `community-management` (the reply work), `analytics-and-reporting` (replies/reach/
-  profile-visits readout), `experimentation` (A/B hooks/post times). **Replies + polls/voice stay native.**
+  profile-visits readout), `experimentation-and-ab-testing` (A/B hooks/post times). **Replies + polls/voice stay native.**

@@ -5,7 +5,7 @@
   findings** (headline, report structure, social cuts). That's the job.
 - **The human/tool gathers the real data** — fields the survey, exports the proprietary data, pulls the public
   dataset. The agent **never invents data points, sample sizes, or a methodology.**
-- **WoopSocial publishes** the finished social cuts and report-promo posts and reads native analytics. It does
+- **WoopSocial publishes** the finished social cuts and report-promo posts (measurement: the platforms' native analytics). It does
   **not** run surveys, collect or scrape data, do statistical analysis, detect trends, or judge whether a
   finding is "good." Never claim it does.
 - **Never fabricate** a number, sample, or outcome; **disclose** method + limits; **attribute** external sources;
@@ -27,7 +27,7 @@
   for the world.**
 - **competitor-analysis** = studies specific rivals; **this studies a question/market** and publishes the answer.
 - **trend-jacking** = rides moments others created; **this creates the data others cite.**
-- **infographic-and-data-viz** (Wave 11) = the *visual* of a finding; this owns the *study + finding* behind it.
+- **infographic-and-data-viz** = the *visual* of a finding; this owns the *study + finding* behind it.
 - **ai-search-optimization / social-seo** = it **feeds** them (original data is the most citable fuel), it isn't
   them.
 

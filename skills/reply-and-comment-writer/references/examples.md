@@ -12,7 +12,7 @@ context (your output uses the loaded `voice.md`).
 *(receives it, adds a question to extend the thread — not just "🙏")*
 
 **Comment (genuine question):** "Does it work for scheduling to Pinterest too?"
-**Reply:** "Yep — Pinterest's one of the seven platforms. Schedule it the same way you would a Reel.
+**Reply:** "Yep — Pinterest's one of the supported platforms. Schedule it the same way you would a Reel.
 Want me to point you to the setup?"
 *(specific, useful; flag to user: this question keeps coming up → make it a post / FAQ)*
 

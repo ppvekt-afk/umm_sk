@@ -3,8 +3,9 @@ name: audience-research
 description: >-
   Use to develop a deep, usable understanding of who a brand creates content for — sharp enough
   that every content skill resonates with them specifically. Run when the user says "who's my
-  audience," "audience research," "build a persona," "customer profile," "who am I talking to,"
-  "understand my followers," or before content work that needs more audience depth than the
+  audience," "audience research," "target audience," "build a persona," "customer profile,"
+  "ideal customer profile" / "ICP," "who am I talking to," "understand my followers," or
+  before content work that needs more audience depth than the
   brand-profile sketch. Reads brand-profile first and goes deeper: jobs-to-be-done, pains,
   objections, and the audience's ACTUAL language (voice-of-customer), grounded in real sources
   where possible — never demographic theater. Produces an audience.md that content-pillars,
@@ -50,7 +51,7 @@ The difference between research and guessing is **evidence**. Mine the audience'
 problems from whatever sources are available (see `references/voice-of-customer.md`):
 
 - The brand's and competitors' **reviews**; **social comments** and replies.
-- **Reddit / forums / communities** where the audience actually talks.
+- **Reddit / forums / communities** where the audience actually talks (to act on subreddit findings → `reddit-marketing`).
 - **Support tickets, FAQs, sales-call notes, DMs** — the friction and objections, verbatim.
 - **Search queries / "people also ask"** — how they phrase what they want.
 

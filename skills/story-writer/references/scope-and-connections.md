@@ -28,10 +28,10 @@ interactive elements and handles DM replies; WoopSocial schedules/publishes the 
 
 ## Where this connects
 - **Reads first:** `brand-profile`, `voice-builder`.
-- **Frame assets:** `image-prompt` → `ideogram` (text/layout cards) / `imagen` (photoreal) / `nano-banana`;
+- **Frame assets:** `image-prompt` → `ideogram` (text/layout cards) / `nano-banana` (photoreal) / `nano-banana`;
   short clips via `reels-script` / `ai-video`.
 - **Copy:** `hook-writer` (frame-1 hook), `caption-writer` (overlays/CTAs).
-- **Traffic/outcome:** `link-in-bio-and-traffic` (forthcoming) for the link destination.
+- **Traffic/outcome:** `link-in-bio-and-traffic` for the link destination.
 - **Reuse:** `content-recycling` (Highlight winners; re-run arcs), `cross-platform-repurposing`
   (carousel/Reel ↔ Story spokes).
 - **Cadence + relationships:** `engagement-routine`, `reply-and-comment-writer` (DM replies),

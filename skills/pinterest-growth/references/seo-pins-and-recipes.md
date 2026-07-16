@@ -28,9 +28,10 @@ fresh pins = more distribution + more shots at the top 1% that drive most traffi
 | Goal | Pin type | Note |
 |---|---|---|
 | Traffic / clicks | Static (links out) | the workhorse |
-| Engagement / reach | Video (9:16, 6–15s) | ~2× engagement |
-| Audience / visibility | Idea Pin | no outbound link |
+| Engagement / reach | Video (9:16, 6–15s) | ~2× engagement; links too |
 | Shopping | Product / Collage / Rich | shoppable |
+
+(Idea Pins are retired — Pinterest unified everything into one Pin format; every pin can carry a link.)
 
 ## Worked example 1 — evergreen blog traffic pin (blunt indie-founder voice)
 ```
@@ -51,6 +52,6 @@ Save for later." LAUNCH: 60-75 days before the holiday.
 DESIGN: 2:3 collage-style, soft palette, "2026 GIFT GUIDE" overlay. LINK: the gift-guide page.
 ```
 
-Both: keyword-led; 2:3; relevant link (not homepage); brand voice; designs via `ideogram`/`imagen`;
+Both: keyword-led; 2:3; relevant link (not homepage); brand voice; designs via `ideogram`/`nano-banana`;
 scheduled steadily (72h between same-URL) via `scheduling-and-queue → WoopSocial`; measured in native
 Pinterest Analytics. Evergreen ones pair with `content-recycling`; seasonal ones launch early.

@@ -10,26 +10,29 @@ live into weeks of short-form. **WoopSocial can't run the live** (it's native) �
 + publishes the repurposed clips**, which is where most of that value sits.
 
 ## Platform live + thresholds (verify-quarterly)
-- **IG Live** — public account + **~1,000 followers**; **schedule 1 hr–90 days ahead** (sends follower
-  notification + reminder); invite guests, assign a moderator, save + share replay; **Live Shopping** product
-  tags; 4K vertical; desktop limited (broadcast from mobile).
+- **IG Live** — public account + **~1,000 followers** (required since **Aug 2025**; Live off by default for
+  under-16s); **schedule 1 hr–90 days ahead** (sends follower notification + reminder); invite guests, assign
+  a moderator, save + share replay; 4K vertical; desktop limited (broadcast from mobile). **Native Live
+  Shopping (product tags in Live) was discontinued Mar 2023** — sell via a pinned comment + keyword-to-DM.
 - **TikTok LIVE** — **~1,000 followers**; unlimited length; algorithm **pushes beyond followers** (viral
   potential); **LIVE shopping / TikTok Shop.**
 - **YouTube Live** — best for **evergreen discovery + replay + search**; large-scale; mobile-live historically
   needs ~50+ subs; Dual Streaming added.
 - **LinkedIn Live** — **B2B / professional** (webinars, thought leadership); via approved streaming tools.
-- **X** — live via a verified account; viral through reposts (formerly Periscope). **Twitch/Kick** —
-  community/gaming (adjacent, less brand-social).
+- **X** — live requires an **X Premium subscription** + a public profile; viral through reposts (formerly
+  Periscope). **Twitch/Kick** — community/gaming (adjacent, less brand-social).
 
 ## Pick by goal
-YouTube = evergreen discovery/replay/search · TikTok + IG = vertical mobile discovery + community + **live
-shopping** · LinkedIn = B2B · X = real-time viral. (Match audience + goal; you can multistream.)
+YouTube = evergreen discovery/replay/search · TikTok = vertical mobile discovery + **TikTok Shop live
+shopping** · IG = vertical community/Q&A (selling via keyword-to-DM) · LinkedIn = B2B · X = real-time viral.
+(Match audience + goal; you can multistream.)
 
 ## Live shopping/commerce (big in 2026)
 US live shopping ~**$55B by 2026** (from ~$17B in 2022); conversion **up to ~10× traditional e-commerce**;
-**~60% of viewers buy during/after.** Best practice: shoppable tools + **pinned product links/CTAs**, **flash
-discounts valid only during the live**, real-time demos, multiple conversion moments, social proof, urgency.
-AI co-hosts emerging.
+**~60% of viewers buy during/after** (attribute). Best practice: **product pins where native** (TikTok Shop
+LIVE, YouTube live shopping) or **pinned comment + keyword-to-DM** where not (IG), **flash discounts valid
+only during the live**, real-time demos, multiple conversion moments, social proof, urgency. AI co-hosts
+emerging.
 
 ## Run-of-show + tech (what works)
 - **Hook** (2-min tip/topic) → **pin a comment** with the topic for late joiners → **content** (answer **5–7

@@ -1,7 +1,7 @@
 ---
 name: goals-and-kpis
 description: >-
-  The target-setting skill for 2026. Use when someone wants to "set social media goals," "define our
+  Set social media goals and KPIs — measurable targets and north-star metrics that aren't vanity numbers. Use when someone wants to "set social media goals," "define our
   KPIs," "what should we be aiming for," "what's our north-star metric," "OKRs for social," or to turn
   vague ambitions ("grow our following," "go viral") into measurable targets. Builds a cascade: business
   goal -> SMART objective -> North Star KPI (one per channel by its win condition) -> supporting metrics,
@@ -71,7 +71,7 @@ Reads first: **brand-profile**, **social-strategy**. Benchmark inputs: **analyti
 (baseline), **competitor-analysis** (relative), the **\*-growth** skills (per-platform norms). Hands
 targets to: **analytics-and-reporting** (measurement), **content-calendar**/**batch-content-plan**
 (cadence), **experimentation** (tests), **campaign-and-launch-planning** (campaign KPIs). Per-channel
-North Stars draw on all seven platform-growth skills. No publishing/tool surface — a planning skill.
+North Stars draw on the per-platform growth skills. No publishing/tool surface — a planning skill.
 
 ## Definition of done
 A cascade per goal (business outcome → SMART objective with number+deadline+method → one North Star per

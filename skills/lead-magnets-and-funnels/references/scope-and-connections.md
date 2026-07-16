@@ -29,11 +29,11 @@ publishes the **promo posts**; capture/delivery/nurture run in **external tools*
 
 ## Where this connects
 - **Reads first:** `brand-profile` (audience/offer), `goals-and-kpis` (the conversion goal).
-- **Magnet creative:** `image-prompt`/`ideogram`/`imagen` (covers/visuals), `carousel-writer` (a carousel
+- **Magnet creative:** `image-prompt`/`ideogram`/`nano-banana` (covers/visuals), `carousel-writer` (a carousel
   magnet), `caption-writer`/`hook-writer` (promo + landing copy), `story-writer` (Story promo).
 - **Capture paths (deliver the magnet):** `link-in-bio-and-traffic`, `social-selling-and-dm`.
 - **Nurture / owned channel:** `email-and-newsletter` (the 3–5 sequence lives + runs here, in the ESP).
 - **Promote + publish:** `content-calendar`, `campaign-and-launch-planning`, `scheduling-and-queue →
   WoopSocial` (promo posts only).
 - **Measure/test:** `analytics-and-reporting` (external-tool/GA4 readout), `goals-and-kpis`,
-  `experimentation` (A/B the magnet, landing, subject lines). **The funnel itself runs in external tools.**
+  `experimentation-and-ab-testing` (A/B the magnet, landing, subject lines). **The funnel itself runs in external tools.**

@@ -23,7 +23,7 @@ human.**
 - **link-in-bio-and-traffic** — the **bio/link** capture path (public link, not a DM conversation).
 - **reply-and-comment-writer** — **PUBLIC** comment replies (the comment that *triggers* the DM lives here).
 - **email-and-newsletter** — the **owned channel** the DM captures into.
-- **lead-magnets-and-funnels** (forthcoming) — **designs the magnet** the DM delivers.
+- **lead-magnets-and-funnels** — **designs the magnet** the DM delivers.
 - **community-management** — ongoing community (vs a 1:1 conversion conversation).
 
 ## Where this connects
@@ -34,4 +34,4 @@ human.**
   `link-in-bio-and-traffic` (the other capture path).
 - **Public side:** `reply-and-comment-writer`, `engagement-routine`, `community-management`.
 - **Measure/plan:** `analytics-and-reporting` (external-tool/GA4 readout), `goals-and-kpis`,
-  `experimentation` (A/B the trigger CTA + DM copy). **The DM send itself stays in an external official-API tool or with a human.**
+  `experimentation-and-ab-testing` (A/B the trigger CTA + DM copy). **The DM send itself stays in an external official-API tool or with a human.**

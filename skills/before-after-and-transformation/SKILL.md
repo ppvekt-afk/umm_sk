@@ -69,7 +69,7 @@ transformation-types-and-templates.md`.
 ## Honest scope (never violate)
 - **The agent** structures + specs the transformation (arc, journey/reveal beats, honest framing + required
   disclosures, caption/script); the **human/tool** produces the real before/after media; the **human** approves;
-  **WoopSocial publishes** + reads native analytics. **WoopSocial does NOT generate media.**
+  **WoopSocial publishes** (measurement: the platforms' native analytics). **WoopSocial does NOT generate media.**
 - **Honesty spine (law):** real un-staged before; **consistent conditions**; **real timeline**; **disclose aids**;
   **no cherry-pick/survivorship**; if not typical, **disclose the actual typical result** (median, substantiated,
   clear + conspicuous — not just "results not typical"); **actual consumers** (or disclosed); **consent** for a

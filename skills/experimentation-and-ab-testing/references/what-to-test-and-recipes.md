@@ -5,7 +5,8 @@
 2. **Posting time** — easy to test, often high impact.
 3. **Format** — Reels vs carousel vs photo; long vs short.
 4. **Caption / CTA** — length, opening line, the ask.
-5. **Thumbnail / cover** (YouTube/Reels) — CTR lever.
+5. **Thumbnail / cover + title** (YouTube/Reels) — CTR lever; on YouTube long-form use native **Test &
+   Compare** (up to 3 titles/thumbnails/combos — a true audience split) instead of sequential posts.
 6. **Hashtags / keywords** — branded vs generic, count, placement.
 Always tie the choice to the **KPI** you're moving.
 

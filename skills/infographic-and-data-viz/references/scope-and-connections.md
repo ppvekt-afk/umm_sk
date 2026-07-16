@@ -4,8 +4,9 @@
 - **The agent** designs the data-viz **spec** — chart type, the takeaway headline, layout, honest scale, labels,
   color/accessibility, and alt text — and can draft a chart. A **design/chart tool** (Canva, a charting library,
   an image/layout tool) renders the final social graphic; the **human** approves.
-- **WoopSocial does NOT generate media** — it **publishes the finished image** to its platforms + reads native
-  analytics. (Image-capable on all 7; respect per-platform image rules, e.g. Pinterest = a single image.)
+- **WoopSocial does NOT generate media** — it **publishes the finished image** to its platforms (measurement:
+  the platforms' native analytics). (Image-capable across the 10 supported platforms; respect per-platform image
+  rules, e.g. one content item per post.)
 - **The data must be real** — pairs with `data-and-original-research` / `analytics-and-reporting`; the agent
   **never fabricates a data point or a source, and never distorts the visualization of real data.**
 - **Honest scales** (zero-baseline bars, no 3D/area/dual-axis/cherry-pick); **cite source + date** + context to

@@ -3,9 +3,9 @@ name: ai-search-optimization
 description: >-
   Use to get a brand and its content CITED and RECOMMENDED by AI answer engines — the GEO (Generative
   Engine Optimization) / AI-search-visibility skill. Run when the user says "GEO," "generative engine
-  optimization," "get cited by ChatGPT/Perplexity/Google AI," "AI search visibility," "AI Overviews,"
-  "answer engine optimization (AEO)," "will AI recommend my brand," or wants to show up in
-  AI-generated answers (not just the feed or Google links). Reads brand-profile and audience first.
+  optimization," "get cited by ChatGPT/Perplexity/Google AI," "ChatGPT SEO," "LLM SEO / LLMO," "AI
+  search visibility," "AI Overviews," "Google AI Mode," "answer engine optimization (AEO)," "will AI
+  recommend my brand," or wants to show up in AI-generated answers (not just the feed or Google links). Reads brand-profile and audience first.
   Built on the verified 2026 reality: AI engines use retrieval-augmented generation + query fan-out
   and cite community/social sources heavily (Reddit ~47% of Perplexity citations, YouTube the
   strongest AI-Overview signal, Wikipedia for ChatGPT facts), platforms disagree on sources, earned
@@ -31,9 +31,10 @@ supplements search/SEO; it doesn't replace it.
 
 Four truths shape everything:
 
-1. **AI answers are built by retrieval + fan-out.** Engines retrieve live from search indexes (Bing
-   feeds ChatGPT; Google feeds AI Overviews) and split your topic into sub-queries — so **ranking in
-   search feeds AI citation**, and you optimize for a constellation of questions.
+1. **AI answers are built by retrieval + fan-out.** Engines retrieve live from search indexes
+   (ChatGPT via OpenAI's own crawler/index, OAI-SearchBot — historically Bing-seeded; Google feeds
+   AI Overviews/AI Mode) and split your topic into sub-queries — so **ranking in search feeds AI
+   citation**, and you optimize for a constellation of questions.
 2. **AI cites community/social sources most.** Reddit, YouTube, Wikipedia, LinkedIn, listicles and
    review sites dominate citations — **the cited pages are usually not your pages.** Earned mentions
    beat product pages.
@@ -59,7 +60,9 @@ ground-truth method — see `references/audit-and-measurement.md`.
 ## Step 2 — Be retrievable (the foundation)
 
 If you can't be found in search, you can't be cited: rank in **Google/Bing** and in platform search →
-`social-seo` (the sibling). Same keyword/question research powers both.
+`social-seo` (the sibling). Same keyword/question research powers both. And **verify AI retrieval
+crawlers can reach the site** — robots.txt and CDN/bot-protection defaults (e.g. Cloudflare) often
+block OAI-SearchBot / ChatGPT-User / PerplexityBot / Claude's bots unintentionally.
 
 ## Step 3 — Earn brand mentions across cited sources (the social core)
 
@@ -124,6 +127,7 @@ mentions) · `viral-reverse-engineering` (what gets cited/shared) · `scheduling
 
 - `social-seo` — the sibling: platform + Google search (the retrieval foundation AI pulls from).
 - `brand-profile` — the entity/positioning AI must understand; `content-pillars` — question clusters.
+- `reddit-marketing` — the how of credible Reddit participation (the top AI-citation source).
 - `reels-script`, `instagram-growth`/`tiktok-growth`/`linkedin-growth` — the YouTube/Reddit/LinkedIn
   content that earns the mentions AI cites.
 - `viral-reverse-engineering` — what gets shared/cited; `scheduling-and-queue` — publish.

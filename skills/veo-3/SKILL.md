@@ -41,9 +41,10 @@ counterpart to `nano-banana`**:
 Its real strengths: **native synchronized audio** (dialogue + lip-sync, SFX, ambient, music — the
 differentiator), **cinematic realism/physics**, **image-to-video**, **reference-image consistency**,
 **first/last-frame** control, and **native 9:16 vertical / 4K**. Reach **elsewhere** for a **pure
-talking-head explainer** (→ avatar tool like `heygen`), **long continuous video** (stitch/extend or a
-length-built tool), or **highly stylized/very-high-volume** output. Don't default it to every job.
-(Details: `references/when-and-how-to-prompt.md`.)
+talking-head explainer** (→ avatar tool like `heygen`), **native-4K/multi-shot/motion-transfer at
+lower cost** (→ `kling`), **HDR/atmospheric mood shots** (→ `luma`), **long continuous video**
+(stitch/extend or a length-built tool), or **highly stylized/very-high-volume** output. Don't
+default it to every job. (Details: `references/when-and-how-to-prompt.md`.)
 
 ## Step 0 — Read the brand + the job
 
@@ -111,6 +112,7 @@ the **camera/motion** for the cinematic feel. See `references/audio-and-camera.m
 - `tools/integrations/veo.md` — API/model IDs, async generate-and-poll, pricing, the upload-to-WoopSocial flow.
 - `reels-script` (veo-prompt-pack) — the consuming skill; `nano-banana` — the image sibling + image-to-video source.
 - `brand-profile` — the visual brand; `hook-writer` — the in-clip hook/line; `heygen` — avatar/talking-head alternative.
+- `ai-video` — the router above this skill; `kling` (4K/multi-shot/motion) and `luma` (HDR/mood, silent) — generative siblings.
 - `scheduling-and-queue` — attach the video to a post and publish.
 
 ## References

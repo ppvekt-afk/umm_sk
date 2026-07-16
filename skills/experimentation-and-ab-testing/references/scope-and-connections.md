@@ -10,7 +10,8 @@ conditions to learn what actually moves a KPI. It **designs** the test and draft
   repetition (3–5)**, not p-value theater.
 - **WoopSocial has no A/B / audience-split / paid-experiment surface.** Organic testing = **controlled
   sequential posts**: the agent designs the test + drafts variants + plans the schedule; WoopSocial
-  publishes; the **primary metric is read from native analytics.**
+  publishes; the **primary metric is read from native analytics.** Exception: **YouTube's native Test &
+  Compare** (Studio, long-form) audience-splits up to 3 titles/thumbnails/combos — use it there.
 - **No p-hacking / HARKing / cherry-picking.** Decision rule + primary metric are **pre-set**; a
   multi-variable change **can't** be attributed to one element; one post/one day is **noise**.
 - **Never fabricate a result.** Apply the rule to the **real** numbers the user provides; **a tie is a
@@ -33,8 +34,8 @@ the thing `analytics-and-reporting` explicitly defers to when isolating variable
 ## Where this connects
 - **Reads first:** `brand-profile`, `goals-and-kpis` (the KPI/primary metric).
 - **Variants drafted via:** `hook-writer` (hooks), `caption-writer` (captions/CTAs), `reels-script`/
-  `tiktok-script` (first-frame), `carousel-writer`, `image-prompt`/`ideogram`/`imagen` (visuals/thumbnails),
-  `thumbnail-design` (forthcoming).
+  `tiktok-script` (first-frame), `carousel-writer`, `image-prompt`/`ideogram`/`nano-banana` (visuals/thumbnails),
+  `thumbnail-design`.
 - **Readout:** `analytics-and-reporting` (native analytics) — the source of the primary metric.
 - **Scale + plan:** `content-recycling` (winners), `social-strategy`, `content-calendar`/`batch-content-plan`
   (sprint cadence), every `*-growth` skill (platform-specific tests).

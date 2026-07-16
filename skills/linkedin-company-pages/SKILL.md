@@ -2,8 +2,8 @@
 name: linkedin-company-pages
 description: >-
   The LinkedIn company-page (LINKEDIN_PAGES) growth strategy skill -- a separate platform from personal
-  LINKEDIN. Use when someone wants to grow a company page, fix low page reach, set up employee advocacy, or
-  plan company-page content. In 2026 company pages get ~1-5% of feed allocation and organic reach fell
+  LINKEDIN. Use when someone wants to grow a company/business page, fix low page reach ("our LinkedIn page
+  gets no engagement / is dead"), set up employee advocacy, or plan company-page content. In 2026 company pages get ~1-5% of feed allocation and organic reach fell
   60-66%, so the page is a credibility hub + paid launchpad (LinkedIn Ads + Thought Leader Ads run from it),
   NOT the organic reach engine -- the growth lever is employee advocacy (people not logos): employees have
   ~10x the connections, ~3% share yet drive ~30% of engagement, and employee leads convert ~7x. Uses the
@@ -49,7 +49,7 @@ page's **own** posts; the **advocacy runs through employees' personal profiles.*
   executive/CEO content ~4× the page.
 - **A — Anchor page-appropriate content:** carousel/document (top saves), short vertical video w/ captions,
   custom images — **never text-only** (~0.42×); **links in comments, not body** (−60%); questions/frameworks
-  → 437% views + saves (Depth Score). (Post craft → `linkedin-post-writer`; visuals → `ideogram`/`imagen`.)
+  → 437% views + saves (Depth Score). (Post craft → `linkedin-post-writer`; visuals → `ideogram`/`nano-banana`.)
 - **N — Nurture cadence + measure:** consistent (weekly+) → ~5.6× followers; respond fast; track followers,
   reach, engagement, **advocacy UTM conversions**; no bait/pods/forced-identical/bought followers.
 
@@ -85,7 +85,7 @@ posting routes) · **linkedin-post-writer** = the single-post craft · **social-
 
 ## Where this connects
 Reads first: **brand-profile**, **goals-and-kpis**. Routes craft to: **linkedin-post-writer** (the page post),
-**ideogram**/**imagen** (carousel/video visuals), **linkedin-growth** (the employees'/founder's personal-
+**ideogram**/**nano-banana** (carousel/video visuals), **linkedin-growth** (the employees'/founder's personal-
 profile advocacy — the engine), **caption-writer** (lines). Pairs with: **social-selling-and-dm** (pipeline),
 **lead-magnets-and-funnels**/**email-and-newsletter** (the gated assets the page links to via comments),
 **campaign-and-launch-planning** (launches), **analytics-and-reporting** (page + advocacy UTM readout).

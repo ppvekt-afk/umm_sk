@@ -44,8 +44,10 @@ amplification, copy-paste virality, low-value "good morning". **Accuracy has a d
 consequence** — an active **Community Note** correction reduces reach.
 
 ## Monetization + fit (honest)
-Creator revenue-share paid **$415M in 2025**, but rewards **engagement velocity, not followers**, and
-is **extremely concentrated** (top 10% earn >80%; median monetized <$400/yr). Don't promise income.
+Creator revenue-share is real but **X publishes no payout totals**; the pool keys on **verified/Premium-user
+engagement, not followers** (eligibility now from ~500 followers), and earnings are **extremely
+concentrated** — most monetized creators make a few dollars to a few hundred per quarter
+(verify-quarterly). Don't promise income.
 **Topic amplification zones:** AI/tech, politics/current events, finance/crypto, sports — "expertise
 moment" posts (a fast, informed take on breaking niche news) are the highest-ROI action. **Honest fit:**
 X has the **lowest engagement rate** of the majors; it's strong for **B2B, tech, finance, thought

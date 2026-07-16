@@ -30,7 +30,7 @@ Spend the time in priority order (full triage in `triage-priorities-and-goals.md
 2. **Respond to DMs** — where relationships and conversions happen.
 3. **Handle anything negative/urgent** quickly.
 4. **Proactive commenting** — add value on 3–5 posts from **ICP, peers, and niche leaders** (borrows
-   their audience; `strategic-commenting` in `reply-and-comment-writer`).
+   their audience; strategic commenting in `reply-and-comment-writer`).
 
 The agent **drafts** these (in brand voice, via `reply-and-comment-writer`); the **human reviews and
 posts** them in-app.
@@ -58,5 +58,5 @@ Scale up/down by capacity (see below).
 - **Time:** an hour a day is a healthy ceiling for most solo brands; 40 min works; even 2×10 min beats
   sporadic bursts. **Consistency > intensity.**
 - **Platforms:** more platforms = more time. **Concentrate where your audience actually is** rather than
-  spreading thin across all seven.
+  spreading thin across every platform you publish to.
 - **Capacity:** when busy, shrink the windows but **keep the golden hour** — it's the highest return.

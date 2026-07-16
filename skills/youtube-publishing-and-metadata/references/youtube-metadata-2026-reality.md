@@ -15,11 +15,13 @@ you there. Don't oversell metadata as a guarantee.
 - Does **two jobs at once**: **rank** (keyword) + **click** (clarity/curiosity). **Clarity over
   cleverness** — if viewers can't tell what it is, they won't click.
 - **Power words** ("ultimate/complete/proven/surprising") ≈ **+8.3% CTR**. Use **YouTube autocomplete** for
-  proven phrases; **long-tail** for smaller channels. **A/B testing is native YouTube Studio** (not the API).
+  proven phrases; **long-tail** for smaller channels. **A/B testing is native YouTube Studio** (not the
+  API): **Test & Compare** now covers **titles as well as thumbnails** — up to 3 title variants or
+  title+thumbnail combos, winner by watch-time share (global since Dec 2025; needs Advanced Features).
 
 ## Description (= `content.text`)
 - **Above-the-fold** (first ~150 chars / 2–3 lines, before "Show more") is weighted: **line 1 = value/
-  hook**, **lines 2–3 = primary keyword** naturally. **300–500 words** total, **natural integration**
+  hook**, **lines 2–3 = primary keyword** naturally. **300–500 words** total (max **5,000 chars**), **natural integration**
   (semantic; **stuffing penalized** — natural ≈ **+23% impressions**).
 - **Chapters/timestamps** with **keyword-rich names** (not "Part 1") — indexed by YouTube + Google, boost
   search-snippet eligibility. **3–7 links** (internal playlists keep session time; external strategic);
@@ -44,6 +46,7 @@ you there. Don't oversell metadata as a guarantee.
 
 ## WoopSocial gaps (honest)
 **No thumbnail field** in the YouTube fields → the **thumbnail is a native Studio step** (and it's a major
-CTR lever, so don't skip it). **No A/B title testing** (native Studio). **No update endpoint** → edit =
+CTR lever, so don't skip it). **No A/B title testing** (native Studio Test & Compare). **No update endpoint** → edit =
 delete+recreate before publish; **post-publish metadata edits happen in Studio.** Shorts vs long-form: a
-vertical <60s video posts as a **Short**; SEO weights differ slightly but the metadata fields are the same.
+vertical or square video **up to 3 minutes** posts as a **Short** (the ≤60s rule ended Oct 2024); SEO
+weights differ slightly but the metadata fields are the same.

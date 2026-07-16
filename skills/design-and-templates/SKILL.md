@@ -81,7 +81,7 @@ profile assets.
 Reads first: **brand-profile** + the **recurring content needs.** Feeds the format siblings: **thumbnail-
 design**, **pinterest-pin-design**, **instagram-reels-publishing** (cover), **carousel-writer** (the frame its
 copy fills), **story-writer** — each a template in the system. Briefs for imagery: **image-prompt** →
-**ideogram**/**imagen**/**midjourney**/**nano-banana** (or Dream Lab/Firefly). Publishes via: the **finished
+**ideogram**/**flux**/**nano-banana** (or Dream Lab/Firefly). Publishes via: the **finished
 asset** → **scheduling-and-queue → WoopSocial** (post/Pin/cover/carousel media). Design + generation stay in
 the design tool / image tools; WoopSocial only publishes.
 

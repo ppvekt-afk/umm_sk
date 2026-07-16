@@ -18,7 +18,10 @@ production map.**
 - **Video-podcast clip** (if you recorded video) — **9:16 vertical**, auto-reframe to the **active speaker**,
   burned-in captions. 30–90s.
 - **Audiogram** (audio-only) — **cover art/background + animated waveform** (bars/circles/lines/blobs) +
-  **captions + title.** Makes audio visual + sound-off-accessible; outperforms static posts.
+  **captions + title.** Makes audio visual + sound-off-accessible; beats a static image — but **real video
+  clips outperform audiograms** (2025–26 practitioner consensus; attribute), so if video exists, clip it, and
+  consider recording video going forward. An audio-only audiogram must be **caption-first**: the words carry
+  it; the waveform is support, not the star.
 - **Quote card** — a single strong line as a graphic (→ `design-and-templates`).
 
 ## The pipeline

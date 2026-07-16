@@ -1,7 +1,7 @@
 ---
 name: content-audit
 description: >-
-  The retrospective account reality-check for 2026. Use when someone wants to "audit my content/account,"
+  Audit an existing social media account and its content — the retrospective reality-check of what's working and what isn't. Use when someone wants to "audit my content/account,"
   "what's working and what isn't," "clean up my profile/feed," "I post a lot but it's not working," or to
   triage an existing account before replanning. Produces a keep/kill/refresh triage, maps pillar coverage,
   catches voice drift, and fixes profile fundamentals — then a quick-wins-vs-long-term roadmap. Uses the
@@ -71,7 +71,7 @@ ongoing measurement (the data source) · **competitor-analysis** = rivals' publi
 Reads first: **brand-profile**, **voice-builder**, **content-pillars**, **social-strategy**,
 **analytics-and-reporting**. Hands findings to: **content-recycling**, **content-pillars**,
 **profile-optimization**, **voice-builder**, **social-strategy**, **experimentation**. Benchmark context:
-**competitor-analysis**, **goals-and-kpis**. Per-platform format/native expectations: the seven
+**competitor-analysis**, **goals-and-kpis**. Per-platform format/native expectations: the per-platform
 **\*-growth** skills. No publishing/tool surface — a diagnostic + planning skill.
 
 ## Definition of done

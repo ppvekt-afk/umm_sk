@@ -46,7 +46,8 @@ Rotterdam' as a clean sans line beneath; small 'free, RSVP in bio' footer. High-
   brand styles you don't own.
 - **Cost lever** — iterate on **Turbo/magic-prompt**, finalize on **Quality**; per-image pricing.
   Open weights are **non-commercial** (commercial use needs an Ideogram plan/API/license).
-- **Layers are roadmap** — editable text/movable layers aren't live yet; treat text as elements now.
+- **Layerize Text is live (beta)** — rendered text extracts to editable layers (all plans + API);
+  best on clear, straight type. Movable *image* layers remain roadmap.
 - **Prompt craft only** — API/pricing/MCP + the *generate → upload to WoopSocial Media → attach* path
   live in `tools/integrations/ideogram.md`; WoopSocial doesn't generate images.
 

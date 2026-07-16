@@ -1,7 +1,7 @@
 {
   "skill": "instagram-reels-publishing",
   "version": "1.0.0",
-  "description": "The Instagram Reels publish-mechanics skill -- distinct from reels-script (the script), instagram-seo (the keyword caption), and platform-specs-and-validation (cross-platform validation). It gets a finished Reel OUT the way Instagram actually displays it: 9:16 1080x1920 spec-clean video, the safe zone (top ~250 / bottom ~350 UI) that survives the 4:5 feed crop and the 2026 3:4 profile-grid crop, a custom grid-safe cover (chosen before publish, can't edit after), the keyword caption, and audio. Uses the FRAME framework. Reads brand-profile + the Reel asset/topic first. The agent specs the publish settings + the cover brief + the specs/safe-zone checklist + advises audio/tags. WoopSocial publishes postType REEL + video + caption + cover (REEL-only) on a schedule, validated via platform-specs-and-validation. Native/in-app: trending audio (IG's licensed library can't be added via API), Share-to-Feed toggle, collaborator/product tags, media-quality setting, Reel Insights. Other tools: the video (video tools/creator), the cover design (image tools), the burned-in captions (captions-and-clipping). 9:16 or it crops/blurs, keep content in the safe zone, custom cover can't be edited after upload, remove other-platform watermarks, metrics never fabricated. Pairs with instagram-seo + reels-script.",
+  "description": "The Instagram Reels publish-mechanics skill -- distinct from reels-script (the script), instagram-seo (the keyword caption), and platform-specs-and-validation (cross-platform validation). It gets a finished Reel OUT the way Instagram actually displays it: 9:16 1080x1920 spec-clean video, the safe zone (top ~250 / bottom ~350 UI) that survives the 4:5 feed crop and the 3:4 profile-grid crop (the 2025 rectangular-grid change), a custom grid-safe cover (chosen before publish, can't edit after), the keyword caption, and audio. Uses the FRAME framework. Reads brand-profile + the Reel asset/topic first. The agent specs the publish settings + the cover brief + the specs/safe-zone checklist + advises audio/tags. WoopSocial publishes postType REEL + video + caption + cover (REEL-only) on a schedule, validated via platform-specs-and-validation. Native/in-app: trending audio (IG's licensed library can't be added via API), Share-to-Feed toggle, collaborator/product tags, media-quality setting, Reel Insights. Other tools: the video (video tools/creator), the cover design (image tools), the burned-in captions (captions-and-clipping). 9:16 or it crops/blurs, keep content in the safe zone, custom cover can't be edited after upload, remove other-platform watermarks, metrics never fabricated. Pairs with instagram-seo + reels-script.",
   "evals": [
     {
       "name": "specs_and_safe_zone",
@@ -10,7 +10,7 @@
       "expect": [
         "Specs 9:16 at 1080x1920, MP4/MOV H.264, 30/60fps, under 4GB -- anything off 9:16 crops or letterboxes",
         "Keeps the hook text/face/CTA in the central safe zone (top ~250px + bottom ~350px are UI overlays)",
-        "Notes it must survive the 4:5 feed crop and the 2026 3:4 profile-grid crop, so critical content stays centered",
+        "Notes it must survive the 4:5 feed crop and the 3:4 profile-grid crop, so critical content stays centered",
         "Introduces the FRAME framework and reads brand-profile + the asset first"
       ]
     },

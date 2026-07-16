@@ -6,7 +6,7 @@ description: >-
   from, wants an idea bank/backlog, feels their AI-generated ideas sound like everyone else's, thinks their
   niche is "boring," or wants to validate a big idea before producing it. Uses the SPARK framework (Stock the
   inputs, Produce in volume, Angle it to the brand, Rank + bank, Kick-test before production). Reads
-  brand-profile + content-strategy (the pillars) + audience-research first. The core 2026 truths: the audience
+  brand-profile + social-strategy + content-pillars + audience-research first. The core 2026 truths: the audience
   is the idea engine (comments/DMs/FAQs/polls clustered into themes — real signals outperform isolated
   brainstorms); AI is an EXPANDER of real signals, never a discovery engine (foundation models are consensus
   engines — generic prompts return the same median ideas every competitor gets; your inputs, constraints, taste,
@@ -15,9 +15,9 @@ description: >-
   idea source; and expensive ideas earn a cheap probe first. The agent clusters/expands/scores; the HUMAN
   supplies proprietary signals and makes every call; the bank lives in the user's tools; WoopSocial publishes
   the eventual content, not ideas. NEVER reword competitor posts, invent audience questions, manufacture
-  urgency, or fabricate probe results. Distinct from content-strategy (defines the pillars this fills),
-  audience-research (who they are), content-remixing-and-formats (transforming existing content), and the
-  format skills (where a chosen idea becomes content).
+  urgency, or fabricate probe results. Distinct from social-strategy/content-pillars (define the pillars this
+  fills), audience-research (who they are), cross-platform-repurposing/content-recycling (transforming
+  existing content), and the format skills (where a chosen idea becomes content).
 version: 1.0.0
 ---
 
@@ -41,7 +41,7 @@ thing the same-model competitor can't prompt for. The operating discipline: **se
 earn a cheap probe first** — a poll or text post before the month of video.
 
 ## Read these first
-1. **brand-profile** + **content-strategy** — the pillars and goals this system fills.
+1. **brand-profile** + **social-strategy** — the pillars and goals this system fills.
 2. **audience-research** — the segments whose signals drive everything.
 
 ## The framework: SPARK
@@ -82,15 +82,15 @@ pattern, the matrix, the bank card, the probe ladder, and two worked examples:
   it isn't a system. (Full scope: `references/scope-and-connections.md`.)
 
 ## Distinct from its siblings (route correctly)
-**idea-generation-and-ideation (this)** = the idea system · **content-strategy / content-calendar** = defines
-the pillars + schedule this fills · **audience-research** = who they are (this consumes + feeds it) ·
-**contrarian-and-opinion** = the POV craft the A-gate uses · **content-remixing-and-formats /
+**idea-generation-and-ideation (this)** = the idea system · **social-strategy / content-pillars /
+content-calendar** = define the pillars + schedule this fills · **audience-research** = who they are (this
+consumes + feeds it) · **contrarian-and-opinion** = the POV craft the A-gate uses · **cross-platform-repurposing /
 content-recycling** = transforming existing content (this generates) · **trend skills** = riding trends (here:
 a timing filter) · **interactive-content** = probe mechanics + the micro-survey loop · **hook-writer + the
 format skills** = where a chosen idea becomes content.
 
 ## Where this connects
-Reads first: **brand-profile** + **content-strategy** + **audience-research.** Consumes signals from:
+Reads first: **brand-profile** + **social-strategy** + **audience-research.** Consumes signals from:
 **interactive-content** (polls), **community-management** (relayed conversations), **analytics-and-reporting**
 (what worked), **data-and-original-research.** Feeds: every **content-angle and format skill**,
 **content-calendar**, **scripting-and-storyboarding.** Publishes via: the executed content →
@@ -106,5 +106,5 @@ the weekly-review / monthly-refresh / quarterly-audit cadence in the user's own 
 making, and expensive ideas probed cheaply (demand evidence + the probe ladder) with honestly-read results
 before production; the human supplying signals and making every call, the executed content publishing via
 WoopSocial, and the loop learning from native analytics; **no reworded competitor content, invented signals,
-manufactured urgency, or fabricated results**; and correctly distinguished from content-strategy,
-audience-research, content-remixing-and-formats, and the format skills.
+manufactured urgency, or fabricated results**; and correctly distinguished from social-strategy/content-pillars,
+audience-research, cross-platform-repurposing/content-recycling, and the format skills.

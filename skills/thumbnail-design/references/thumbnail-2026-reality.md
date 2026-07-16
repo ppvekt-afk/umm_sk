@@ -35,14 +35,17 @@ everything:
 ## Mobile-first, safe zones + specs
 - **70%+ of viewing is mobile** — design for it; **test at ~168×94 px** (real mobile-feed size). **Avoid the
   bottom-right** (duration badge) and keep critical text/faces out of corners and the **bottom 15%** (UI
-  overlays vary by surface). **Specs: 1280×720, 16:9, JPG/PNG**; historically **<2MB**, with **up to 50MB**
-  rolling out early 2026 (mainly smart-TV screens — verify).
+  overlays vary by surface). **Specs: 1280×720, 16:9, JPG/PNG**; the old **2MB cap rose to
+  50MB** in early 2026 (for 4K/smart-TV rendering — practically, a few hundred KB–2MB still suffices for
+  phones/desktop).
 
 ## Brand consistency + A/B testing (native)
 - **Consistent style** (font/palette/layout/positions) → returning viewers spot you; **~15–20% higher CTR**
   from subscribers. A "family" look, not identical clones.
-- **Test & Compare (native YouTube Studio):** up to **3 variations**, winner by **watch-time share** after
-  up to **~14 days** (Winner / Performed Same / Inconclusive → defaults to the first uploaded). **Not for
-  Shorts**; eligibility + traffic dependent (**<1,000 impressions/week → inconclusive**; ~2,000 impressions/
-  variant to detect a 2pp lift). **Change ONE variable**; test **meaningfully different** concepts (fear vs
-  curiosity, face vs object), not tiny tweaks. Home-feed CTR < Search CTR (intent differs by source).
+- **Test & Compare (native YouTube Studio):** up to **3 variations** — and since **Dec 2025** it also tests
+  **titles and title+thumbnail combos**, so you can test the whole packaging unit. Winner by **watch-time
+  share** after up to **~14 days** (Winner / Performed Same / Inconclusive → defaults to the first uploaded).
+  **Not for Shorts**; needs **Advanced Features** + desktop Studio; traffic dependent (**<1,000 impressions/
+  week → inconclusive**; ~2,000 impressions/variant to detect a 2pp lift). **Change ONE variable**; test
+  **meaningfully different** concepts (fear vs curiosity, face vs object), not tiny tweaks. Home-feed CTR <
+  Search CTR (intent differs by source).

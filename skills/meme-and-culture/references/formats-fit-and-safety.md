@@ -29,7 +29,7 @@ NO punching down at any group                    RESEARCH the origin + connotati
 ## IP checklist
 ```
 [ ] Original meme visual (AI + human pass / custom photo / commissioned) -- not a copyrighted character
-[ ] No celebrity/identifiable-person likeness used commercially without permission -- real OR an AI lookalike (2026 likeness crisis: AI look-alikes are actionable in US/UK)
+[ ] No celebrity/identifiable-person likeness used commercially without permission -- real OR an AI lookalike (2026 likeness crisis: actionable under US state right-of-publicity law; federal NO FAKES Act advancing -- verify-quarterly)
 [ ] Catchphrase not trademarked by its creator
 [ ] Trending audio cleared/licensed for a brand (or skip it) -> ai-music-and-sound
 [ ] Credit the original creator when remixing UGC

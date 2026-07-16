@@ -10,7 +10,9 @@ The tools clip/generate; the agent picks the moments + brands + writes the hooks
 
 ## A — Aim the format to what you recorded
 - **Video-podcast clip** (9:16, reframe to the active speaker) if you have video; **audiogram** (cover art +
-  animated waveform + captions) if **audio-only**; **quote card** for a single line (→ `design-and-templates`).
+  animated waveform + captions) if **audio-only** — but video clips outperform audiograms, so prefer video
+  when it exists and design audiograms caption-first (waveform as support); **quote card** for a single line
+  (→ `design-and-templates`).
 
 ## V — Voice the hook + captions
 - **First-3-sec hook** on every clip; **captions on every clip** (85% sound-off — non-optional). The

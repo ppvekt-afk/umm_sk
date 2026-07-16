@@ -66,8 +66,10 @@ of the FYP. → `hashtag-strategy`/`social-seo`, `tiktok-script`.
 ## Step 4 — Run consistent at-bats + read patterns
 
 A sustainable cadence (commonly ~3–5×/week, quality-gated) gives the algorithm more tests; **judge by
-patterns across many videos, not one flop**; the back-catalog resurfaces. → `content-calendar`,
-`viral-reverse-engineering`. See `references/completion-search-volume.md`.
+patterns across many videos, not one flop**; the back-catalog resurfaces. **Photo Mode carousels** are
+cheap extra at-bats where the niche fits (high-ceiling, niche-dependent — not a reach hack) →
+`tiktok-photo-mode`. → `content-calendar`, `viral-reverse-engineering`. See
+`references/completion-search-volume.md`.
 
 ## Step 5 — Convert + retain with native features
 
@@ -86,8 +88,8 @@ patterns across many videos, not one flop**; the back-catalog resurfaces. → `c
 
 ## Orchestration map
 
-tiktok-growth diagnoses and routes; these execute: `tiktok-script` · `hook-writer` ·
-`caption-writer` · `profile-optimization` · `content-calendar` · `hashtag-strategy` ·
+tiktok-growth diagnoses and routes; these execute: `tiktok-script` · `tiktok-photo-mode` ·
+`hook-writer` · `caption-writer` · `profile-optimization` · `content-calendar` · `hashtag-strategy` ·
 `trend-jacking` · `viral-reverse-engineering` · `cross-platform-repurposing` · `scheduling-and-queue`.
 
 ## Quality bar — self-check
@@ -118,7 +120,8 @@ tiktok-growth diagnoses and routes; these execute: `tiktok-script` · `hook-writ
 - `tiktok-script`, `hook-writer`, `caption-writer` — the content that earns completion + search.
 - `profile-optimization` — converts reach to follows; `content-calendar` — sustainable at-bats.
 - `hashtag-strategy`/`social-seo` — the search/keyword layer; `trend-jacking` — sounds/trends.
-- `viral-reverse-engineering` — read patterns across videos; `scheduling-and-queue` — publish.
+- `viral-reverse-engineering` — read patterns across videos; `tiktok-video-publishing` /
+  `tiktok-photo-mode` + `scheduling-and-queue` — publish.
 
 ## References
 

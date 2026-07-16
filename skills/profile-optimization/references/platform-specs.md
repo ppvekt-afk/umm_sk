@@ -12,10 +12,10 @@ don't paste one bio everywhere.
 - **Bio: 150 characters** (text only; name field, URL, category are separate).
 - **Name / display field: searchable and weighted heavily in Instagram search** — the field that
   makes you findable by *what you do*. Put a niche keyword here ("Jane Doe | SaaS Growth"). Tight
-  limit (~30 chars — verify); lead with the keyword. **This is the most-wasted field.**
+  limit (30 chars); lead with the keyword. **This is the most-wasted field.**
 - **Handle:** 30 chars; searchable; keep consistent across platforms.
-- **Link:** a clickable website field (separate from bio count); Instagram now supports **multiple
-  bio links** (verify) — or use a link hub. Match to the goal.
+- **Link:** Instagram supports **up to 5 native bio links** (order them; the first is most
+  visible) — or use a link hub. Match to the goal.
 - **Highlights:** evergreen categorized stories (Start here / Proof / Offer / FAQ).
 - **Pinned posts:** pin up to a few to the top of the grid.
 - **Category + action buttons** for business/creator accounts.
@@ -38,7 +38,11 @@ don't paste one bio everywhere.
   lines (truncated).
 - **Banner:** value prop / proof / CTA (most waste it).
 - **Featured:** pin best posts, a lead magnet, or a landing page.
-- **Priority move:** the headline keywords + a strong About opener + a Featured CTA.
+- **Custom profile link:** a clickable link with custom text shown right under your headline —
+  the old Creator Mode was retired (early 2024) and its features (this link, Follow-by-default,
+  newsletters) are now standard settings. Point it at the current goal.
+- **Priority move:** the headline keywords + a strong About opener + the custom link + a
+  Featured CTA.
 
 ## X / Twitter
 
@@ -54,7 +58,8 @@ don't paste one bio everywhere.
 
 ## Pinterest
 
-- **Keyword-rich name + bio** (Pinterest is a visual search engine); claimed website.
+- **Keyword-rich name + About (up to 500 chars, but only the first ~140 show by default —
+  front-load)**; Pinterest is a visual search engine; claimed website.
 - **Priority move:** keywords everywhere; boards as categories.
 
 ## Facebook (Page)
@@ -72,9 +77,9 @@ platform-native execution.
 
 | Platform | Bio limit | Searchable field to exploit | Link |
 |---|---|---|---|
-| Instagram | 150 | **name/display field** | website field / multi-link / hub |
+| Instagram | 150 | **name/display field** | up to 5 native links / hub |
 | TikTok | ~80 | name + bio niche | eligible/business accounts |
-| LinkedIn | headline ~220 / About ~2,600 | **headline** | Featured + About |
+| LinkedIn | headline ~220 / About ~2,600 | **headline** | custom profile link + Featured |
 | X/Twitter | ~160 | bio | pinned post + banner |
 | YouTube | description | description + keywords | banner + trailer |
-| Pinterest | ~160 | name + bio keywords | claimed site |
+| Pinterest | 500 (first ~140 show) | name + About keywords | claimed site |

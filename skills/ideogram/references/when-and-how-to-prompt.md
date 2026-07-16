@@ -6,8 +6,8 @@ is in `tools/integrations/ideogram.md`; this is prompt craft.)
 
 > Fast-moving area — re-verify model/specs quarterly. As of 2026: **Ideogram 4.0** (released June 3,
 > 2026) is current — a from-scratch 9.3B open-weight Diffusion Transformer with **structured JSON
-> prompting**, native **2K** output, and best-in-class in-image text. (This skill supersedes the
-> version-pinned `ideogram-3`.)
+> prompting**, native **2K** output, and best-in-class in-image text. (This skill covers both
+> generation prompt-craft and the app-editor workflow — see `app-editor-and-canvas.md`.)
 
 ## Reach for Ideogram when the job is…
 

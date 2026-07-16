@@ -40,7 +40,7 @@ input** — this skill makes it **land correctly and get found.**
   keywords + niche hashtags; long-tail; mirror in on-screen text.
 - **E — Engage-open settings:** `allowComment`/`allowDuet`/`allowStitch` **ON** for reach (restrict only
   for genuine brand-safety).
-- **A — Attract with the cover:** a legible title-card `cover` frame (stitched as the first frame) that
+- **A — Attract with the cover:** a legible title-card `cover` image (the video's cover/thumbnail) that
   wins the profile grid + search.
 - **C — Confirm disclosure:** `isBrandedContent`/`isYourBrand` **truthfully**, #ad up front; AI
   auto-disclosed on TikTok but **prohibited AI uses stay prohibited**; branded content can't be private.
@@ -58,7 +58,7 @@ reach-settings defaults, the full VIDEO publish-config block + worked examples:
 
 ## Honest scope (never violate)
 - **The agent configures the publish + writes the caption.** The **video FILE is filmed by a human or made
-  by the video skills** (`veo`/`runway`/`kling` + edited) — **WoopSocial doesn't film/edit/generate video.**
+  by the video skills** (`veo-3`/`luma`/`kling` + edited) — **WoopSocial doesn't film/edit/generate video.**
 - **WoopSocial publishes via `postType=VIDEO`** (raw-bytes upload) and **auto-discloses AI on TikTok.**
   **No update** → edit = delete + recreate (only while `NOT_STARTED`).
 - **Native/human:** **pinned comment + replies** (no comment surface) and **licensed trending sound** (use
@@ -74,11 +74,11 @@ other video formats · **caption-writer**/**hook-writer** = generic copy.
 
 ## Where this connects
 Reads first: **brand-profile**, **goals-and-kpis**, the **script/video** (**tiktok-script**). Content
-inputs (external to WoopSocial): **tiktok-script**, the **video** cluster (**veo**/**runway**/**kling**) +
-editing, **image-prompt**/**ideogram**/**imagen** (cover frame), **hook-writer**/**caption-writer**.
+inputs (external to WoopSocial): **tiktok-script**, the **video** cluster (**veo-3**/**luma**/**kling**) +
+editing, **image-prompt**/**ideogram**/**nano-banana** (cover frame), **hook-writer**/**caption-writer**.
 Publish: **scheduling-and-queue → WoopSocial** (`postType=VIDEO`), **platform-specs-and-validation**
 (validate + field rules), **content-calendar**. Engage/reuse/measure: **community-management** (pinned
-comment + replies), **content-recycling** (→ Reels/Shorts), **analytics-and-reporting**, **experimentation**
+comment + replies), **content-recycling** (→ Reels/Shorts), **analytics-and-reporting**, **experimentation-and-ab-testing**
 (A/B caption/cover). Filming/editing, trending sound, and comments stay external/native.
 
 ## Definition of done

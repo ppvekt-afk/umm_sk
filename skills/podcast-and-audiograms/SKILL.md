@@ -55,9 +55,10 @@ hosted elsewhere.
   episode stays on the host.
 
 ## The reality (verify-quarterly)
-55% of Americans listen monthly; **85% watch sound-off → captions non-optional.** Two formats: video-podcast
-clip (9:16, active-speaker reframe) + audiogram (cover art + animated waveform + captions) for audio-only;
-quote cards for a line. Pipeline: transcribe (Descript/Castmagic) → timestamp standout moments + retention
+55% of Americans listen monthly (Edison 2025); **85% watch sound-off → captions non-optional.** Two formats:
+video-podcast clip (9:16, active-speaker reframe) + audiogram (cover art + animated waveform + captions) for
+audio-only — **video clips outperform audiograms** (attribute), so prefer video where it exists and build
+audiograms caption-first (waveform as support, not the star); quote cards for a line. Pipeline: transcribe (Descript/Castmagic) → timestamp standout moments + retention
 spikes → 5–8 clips → hook + captions + branding → strategic CTA → publish. Tools: Opus Clip (virality score,
 reframe; not an editor — little creative control), Choppity (best conversational accuracy), Descript (the
 editor), Kapwing (free); audiograms: Headliner/Podsqueeze; written: Castmagic; design: Canva (→

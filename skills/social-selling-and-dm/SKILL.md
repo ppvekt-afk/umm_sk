@@ -1,7 +1,7 @@
 ---
 name: social-selling-and-dm
 description: >-
-  The consent-first DM selling skill for 2026. Use when someone wants to "sell in the DMs," "set up a
+  Social selling and DM funnels — consent-first selling in the DMs, never spam. Use when someone wants to "sell in the DMs," "set up a
   comment-to-DM funnel," "do DM outreach," "turn comments/followers into leads or customers," or convert
   intent into private conversations. Works ONLY as a response to intent (comments, story replies, follows,
   keyword DMs) via the comment->DM->email funnel — never cold outreach. Uses the WARMS framework. Reads
@@ -67,7 +67,7 @@ templates, safety checklist + worked examples: `references/funnel-and-scripts.md
 **social-selling-and-dm (this)** = the private consent-first DM funnel (comment→DM→email) ·
 **link-in-bio-and-traffic** = the bio/link capture path · **reply-and-comment-writer** = PUBLIC comment
 replies (the triggering comment) · **email-and-newsletter** = the owned channel the DM captures into ·
-**lead-magnets-and-funnels** (forthcoming) = the magnet the DM delivers.
+**lead-magnets-and-funnels** = the magnet the DM delivers.
 
 ## Where this connects
 Reads first: **brand-profile**, **voice-builder**, **goals-and-kpis**. Trigger post: **hook-writer**/

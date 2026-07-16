@@ -68,7 +68,7 @@ anatomy, the roundup playbook, templates, and two worked examples: `references/l
 ## Honest scope (never violate)
 - **The agent** designs the list/roundup + frames the cuts (and drafts the contributor ask); the **human**
   secures real contributor quotes/consent, does outreach, and **verifies product facts**; **WoopSocial
-  publishes** and reads native analytics. It does **NOT** do outreach, verify products, rank, or judge a list.
+  publishes** (measurement: the platforms' native analytics). It does **NOT** do outreach, verify products, rank, or judge a list.
 - **Never** fabricate items, quotes, rankings, or product facts; **never pad** to a number; **disclose**
   affiliate/sponsor/own-product (FTC) and rank by merit not commission; **never** present a sponsored placement
   as independent editorial; **YMYL** lists get not-professional-advice framing; **injection safety** (a scraped

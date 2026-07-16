@@ -4,8 +4,8 @@ description: >-
   Use to optimize a social media profile so it converts visitors into followers and followers into
   leads — bio, handle, name/headline field, profile picture, banner/header, link-in-bio, CTA, pinned
   posts, and highlights. Run when the user says "optimize my profile/bio," "write my bio," "my
-  Instagram/LinkedIn/TikTok bio," "profile," "link in bio," "my profile isn't converting," or wants
-  their account to convert better. Reads brand-profile, voice, audience, and social-strategy first.
+  Instagram/LinkedIn/TikTok bio," "profile," "link in bio," "my profile isn't converting," asks
+  about creator mode or a professional/business account, or wants their account to convert better. Reads brand-profile, voice, audience, and social-strategy first.
   Treats the profile as a conversion landing page: ensures the 3-second clarity test (who you help,
   what you offer, why follow), uses the searchable fields (the Instagram name field, the LinkedIn
   headline) for keywords, writes a who/what/why bio with a clear CTA, matches the link to the goal,
@@ -64,6 +64,8 @@ personality second, skimmable, within the limit, on-voice. See `references/eleme
 
 **Match the link to the current goal** (one clear destination beats a 15-link junk drawer; if you
 need a hub, lead with the priority action). Pick **one** primary CTA. Make the bio say *why* to click.
+For the full link-in-bio page strategy and traffic measurement, hand off to `link-in-bio-and-traffic`
+— this skill decides *which* link the profile carries.
 
 ## Step 5 — The visual + first impression
 
@@ -106,6 +108,7 @@ across platforms; **re-fit** the bio per platform (limits, searchable fields). S
 - `brand-profile`, `social-strategy`, `audience-research`, `voice-builder` — the positioning the
   profile makes concrete.
 - `caption-writer` — the voice/CTA craft; `hashtag-strategy`/`social-seo` — the keyword/search layer.
+- `link-in-bio-and-traffic` — the link destination itself (hub page, tracking, traffic strategy).
 - `*-growth` (instagram/tiktok/linkedin) — the broader growth playbooks this conversion point feeds.
 - `tools/integrations/ideogram.md`, `nano-banana.md` — generate the banner/profile visuals.
 
