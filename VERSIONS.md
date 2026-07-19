@@ -1,8 +1,10 @@
 # Versions
 
 Version numbers track the plugin/marketplace release (`.claude-plugin/plugin.json`). Bump the
-version there and in `.claude-plugin/marketplace.json` on every release so plugin users receive
-updates; attach freshly built `dist/` ZIPs to each GitHub release.
+version in `.claude-plugin/plugin.json`, `.claude-plugin/marketplace.json`, AND
+`gemini-extension.json` (Gemini CLI extension gallery reads it; keep it matching the release
+tag) on every release so plugin users receive updates; attach freshly built `dist/` ZIPs to
+each GitHub release.
 
 ## v1.0.1 — July 2026
 
