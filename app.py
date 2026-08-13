@@ -12,7 +12,7 @@ app = Flask(__name__)
 TOKEN = os.environ.get('TELEGRAM_TOKEN')
 OPENROUTER_API_KEY = os.environ.get('OPENROUTER_API_KEY')
 OPENROUTER_MODEL = os.environ.get('OPENROUTER_MODEL', 'openai/gpt-oss-120b:free')
-BOT_USERNAME = "iris_personalsmm_bot"
+BOT_USERNAME = "iris_personalsmm_bot"  # Проверьте точность
 
 USER_NAME = "Катя"
 NAME_VARIANTS = ['Катя', 'Кать', 'Екатерина', 'Катрин']
@@ -29,35 +29,19 @@ IRIS_PERSONALITY = """Ты Айрис — руководитель SMM-отде�
 Если нужно уточнить — задавай вопросы по одному. Всегда предлагай конкретные варианты."""
 
 def load_skill_for_query(user_text):
-    """Загружает подходящий навык из папки social-media-skills/skills."""
     skills_dir = "social-media-skills/skills"
     if not os.path.exists(skills_dir):
+        print("Папка с навыками не найдена")
         return None
-
-    # Сопоставление ключевых слов с навыками
     skill_keywords = {
-        "strategy": ["стратеги", "продвижени", "маркетинг", "стратег"],
-        "plan": ["план", "календар", "расписани", "планировани"],
-        "post": ["пост", "текст", "напиши", "создай пост"],
-        "hook": ["заголовок", "крючок", "привлек", "заинтересов"],
-        "repurpose": ["передел", "адаптир", "рерайт", "переформатир"],
-        "analyze": ["анализ", "метрик", "статистик", "отчет"],
-        "trends": ["тренд", "актуальн", "популярн", "новинк"],
-        "caption": ["подпись", "caption", "описани"],
-        "ai": ["нейросет", "ии", "ai", "чат"],
-        "video": ["видео", "ролик", "клип"],
-        "image": ["картинк", "изображени", "фото"],
-        "voice": ["голос", "озвучк", "аудио"],
-        "brand": ["бренд", "аудит", "узнаваемост"],
-        "campaign": ["кампани", "акци", "запуск"],
-        "canva": ["дизайн", "макет", "canva"],
-        "capcut": ["монтаж", "капкат", "редактир"],
-        "audience": ["аудитори", "целевой", "портрет"],
-        "batch": ["пакетн", "серийн", "массов"],
-        "before": ["до", "после", "трансформаци", "изменени"],
-        "behind": ["за кулис", "процесс", "истори"],
+        "strategy": ["стратеги", "продвижени", "маркетинг"],
+        "plan": ["план", "календар", "планировани"],
+        "post": ["пост", "текст", "напиши"],
+        "hook": ["заголовок", "крючок"],
+        "repurpose": ["передел", "адаптир", "рерайт"],
+        "analyze": ["анализ", "метрик", "статистик"],
+        "trends": ["тренд", "актуальн", "популярн"],
     }
-
     best_skill = None
     best_score = 0
     user_lower = user_text.lower()
@@ -66,10 +50,8 @@ def load_skill_for_query(user_text):
         if score > best_score:
             best_score = score
             best_skill = skill
-
     if not best_skill:
         return None
-
     for root, dirs, files in os.walk(skills_dir):
         for file in files:
             if file.endswith(".md") and best_skill in file.lower():
@@ -97,8 +79,9 @@ def format_text(text):
 def send_chat_action(chat_id, action):
     try:
         requests.post(f"https://api.telegram.org/bot{TOKEN}/sendChatAction", json={"chat_id": chat_id, "action": action}, timeout=5)
-    except:
-        pass
+        print(f"send_chat_action OK for {chat_id}")
+    except Exception as e:
+        print(f"send_chat_action error: {e}")
 
 def send_message(chat_id, text, reply_to_message_id=None):
     url = f"https://api.telegram.org/bot{TOKEN}/sendMessage"
@@ -106,7 +89,12 @@ def send_message(chat_id, text, reply_to_message_id=None):
     payload = {"chat_id": chat_id, "text": formatted[:4096], "parse_mode": ""}
     if reply_to_message_id:
         payload["reply_to_message_id"] = reply_to_message_id
-    requests.post(url, json=payload, timeout=10)
+    try:
+        resp = requests.post(url, json=payload, timeout=10)
+        print(f"send_message status: {resp.status_code}")
+        return resp
+    except Exception as e:
+        print(f"send_message error: {e}")
 
 def send_task_to_masha(task_description):
     masha_mentions = ["Маша", "Машенька", "Машуля", "@editorinchief_masha_bot"]
@@ -163,7 +151,7 @@ def generate_llm_response(prompt, system_prompt=None, temperature=0.85, max_toke
             raw = data['choices'][0]['message']['content']
             return re.sub(r'[*_`#]', '', raw).strip()
         else:
-            return f"Ошибка API ({resp.status_code}). Попробуй позже."
+            return f"Ошибка API ({resp.status_code})."
     except Exception as e:
         print(f"LLM error: {e}")
         return "Ошибка связи. Напиши ещё раз."
@@ -189,20 +177,25 @@ def handle_start(chat_id, message_id):
 
 def process_update(update):
     try:
+        print("=== process_update called ===")
         if 'message' not in update:
+            print("No message in update")
             return
         msg = update['message']
         chat_id = msg['chat']['id']
         user_id = msg['from']['id']
         user_text = msg.get('text', '')
         chat_type = msg['chat']['type']
+        print(f"Message from {user_id} in {chat_type} chat: {user_text[:50] if user_text else ''}")
         reply_to_bot_name = None
         if 'reply_to_message' in msg and msg['reply_to_message']:
             reply_to = msg['reply_to_message']
             if 'from' in reply_to and reply_to['from'].get('is_bot', False):
                 reply_to_bot_name = reply_to['from'].get('username')
         if not is_addressed_to_me(chat_type, user_text, reply_to_bot_name):
+            print("Not addressed to me, ignoring")
             return
+        print("Addressed to me, processing...")
         user_text_clean = re.sub(f"@{BOT_USERNAME}", "", user_text, flags=re.IGNORECASE)
         names = ['айрис', 'айриска', 'iris', 'риса', 'айра', 'ая', 'ирис', 'айрис-директор']
         for name in names:
@@ -218,23 +211,23 @@ def process_update(update):
         if lower_text == '/help':
             send_message(chat_id, "Просто напиши, что нужно сделать. Я подберу подходящий навык.", msg.get('message_id'))
             return
-        
         send_chat_action(chat_id, "typing")
         skill_content = load_skill_for_query(user_text_clean)
         if skill_content:
-            prompt = f"{skill_content}\n\nПожалуйста, выполни задачу пользователя, используя этот навык.\nЗапрос пользователя: {user_text_clean}"
+            prompt = f"{skill_content}\n\nЗапрос: {user_text_clean}"
         else:
-            prompt = f"Пожалуйста, помоги с задачей пользователя, используя свои знания SMM.\nЗапрос: {user_text_clean}"
-        
+            prompt = f"Помоги с SMM-задачей:\n{user_text_clean}"
         name_to_use = should_use_name(user_id)
         history = get_history(user_id)
         history_text = "\n".join([f"{h['role']}: {h['content']}" for h in history[-10:]]) if history else ""
-        system_prompt = f"{IRIS_PERSONALITY}\nПользователя зовут {USER_NAME}. {'Обратись к ней: ' + name_to_use if name_to_use else 'Не используй имя.'}\nИстория диалога:\n{history_text}"
+        system_prompt = f"{IRIS_PERSONALITY}\nПользователя зовут {USER_NAME}. {'Обратись к ней: ' + name_to_use if name_to_use else 'Не используй имя.'}\nИстория:\n{history_text}"
         response = generate_llm_response(prompt, system_prompt, temperature=0.85, max_tokens=1500)
         update_history(user_id, user_text_clean, response)
         send_message(chat_id, response, msg.get('message_id'))
     except Exception as e:
         print(f"Ошибка обработки: {e}")
+        import traceback
+        traceback.print_exc()
 
 @app.route('/webhook', methods=['POST'])
 def webhook():
